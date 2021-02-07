@@ -1,0 +1,1181 @@
+"countries"	"country codes"	"item"	"item codes"	"element"	"element codes"	2000	2010
+"Afghanistan"	2	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"3481.00"
+"Afghanistan"	2	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Afghanistan"	2	"Fallow land"	6640	"Area (1000 Ha)"	5110		"4311.00"
+"Afghanistan"	2	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"70.00"	"118.00"
+"Afghanistan"	2	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"30000.00"	"30000.00"
+"Albania"	3	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"202.00"
+"Albania"	3	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"202.00"
+"Albania"	3	"Fallow land"	6640	"Area (1000 Ha)"	5110		"222.00"
+"Albania"	3	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"121.00"	"70.00"
+"Albania"	3	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"445.00"	"505.30"
+"Algeria"	4	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4226.00"
+"Algeria"	4	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Algeria"	4	"Fallow land"	6640	"Area (1000 Ha)"	5110		"3276.00"
+"Algeria"	4	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"530.00"	"908.00"
+"Algeria"	4	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"31829.00"	"32963.00"
+"American Samoa"	5	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"American Samoa"	5	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"American Samoa"	5	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"American Samoa"	5	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.30"	"1.90"
+"American Samoa"	5	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Andorra"	6	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"2.00"
+"Andorra"	6	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Andorra"	6	"Fallow land"	6640	"Area (1000 Ha)"	5110		"0.50"
+"Andorra"	6	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Andorra"	6	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"16.50"	"17.60"
+"Angola"	7	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Angola"	7	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Angola"	7	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Angola"	7	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"300.00"	"290.00"
+"Angola"	7	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"54000.00"	"54000.00"
+"Anguilla"	258	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Anguilla"	258	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Anguilla"	258	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Anguilla"	258	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Anguilla"	258	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Antigua and Barbuda"	8	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Antigua and Barbuda"	8	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Antigua and Barbuda"	8	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Antigua and Barbuda"	8	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Antigua and Barbuda"	8	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"Argentina"	9	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"29817.00"
+"Argentina"	9	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"4400.00"
+"Argentina"	9	"Fallow land"	6640	"Area (1000 Ha)"	5110		"3000.00"
+"Argentina"	9	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1000.00"	"1000.00"
+"Argentina"	9	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"99870.00"	"108500.00"
+"Armenia"	1	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"302.70"
+"Armenia"	1	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Armenia"	1	"Fallow land"	6640	"Area (1000 Ha)"	5110		"145.80"
+"Armenia"	1	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"38.00"	"55.10"
+"Armenia"	1	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"835.00"	"1231.40"
+"Aruba"	22	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Aruba"	22	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Aruba"	22	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Aruba"	22	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Aruba"	22	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Australia"	10	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"25968.00"
+"Australia"	10	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Australia"	10	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Australia"	10	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"296.00"	"400.00"
+"Australia"	10	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"407900.00"	"355612.00"
+"Austria"	11	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1267.00"
+"Austria"	11	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"59.00"
+"Austria"	11	"Fallow land"	6640	"Area (1000 Ha)"	5110		"42.00"
+"Austria"	11	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"71.00"	"66.00"
+"Austria"	11	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1920.00"	"1731.00"
+"Azerbaijan"	52	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1842.70"
+"Azerbaijan"	52	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Azerbaijan"	52	"Fallow land"	6640	"Area (1000 Ha)"	5110		"41.40"
+"Azerbaijan"	52	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"236.80"	"227.40"
+"Azerbaijan"	52	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2678.00"	"2655.30"
+"Bahamas"	12	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Bahamas"	12	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bahamas"	12	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Bahamas"	12	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"Bahamas"	12	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Bahrain"	13	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Bahrain"	13	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bahrain"	13	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Bahrain"	13	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.20"	"3.00"
+"Bahrain"	13	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"Bangladesh"	16	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Bangladesh"	16	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bangladesh"	16	"Fallow land"	6640	"Area (1000 Ha)"	5110		"531.00"
+"Bangladesh"	16	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"450.00"	"900.00"
+"Bangladesh"	16	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"600.00"	"600.00"
+"Barbados"	14	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Barbados"	14	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Barbados"	14	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Barbados"	14	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Barbados"	14	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Belarus"	57	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Belarus"	57	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Belarus"	57	"Fallow land"	6640	"Area (1000 Ha)"	5110		"24.00"
+"Belarus"	57	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"124.00"	"122.00"
+"Belarus"	57	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2995.00"	"3241.00"
+"Belgium"	255	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"747.00"
+"Belgium"	255	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"79.00"
+"Belgium"	255	"Fallow land"	6640	"Area (1000 Ha)"	5110		"10.00"
+"Belgium"	255	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"21.00"	"22.00"
+"Belgium"	255	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"507.00"	"500.00"
+"Belgium-Luxembourg"	15	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Belgium-Luxembourg"	15	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Belgium-Luxembourg"	15	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Belgium-Luxembourg"	15	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Belgium-Luxembourg"	15	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Belize"	23	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Belize"	23	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Belize"	23	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Belize"	23	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"35.00"	"32.00"
+"Belize"	23	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"50.00"	"50.00"
+"Benin"	53	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Benin"	53	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Benin"	53	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Benin"	53	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"265.00"	"300.00"
+"Benin"	53	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"550.00"	"550.00"
+"Bermuda"	17	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Bermuda"	17	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bermuda"	17	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Bermuda"	17	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Bermuda"	17	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Bhutan"	18	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Bhutan"	18	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bhutan"	18	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Bhutan"	18	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"19.00"	"17.30"
+"Bhutan"	18	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"405.00"	"407.00"
+"Bolivia (Plurinational State of)"	19	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Bolivia (Plurinational State of)"	19	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bolivia (Plurinational State of)"	19	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Bolivia (Plurinational State of)"	19	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"168.00"	"219.00"
+"Bolivia (Plurinational State of)"	19	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"33831.00"	"33000.00"
+"Bosnia and Herzegovina"	80	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"512.00"
+"Bosnia and Herzegovina"	80	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Bosnia and Herzegovina"	80	"Fallow land"	6640	"Area (1000 Ha)"	5110		"492.00"
+"Bosnia and Herzegovina"	80	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"100.00"	"105.00"
+"Bosnia and Herzegovina"	80	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1030.00"	"1035.00"
+"Botswana"	20	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"243.00"
+"Botswana"	20	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Botswana"	20	"Fallow land"	6640	"Area (1000 Ha)"	5110		"16.00"
+"Botswana"	20	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"2.00"
+"Botswana"	20	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"25600.00"	"25600.00"
+"Brazil"	21	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Brazil"	21	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Brazil"	21	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Brazil"	21	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"7423.60"	"7100.00"
+"Brazil"	21	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"196206.00"	"196000.00"
+"British Virgin Islands"	239	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"British Virgin Islands"	239	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"British Virgin Islands"	239	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"British Virgin Islands"	239	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"British Virgin Islands"	239	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5.00"	"5.00"
+"Brunei Darussalam"	26	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Brunei Darussalam"	26	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Brunei Darussalam"	26	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Brunei Darussalam"	26	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"5.00"
+"Brunei Darussalam"	26	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"3.40"
+"Bulgaria"	27	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"2886.00"
+"Bulgaria"	27	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"89.00"
+"Bulgaria"	27	"Fallow land"	6640	"Area (1000 Ha)"	5110		"208.00"
+"Bulgaria"	27	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"252.00"	"167.00"
+"Bulgaria"	27	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1804.00"	"1702.00"
+"Burkina Faso"	233	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Burkina Faso"	233	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Burkina Faso"	233	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Burkina Faso"	233	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"60.00"	"65.00"
+"Burkina Faso"	233	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"6000.00"	"6000.00"
+"Burundi"	29	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Burundi"	29	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Burundi"	29	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Burundi"	29	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"360.00"	"400.00"
+"Burundi"	29	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"950.00"	"900.00"
+"Cambodia"	115	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Cambodia"	115	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cambodia"	115	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Cambodia"	115	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"140.00"	"155.00"
+"Cambodia"	115	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"930.00"	"1500.00"
+"Cameroon"	32	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Cameroon"	32	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cameroon"	32	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Cameroon"	32	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1200.00"	"1400.00"
+"Cameroon"	32	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2000.00"	"2000.00"
+"Canada"	33	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Canada"	33	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Canada"	33	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Canada"	33	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"6368.00"	"5021.00"
+"Canada"	33	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"15435.00"	"14850.60"
+"Cape Verde"	35	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Cape Verde"	35	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cape Verde"	35	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Cape Verde"	35	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.00"	"3.00"
+"Cape Verde"	35	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"25.00"	"25.00"
+"Cayman Islands"	36	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Cayman Islands"	36	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cayman Islands"	36	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Cayman Islands"	36	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"0.50"	"0.50"
+"Cayman Islands"	36	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Central African Republic"	37	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Central African Republic"	37	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Central African Republic"	37	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Central African Republic"	37	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"94.00"	"80.00"
+"Central African Republic"	37	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"3125.00"	"3200.00"
+"Chad"	39	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Chad"	39	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Chad"	39	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Chad"	39	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"30.00"	"32.00"
+"Chad"	39	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"45000.00"	"45000.00"
+"Channel Islands"	259	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Channel Islands"	259	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Channel Islands"	259	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Channel Islands"	259	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Channel Islands"	259	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"4.80"
+"Chile"	40	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Chile"	40	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Chile"	40	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Chile"	40	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"360.00"	"457.00"
+"Chile"	40	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"13000.00"	"14015.00"
+"China"	351	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"China"	351	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"China"	351	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"China"	351	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"11231.00"	"14616.00"
+"China"	351	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"392834.00"	"392833.70"
+"Colombia"	44	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1652.00"
+"Colombia"	44	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Colombia"	44	"Fallow land"	6640	"Area (1000 Ha)"	5110		"112.00"
+"Colombia"	44	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1727.00"	"1589.00"
+"Colombia"	44	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"40314.00"	"39150.00"
+"Comoros"	45	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Comoros"	45	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Comoros"	45	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Comoros"	45	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"50.00"	"58.00"
+"Comoros"	45	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"15.00"	"15.00"
+"Congo"	46	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Congo"	46	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Congo"	46	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Congo"	46	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"50.00"	"60.00"
+"Congo"	46	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"10000.00"	"10000.00"
+"Cook Islands"	47	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Cook Islands"	47	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cook Islands"	47	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Cook Islands"	47	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.00"	"1.00"
+"Cook Islands"	47	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Costa Rica"	48	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Costa Rica"	48	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Costa Rica"	48	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Costa Rica"	48	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"280.00"	"330.00"
+"Costa Rica"	48	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1350.00"	"1300.00"
+"Côte d'Ivoire"	107	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Côte d'Ivoire"	107	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Côte d'Ivoire"	107	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Côte d'Ivoire"	107	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3800.00"	"4400.00"
+"Côte d'Ivoire"	107	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"13000.00"	"13200.00"
+"Croatia"	98	"Temporary crops"	6630	"Area (1000 Ha)"	5110	"129.00"	"852.40"
+"Croatia"	98	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"40.00"
+"Croatia"	98	"Fallow land"	6640	"Area (1000 Ha)"	5110		"12.00"
+"Croatia"	98	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"69.00"	"84.00"
+"Croatia"	98	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"258.00"	"345.40"
+"Cuba"	49	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Cuba"	49	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cuba"	49	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Cuba"	49	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"550.00"	"390.00"
+"Cuba"	49	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2500.00"	"2630.00"
+"Cyprus"	50	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"72.60"
+"Cyprus"	50	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Cyprus"	50	"Fallow land"	6640	"Area (1000 Ha)"	5110		"9.50"
+"Cyprus"	50	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"42.00"	"29.90"
+"Cyprus"	50	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Czech Republic"	167	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Czech Republic"	167	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Czech Republic"	167	"Fallow land"	6640	"Area (1000 Ha)"	5110		"45.00"
+"Czech Republic"	167	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"76.00"	"77.00"
+"Czech Republic"	167	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"961.00"	"986.00"
+"Czechoslovakia"	51	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Czechoslovakia"	51	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Czechoslovakia"	51	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Czechoslovakia"	51	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Czechoslovakia"	51	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Democratic People's Republic of Korea"	116	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Democratic People's Republic of Korea"	116	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Democratic People's Republic of Korea"	116	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Democratic People's Republic of Korea"	116	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"200.00"	"205.00"
+"Democratic People's Republic of Korea"	116	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"50.00"	"50.00"
+"Democratic Republic of the Congo"	250	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Democratic Republic of the Congo"	250	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Democratic Republic of the Congo"	250	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Democratic Republic of the Congo"	250	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"800.00"	"760.00"
+"Democratic Republic of the Congo"	250	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"18100.00"	"18200.00"
+"Denmark"	54	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1824.00"
+"Denmark"	54	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"562.00"
+"Denmark"	54	"Fallow land"	6640	"Area (1000 Ha)"	5110		"35.00"
+"Denmark"	54	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"8.00"	"5.00"
+"Denmark"	54	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"358.00"	"200.00"
+"Djibouti"	72	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Djibouti"	72	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Djibouti"	72	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Djibouti"	72	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Djibouti"	72	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1600.00"	"1700.00"
+"Dominica"	55	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Dominica"	55	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Dominica"	55	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Dominica"	55	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"14.00"	"18.00"
+"Dominica"	55	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Dominican Republic"	56	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Dominican Republic"	56	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Dominican Republic"	56	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Dominican Republic"	56	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"450.00"	"450.00"
+"Dominican Republic"	56	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1197.00"	"1197.00"
+"Ecuador"	58	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"992.40"
+"Ecuador"	58	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Ecuador"	58	"Fallow land"	6640	"Area (1000 Ha)"	5110		"194.00"
+"Ecuador"	58	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1363.00"	"1391.40"
+"Ecuador"	58	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5087.00"	"4919.90"
+"Egypt"	59	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Egypt"	59	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Egypt"	59	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Egypt"	59	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"490.00"	"798.00"
+"Egypt"	59	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"El Salvador"	60	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"392.34"
+"El Salvador"	60	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"210.00"
+"El Salvador"	60	"Fallow land"	6640	"Area (1000 Ha)"	5110		"60.00"
+"El Salvador"	60	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"250.00"	"230.00"
+"El Salvador"	60	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"600.00"	"637.00"
+"Equatorial Guinea"	61	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Equatorial Guinea"	61	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Equatorial Guinea"	61	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Equatorial Guinea"	61	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"100.00"	"70.00"
+"Equatorial Guinea"	61	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"104.00"	"104.00"
+"Eritrea"	178	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Eritrea"	178	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Eritrea"	178	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Eritrea"	178	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.00"	"2.00"
+"Eritrea"	178	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"6967.00"	"6900.00"
+"Estonia"	63	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"404.00"
+"Estonia"	63	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"199.00"
+"Estonia"	63	"Fallow land"	6640	"Area (1000 Ha)"	5110		"42.00"
+"Estonia"	63	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"12.00"	"7.00"
+"Estonia"	63	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"131.00"	"297.00"
+"Ethiopia"	238	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"11917.00"
+"Ethiopia"	238	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"1396.00"
+"Ethiopia"	238	"Fallow land"	6640	"Area (1000 Ha)"	5110		"635.00"
+"Ethiopia"	238	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"662.00"	"1037.00"
+"Ethiopia"	238	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"20000.00"	"20000.00"
+"Ethiopia PDR"	62	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Ethiopia PDR"	62	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Ethiopia PDR"	62	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Ethiopia PDR"	62	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Ethiopia PDR"	62	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Falkland Islands (Malvinas)"	65	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Falkland Islands (Malvinas)"	65	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Falkland Islands (Malvinas)"	65	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Falkland Islands (Malvinas)"	65	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Falkland Islands (Malvinas)"	65	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1130.00"	"1143.50"
+"Faroe Islands"	64	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Faroe Islands"	64	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Faroe Islands"	64	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Faroe Islands"	64	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Faroe Islands"	64	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Fiji"	66	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Fiji"	66	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Fiji"	66	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Fiji"	66	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"83.00"	"85.00"
+"Fiji"	66	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"175.00"	"175.00"
+"Finland"	67	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1287.00"
+"Finland"	67	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"659.00"
+"Finland"	67	"Fallow land"	6640	"Area (1000 Ha)"	5110		"307.00"
+"Finland"	67	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"9.00"	"5.00"
+"Finland"	67	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"26.00"	"33.00"
+"France"	68	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"14493.00"
+"France"	68	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"3232.00"
+"France"	68	"Fallow land"	6640	"Area (1000 Ha)"	5110		"645.00"
+"France"	68	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1142.00"	"1029.00"
+"France"	68	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"10124.00"	"9748.00"
+"French Guiana"	69	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"French Guiana"	69	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"French Guiana"	69	"Fallow land"	6640	"Area (1000 Ha)"	5110		"0.50"
+"French Guiana"	69	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"French Guiana"	69	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"7.00"	"7.50"
+"French Polynesia"	70	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"French Polynesia"	70	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"French Polynesia"	70	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"French Polynesia"	70	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"20.00"	"22.00"
+"French Polynesia"	70	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"20.00"	"20.00"
+"Gabon"	74	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Gabon"	74	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Gabon"	74	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Gabon"	74	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"170.00"	"170.00"
+"Gabon"	74	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4665.00"	"4665.00"
+"Gambia"	75	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Gambia"	75	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Gambia"	75	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Gambia"	75	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"5.00"	"5.00"
+"Gambia"	75	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"267.00"	"160.00"
+"Georgia"	73	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"275.00"
+"Georgia"	73	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"8.50"
+"Georgia"	73	"Fallow land"	6640	"Area (1000 Ha)"	5110		"130.00"
+"Georgia"	73	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"269.00"	"115.00"
+"Georgia"	73	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1938.00"	"1940.00"
+"Germany"	79	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"9023.00"
+"Germany"	79	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"2571.00"
+"Germany"	79	"Fallow land"	6640	"Area (1000 Ha)"	5110		"252.00"
+"Germany"	79	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"216.00"	"199.00"
+"Germany"	79	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5048.00"	"4655.00"
+"Ghana"	81	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Ghana"	81	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Ghana"	81	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Ghana"	81	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2150.00"	"2800.00"
+"Ghana"	81	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"8330.00"	"8300.00"
+"Gibraltar"	82	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Gibraltar"	82	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Gibraltar"	82	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Gibraltar"	82	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Gibraltar"	82	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Greece"	84	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Greece"	84	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Greece"	84	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Greece"	84	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1113.00"	"1152.00"
+"Greece"	84	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4675.00"	"4500.00"
+"Greenland"	85	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Greenland"	85	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Greenland"	85	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Greenland"	85	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Greenland"	85	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"235.00"	"235.00"
+"Grenada"	86	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Grenada"	86	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Grenada"	86	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Grenada"	86	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"10.00"	"7.00"
+"Grenada"	86	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Guadeloupe"	87	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Guadeloupe"	87	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Guadeloupe"	87	"Fallow land"	6640	"Area (1000 Ha)"	5110		"2.60"
+"Guadeloupe"	87	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"6.00"	"3.70"
+"Guadeloupe"	87	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"24.00"	"19.10"
+"Guam"	88	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Guam"	88	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Guam"	88	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Guam"	88	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"10.00"	"9.00"
+"Guam"	88	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"8.00"	"8.00"
+"Guatemala"	89	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Guatemala"	89	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Guatemala"	89	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Guatemala"	89	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"570.00"	"945.00"
+"Guatemala"	89	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2500.00"	"1950.00"
+"Guinea"	90	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Guinea"	90	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Guinea"	90	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Guinea"	90	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"640.00"	"690.00"
+"Guinea"	90	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"10700.00"	"10700.00"
+"Guinea-Bissau"	175	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Guinea-Bissau"	175	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Guinea-Bissau"	175	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Guinea-Bissau"	175	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"248.00"	"250.00"
+"Guinea-Bissau"	175	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1080.00"	"1080.00"
+"Guyana"	91	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Guyana"	91	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Guyana"	91	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Guyana"	91	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"28.00"	"27.00"
+"Guyana"	91	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1230.00"	"1230.00"
+"Haiti"	93	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Haiti"	93	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Haiti"	93	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Haiti"	93	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"300.00"	"280.00"
+"Haiti"	93	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"490.00"	"490.00"
+"Honduras"	95	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Honduras"	95	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Honduras"	95	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Honduras"	95	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"359.00"	"440.00"
+"Honduras"	95	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1508.00"	"1760.00"
+"Hungary"	97	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4134.30"
+"Hungary"	97	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"17.40"
+"Hungary"	97	"Fallow land"	6640	"Area (1000 Ha)"	5110		"240.30"
+"Hungary"	97	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"201.00"	"188.00"
+"Hungary"	97	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1051.00"	"763.00"
+"Iceland"	99	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"8.00"
+"Iceland"	99	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"114.00"
+"Iceland"	99	"Fallow land"	6640	"Area (1000 Ha)"	5110		"1.00"
+"Iceland"	99	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Iceland"	99	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1760.00"	"1468.00"
+"India"	100	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"India"	100	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"India"	100	"Fallow land"	6640	"Area (1000 Ha)"	5110		"26237.00"
+"India"	100	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"9200.00"	"12100.00"
+"India"	100	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"10656.00"	"10149.00"
+"Indonesia"	101	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Indonesia"	101	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Indonesia"	101	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Indonesia"	101	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"14000.00"	"20000.00"
+"Indonesia"	101	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"11177.00"	"11000.00"
+"Iran (Islamic Republic of)"	102	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"12976.00"
+"Iran (Islamic Republic of)"	102	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Iran (Islamic Republic of)"	102	"Fallow land"	6640	"Area (1000 Ha)"	5110		"4397.00"
+"Iran (Islamic Republic of)"	102	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1360.00"	"1839.00"
+"Iran (Islamic Republic of)"	102	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"46600.00"	"29524.00"
+"Iraq"	103	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Iraq"	103	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Iraq"	103	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Iraq"	103	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"200.00"	"210.00"
+"Iraq"	103	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4000.00"	"4000.00"
+"Ireland"	104	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"352.00"
+"Ireland"	104	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"659.00"
+"Ireland"	104	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Ireland"	104	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Ireland"	104	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"3333.00"	"3555.00"
+"Isle of Man"	264	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4.98"
+"Isle of Man"	264	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"20.40"
+"Isle of Man"	264	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Isle of Man"	264	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Isle of Man"	264	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"25.70"	"18.00"
+"Israel"	105	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"212.50"
+"Israel"	105	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Israel"	105	"Fallow land"	6640	"Area (1000 Ha)"	5110		"90.00"
+"Israel"	105	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"86.00"	"81.30"
+"Israel"	105	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"142.00"	"133.60"
+"Italy"	106	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4543.00"
+"Italy"	106	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"1946.00"
+"Italy"	106	"Fallow land"	6640	"Area (1000 Ha)"	5110		"548.00"
+"Italy"	106	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2805.00"	"2587.80"
+"Italy"	106	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4353.00"	"4698.00"
+"Jamaica"	109	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Jamaica"	109	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Jamaica"	109	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Jamaica"	109	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"110.00"	"100.00"
+"Jamaica"	109	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"229.00"	"229.00"
+"Japan"	110	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"3665.00"
+"Japan"	110	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"617.00"
+"Japan"	110	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Japan"	110	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"356.00"	"311.00"
+"Japan"	110	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"428.00"	
+"Jordan"	112	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"134.00"
+"Jordan"	112	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Jordan"	112	"Fallow land"	6640	"Area (1000 Ha)"	5110		"43.60"
+"Jordan"	112	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"88.00"	"82.70"
+"Jordan"	112	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"791.00"	"742.00"
+"Kazakhstan"	108	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Kazakhstan"	108	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Kazakhstan"	108	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Kazakhstan"	108	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"136.00"	"80.00"
+"Kazakhstan"	108	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"185098.00"	"185000.00"
+"Kenya"	114	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Kenya"	114	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Kenya"	114	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Kenya"	114	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"480.00"	"650.00"
+"Kenya"	114	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"21300.00"	"21300.00"
+"Kiribati"	83	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Kiribati"	83	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Kiribati"	83	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Kiribati"	83	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"32.00"	"32.00"
+"Kiribati"	83	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Kuwait"	118	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Kuwait"	118	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Kuwait"	118	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Kuwait"	118	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.00"	"5.00"
+"Kuwait"	118	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"136.00"	"136.00"
+"Kyrgyzstan"	113	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Kyrgyzstan"	113	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Kyrgyzstan"	113	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Kyrgyzstan"	113	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"67.00"	"74.20"
+"Kyrgyzstan"	113	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"9291.00"	"9261.50"
+"Lao People's Democratic Republic"	120	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Lao People's Democratic Republic"	120	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Lao People's Democratic Republic"	120	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Lao People's Democratic Republic"	120	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"81.00"	"100.00"
+"Lao People's Democratic Republic"	120	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"878.00"	"878.00"
+"Latvia"	119	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Latvia"	119	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Latvia"	119	"Fallow land"	6640	"Area (1000 Ha)"	5110		"70.00"
+"Latvia"	119	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"12.00"	"7.00"
+"Latvia"	119	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"606.00"	"625.00"
+"Lebanon"	121	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"102.00"
+"Lebanon"	121	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Lebanon"	121	"Fallow land"	6640	"Area (1000 Ha)"	5110		"12.00"
+"Lebanon"	121	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"141.00"	"126.00"
+"Lebanon"	121	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"325.00"	"400.00"
+"Lesotho"	122	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"244.00"
+"Lesotho"	122	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Lesotho"	122	"Fallow land"	6640	"Area (1000 Ha)"	5110		"78.00"
+"Lesotho"	122	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"Lesotho"	122	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2000.00"	"2000.00"
+"Liberia"	123	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Liberia"	123	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Liberia"	123	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Liberia"	123	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"210.00"	"180.00"
+"Liberia"	123	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2000.00"	"2000.00"
+"Libya"	124	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Libya"	124	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Libya"	124	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Libya"	124	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"335.00"	"335.00"
+"Libya"	124	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"13300.00"	"13500.00"
+"Liechtenstein"	125	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Liechtenstein"	125	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Liechtenstein"	125	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Liechtenstein"	125	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Liechtenstein"	125	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"3.00"	"3.00"
+"Lithuania"	126	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1471.90"
+"Lithuania"	126	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"536.00"
+"Lithuania"	126	"Fallow land"	6640	"Area (1000 Ha)"	5110		"119.50"
+"Lithuania"	126	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"43.00"	"30.70"
+"Lithuania"	126	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"497.00"	"614.20"
+"Luxembourg"	256	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Luxembourg"	256	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Luxembourg"	256	"Fallow land"	6640	"Area (1000 Ha)"	5110		"0.13"
+"Luxembourg"	256	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.50"
+"Luxembourg"	256	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"65.00"	"67.59"
+"Madagascar"	129	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Madagascar"	129	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Madagascar"	129	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Madagascar"	129	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"600.00"	"600.00"
+"Madagascar"	129	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"37000.00"	"37295.00"
+"Malawi"	130	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Malawi"	130	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Malawi"	130	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Malawi"	130	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"120.00"	"130.00"
+"Malawi"	130	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1850.00"	"1850.00"
+"Malaysia"	131	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Malaysia"	131	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Malaysia"	131	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Malaysia"	131	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"5785.00"	"5785.00"
+"Malaysia"	131	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"285.00"	"285.00"
+"Maldives"	132	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Maldives"	132	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Maldives"	132	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Maldives"	132	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"5.00"	"3.00"
+"Maldives"	132	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Mali"	133	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4900.00"
+"Mali"	133	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"361.00"
+"Mali"	133	"Fallow land"	6640	"Area (1000 Ha)"	5110		"1000.00"
+"Mali"	133	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"85.00"	"120.00"
+"Mali"	133	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"34000.00"	"34640.00"
+"Malta"	134	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"8.00"
+"Malta"	134	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Malta"	134	"Fallow land"	6640	"Area (1000 Ha)"	5110		"1.00"
+"Malta"	134	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.30"
+"Malta"	134	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Marshall Islands"	127	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Marshall Islands"	127	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Marshall Islands"	127	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Marshall Islands"	127	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"8.00"	"8.00"
+"Marshall Islands"	127	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"3.00"
+"Martinique"	135	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Martinique"	135	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Martinique"	135	"Fallow land"	6640	"Area (1000 Ha)"	5110		"2.20"
+"Martinique"	135	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"10.00"	"7.70"
+"Martinique"	135	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"12.00"	"10.60"
+"Mauritania"	136	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Mauritania"	136	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Mauritania"	136	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Mauritania"	136	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"12.00"	"11.00"
+"Mauritania"	136	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"39250.00"	"39250.00"
+"Mauritius"	137	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Mauritius"	137	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Mauritius"	137	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Mauritius"	137	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"Mauritius"	137	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"7.00"	"7.00"
+"Mayotte"	270	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"3.70"
+"Mayotte"	270	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Mayotte"	270	"Fallow land"	6640	"Area (1000 Ha)"	5110		"5.00"
+"Mayotte"	270	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"12.50"	"3.40"
+"Mayotte"	270	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Mexico"	138	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Mexico"	138	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Mexico"	138	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Mexico"	138	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2300.00"	"2675.36"
+"Mexico"	138	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"78400.00"	"75000.00"
+"Micronesia (Federated States of)"	145	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Micronesia (Federated States of)"	145	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Micronesia (Federated States of)"	145	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Micronesia (Federated States of)"	145	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"17.00"	"17.00"
+"Micronesia (Federated States of)"	145	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"3.00"	"3.00"
+"Mongolia"	141	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Mongolia"	141	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Mongolia"	141	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Mongolia"	141	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Mongolia"	141	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"129294.00"	"112971.00"
+"Montenegro"	273	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"31.00"
+"Montenegro"	273	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"127.00"
+"Montenegro"	273	"Fallow land"	6640	"Area (1000 Ha)"	5110		"14.00"
+"Montenegro"	273	"Permanent crops"	6650	"Area (1000 Ha)"	5110		"16.00"
+"Montenegro"	273	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		"324.00"
+"Montserrat"	142	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Montserrat"	142	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Montserrat"	142	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Montserrat"	142	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Montserrat"	142	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Morocco"	143	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Morocco"	143	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Morocco"	143	"Fallow land"	6640	"Area (1000 Ha)"	5110		"2023.00"
+"Morocco"	143	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"885.00"	"1158.70"
+"Morocco"	143	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"21000.00"	"21000.00"
+"Mozambique"	144	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Mozambique"	144	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Mozambique"	144	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Mozambique"	144	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"250.00"	"200.00"
+"Mozambique"	144	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"44000.00"	"44000.00"
+"Myanmar"	28	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"10570.00"
+"Myanmar"	28	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Myanmar"	28	"Fallow land"	6640	"Area (1000 Ha)"	5110		"241.00"
+"Myanmar"	28	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"589.00"	"1406.00"
+"Myanmar"	28	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"314.00"	"309.00"
+"Namibia"	147	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Namibia"	147	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Namibia"	147	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Namibia"	147	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"9.00"
+"Namibia"	147	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"38000.00"	"38000.00"
+"Nauru"	148	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Nauru"	148	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Nauru"	148	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Nauru"	148	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"0.40"	"0.40"
+"Nauru"	148	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Nepal"	149	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"2326.00"
+"Nepal"	149	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"11.00"
+"Nepal"	149	"Fallow land"	6640	"Area (1000 Ha)"	5110		"18.00"
+"Nepal"	149	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"105.00"	"118.00"
+"Nepal"	149	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1766.00"	"1786.00"
+"Netherlands"	150	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"869.70"
+"Netherlands"	150	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"182.00"
+"Netherlands"	150	"Fallow land"	6640	"Area (1000 Ha)"	5110		"7.30"
+"Netherlands"	150	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"34.00"	"36.40"
+"Netherlands"	150	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1012.00"	"813.30"
+"Netherlands Antilles"	151	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Netherlands Antilles"	151	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Netherlands Antilles"	151	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Netherlands Antilles"	151	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Netherlands Antilles"	151	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"New Caledonia"	153	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"New Caledonia"	153	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"New Caledonia"	153	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"New Caledonia"	153	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"5.00"
+"New Caledonia"	153	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"234.00"	"239.00"
+"New Zealand"	156	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"New Zealand"	156	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"New Zealand"	156	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"New Zealand"	156	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"50.00"	"71.00"
+"New Zealand"	156	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"13863.00"	"10838.00"
+"Nicaragua"	157	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Nicaragua"	157	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Nicaragua"	157	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Nicaragua"	157	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"234.00"	"230.00"
+"Nicaragua"	157	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2943.00"	"3016.00"
+"Niger"	158	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Niger"	158	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Niger"	158	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Niger"	158	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"20.00"	"60.00"
+"Niger"	158	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"23000.00"	"28782.00"
+"Nigeria"	159	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Nigeria"	159	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Nigeria"	159	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Nigeria"	159	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2650.00"	"3200.00"
+"Nigeria"	159	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"39200.00"	"37000.00"
+"Niue"	160	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Niue"	160	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Niue"	160	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Niue"	160	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.80"	"3.00"
+"Niue"	160	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Norfolk Island"	161	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Norfolk Island"	161	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Norfolk Island"	161	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Norfolk Island"	161	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Norfolk Island"	161	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Northern Mariana Islands"	163	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Northern Mariana Islands"	163	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Northern Mariana Islands"	163	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Northern Mariana Islands"	163	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Northern Mariana Islands"	163	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Norway"	162	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"347.00"
+"Norway"	162	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"477.00"
+"Norway"	162	"Fallow land"	6640	"Area (1000 Ha)"	5110		"2.00"
+"Norway"	162	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"5.00"	"4.00"
+"Norway"	162	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"158.00"	"176.00"
+"Occupied Palestinian Territory"	299	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"36.90"
+"Occupied Palestinian Territory"	299	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Occupied Palestinian Territory"	299	"Fallow land"	6640	"Area (1000 Ha)"	5110		"6.80"
+"Occupied Palestinian Territory"	299	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"120.00"	"54.70"
+"Occupied Palestinian Territory"	299	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"150.00"	"150.00"
+"Oman"	221	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"11.60"
+"Oman"	221	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"20.60"
+"Oman"	221	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Oman"	221	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"42.00"	"38.20"
+"Oman"	221	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1000.00"	"1700.00"
+"Pacific Islands Trust Territory"	164	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Pacific Islands Trust Territory"	164	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Pacific Islands Trust Territory"	164	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Pacific Islands Trust Territory"	164	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Pacific Islands Trust Territory"	164	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Pakistan"	165	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Pakistan"	165	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Pakistan"	165	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Pakistan"	165	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"658.00"	"852.00"
+"Pakistan"	165	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5000.00"	"5000.00"
+"Palau"	180	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Palau"	180	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Palau"	180	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Palau"	180	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Palau"	180	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Panama"	166	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Panama"	166	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Panama"	166	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Panama"	166	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"147.00"	"185.00"
+"Panama"	166	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1535.00"	"1535.00"
+"Papua New Guinea"	168	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Papua New Guinea"	168	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Papua New Guinea"	168	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Papua New Guinea"	168	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"620.00"	"700.00"
+"Papua New Guinea"	168	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"180.00"	"190.00"
+"Paraguay"	169	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Paraguay"	169	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Paraguay"	169	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Paraguay"	169	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"90.00"	"90.00"
+"Paraguay"	169	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"17215.00"	"17000.00"
+"Peru"	170	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Peru"	170	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Peru"	170	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Peru"	170	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"585.00"	"820.00"
+"Peru"	170	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"16900.00"	"17000.00"
+"Philippines"	171	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Philippines"	171	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Philippines"	171	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Philippines"	171	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4650.00"	"5100.00"
+"Philippines"	171	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1500.00"	"1500.00"
+"Pitcairn Islands"	172	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Pitcairn Islands"	172	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Pitcairn Islands"	172	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Pitcairn Islands"	172	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Pitcairn Islands"	172	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Poland"	173	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"10472.00"
+"Poland"	173	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Poland"	173	"Fallow land"	6640	"Area (1000 Ha)"	5110		"450.00"
+"Poland"	173	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"337.00"	"398.00"
+"Poland"	173	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4083.00"	"3284.00"
+"Portugal"	174	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Portugal"	174	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Portugal"	174	"Fallow land"	6640	"Area (1000 Ha)"	5110		"324.00"
+"Portugal"	174	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"765.00"	"708.00"
+"Portugal"	174	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1433.00"	"1830.00"
+"Puerto Rico"	177	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Puerto Rico"	177	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Puerto Rico"	177	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Puerto Rico"	177	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"42.00"	"40.00"
+"Puerto Rico"	177	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"145.50"	"90.00"
+"Qatar"	179	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Qatar"	179	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Qatar"	179	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Qatar"	179	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.00"	"2.00"
+"Qatar"	179	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"50.00"	"50.00"
+"Republic of Korea"	117	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Republic of Korea"	117	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Republic of Korea"	117	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Republic of Korea"	117	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"200.00"	"208.00"
+"Republic of Korea"	117	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"55.00"	"58.00"
+"Republic of Moldova"	146	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Republic of Moldova"	146	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Republic of Moldova"	146	"Fallow land"	6640	"Area (1000 Ha)"	5110		"34.00"
+"Republic of Moldova"	146	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"335.00"	"299.00"
+"Republic of Moldova"	146	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"382.00"	"353.00"
+"Réunion"	182	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"30.40"
+"Réunion"	182	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"1.20"
+"Réunion"	182	"Fallow land"	6640	"Area (1000 Ha)"	5110		"0.70"
+"Réunion"	182	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4.00"	"2.80"
+"Réunion"	182	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"9.00"	"10.10"
+"Romania"	183	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"6956.00"
+"Romania"	183	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"851.00"
+"Romania"	183	"Fallow land"	6640	"Area (1000 Ha)"	5110		"1339.00"
+"Romania"	183	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"527.00"	"463.00"
+"Romania"	183	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4949.00"	"4547.00"
+"Russian Federation"	185	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"63725.00"
+"Russian Federation"	185	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Russian Federation"	185	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Russian Federation"	185	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1864.00"	"1780.00"
+"Russian Federation"	185	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"90924.00"	"92000.00"
+"Rwanda"	184	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Rwanda"	184	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Rwanda"	184	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Rwanda"	184	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"250.00"	"250.00"
+"Rwanda"	184	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"520.00"	"450.00"
+"Saint Helena"	187	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Saint Helena"	187	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Saint Helena"	187	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Saint Helena"	187	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Saint Helena"	187	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"8.00"	"8.00"
+"Saint Kitts and Nevis"	188	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4.50"
+"Saint Kitts and Nevis"	188	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Saint Kitts and Nevis"	188	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Saint Kitts and Nevis"	188	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"0.50"	"0.10"
+"Saint Kitts and Nevis"	188	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"1.10"
+"Saint Lucia"	189	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Saint Lucia"	189	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Saint Lucia"	189	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Saint Lucia"	189	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"12.00"	"7.00"
+"Saint Lucia"	189	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"1.00"
+"Saint Pierre and Miquelon"	190	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Saint Pierre and Miquelon"	190	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Saint Pierre and Miquelon"	190	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Saint Pierre and Miquelon"	190	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Saint Pierre and Miquelon"	190	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Saint Vincent and the Grenadines"	191	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Saint Vincent and the Grenadines"	191	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Saint Vincent and the Grenadines"	191	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Saint Vincent and the Grenadines"	191	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.00"	"3.00"
+"Saint Vincent and the Grenadines"	191	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2.00"	"2.00"
+"Samoa"	244	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Samoa"	244	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Samoa"	244	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Samoa"	244	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"31.00"	"22.00"
+"Samoa"	244	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"3.00"	"5.00"
+"San Marino"	192	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"San Marino"	192	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"San Marino"	192	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"San Marino"	192	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"San Marino"	192	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Sao Tome and Principe"	193	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Sao Tome and Principe"	193	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Sao Tome and Principe"	193	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Sao Tome and Principe"	193	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"42.00"	"39.00"
+"Sao Tome and Principe"	193	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"Saudi Arabia"	194	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"510.00"
+"Saudi Arabia"	194	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Saudi Arabia"	194	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Saudi Arabia"	194	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"193.00"	"245.00"
+"Saudi Arabia"	194	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"170000.00"	"170000.00"
+"Senegal"	195	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"3000.00"
+"Senegal"	195	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Senegal"	195	"Fallow land"	6640	"Area (1000 Ha)"	5110		"850.00"
+"Senegal"	195	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"55.00"	"55.00"
+"Senegal"	195	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5650.00"	"5600.00"
+"Serbia"	272	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"3066.00"
+"Serbia"	272	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Serbia"	272	"Fallow land"	6640	"Area (1000 Ha)"	5110		"226.00"
+"Serbia"	272	"Permanent crops"	6650	"Area (1000 Ha)"	5110		"297.00"
+"Serbia"	272	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		"1460.00"
+"Serbia and Montenegro"	186	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Serbia and Montenegro"	186	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Serbia and Montenegro"	186	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Serbia and Montenegro"	186	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"330.00"	
+"Serbia and Montenegro"	186	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1851.00"	
+"Seychelles"	196	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Seychelles"	196	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Seychelles"	196	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Seychelles"	196	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.00"	"2.00"
+"Seychelles"	196	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Sierra Leone"	197	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Sierra Leone"	197	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Sierra Leone"	197	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Sierra Leone"	197	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"120.00"	"135.00"
+"Sierra Leone"	197	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"2200.00"	"2200.00"
+"Singapore"	200	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Singapore"	200	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Singapore"	200	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Singapore"	200	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"0.20"	"0.10"
+"Singapore"	200	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Slovakia"	199	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1311.60"
+"Slovakia"	199	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"69.10"
+"Slovakia"	199	"Fallow land"	6640	"Area (1000 Ha)"	5110		"11.30"
+"Slovakia"	199	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"47.00"	"25.40"
+"Slovakia"	199	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"865.00"	"527.30"
+"Slovenia"	198	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"146.00"
+"Slovenia"	198	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"24.00"
+"Slovenia"	198	"Fallow land"	6640	"Area (1000 Ha)"	5110		"0.30"
+"Slovenia"	198	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"31.00"	"27.00"
+"Slovenia"	198	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"314.00"	"286.00"
+"Solomon Islands"	25	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Solomon Islands"	25	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Solomon Islands"	25	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Solomon Islands"	25	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"55.00"	"65.00"
+"Solomon Islands"	25	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"7.00"	"8.00"
+"Somalia"	201	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Somalia"	201	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Somalia"	201	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Somalia"	201	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"24.00"	"29.00"
+"Somalia"	201	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"43000.00"	"43000.00"
+"South Africa"	202	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"12363.00"
+"South Africa"	202	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"20.00"
+"South Africa"	202	"Fallow land"	6640	"Area (1000 Ha)"	5110		"150.00"
+"South Africa"	202	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"385.00"	"430.00"
+"South Africa"	202	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"83928.00"	"83928.00"
+"South Sudan"	277	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"South Sudan"	277	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"South Sudan"	277	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"South Sudan"	277	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"South Sudan"	277	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Spain"	203	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"7677.00"
+"Spain"	203	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"1041.00"
+"Spain"	203	"Fallow land"	6640	"Area (1000 Ha)"	5110		"3810.00"
+"Spain"	203	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"4904.00"	"4693.00"
+"Spain"	203	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"11462.00"	"10324.00"
+"Sri Lanka"	38	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Sri Lanka"	38	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Sri Lanka"	38	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Sri Lanka"	38	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"995.00"	"980.00"
+"Sri Lanka"	38	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"440.00"	"440.00"
+"Sudan"	276	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Sudan"	276	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Sudan"	276	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Sudan"	276	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Sudan"	276	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Sudan (former)"	206	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"18148.00"
+"Sudan (former)"	206	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Sudan (former)"	206	"Fallow land"	6640	"Area (1000 Ha)"	5110		"710.00"
+"Sudan (former)"	206	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"117.00"	"160.00"
+"Sudan (former)"	206	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"115225.00"	"117227.00"
+"Suriname"	207	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Suriname"	207	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Suriname"	207	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Suriname"	207	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"10.00"	"6.00"
+"Suriname"	207	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"21.00"	"17.00"
+"Swaziland"	209	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Swaziland"	209	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Swaziland"	209	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Swaziland"	209	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"13.00"	"15.00"
+"Swaziland"	209	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1032.00"	"1032.00"
+"Sweden"	210	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Sweden"	210	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Sweden"	210	"Fallow land"	6640	"Area (1000 Ha)"	5110		"177.00"
+"Sweden"	210	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3.00"	"9.00"
+"Sweden"	210	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"447.00"	"451.00"
+"Switzerland"	211	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"271.00"
+"Switzerland"	211	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"131.80"
+"Switzerland"	211	"Fallow land"	6640	"Area (1000 Ha)"	5110		"2.50"
+"Switzerland"	211	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"24.00"	"23.40"
+"Switzerland"	211	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1095.00"	"1095.00"
+"Syrian Arab Republic"	212	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"3784.00"
+"Syrian Arab Republic"	212	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Syrian Arab Republic"	212	"Fallow land"	6640	"Area (1000 Ha)"	5110		"903.00"
+"Syrian Arab Republic"	212	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"810.00"	"1009.00"
+"Syrian Arab Republic"	212	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"8359.00"	"8212.00"
+"Tajikistan"	208	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Tajikistan"	208	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Tajikistan"	208	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Tajikistan"	208	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"102.00"	"130.00"
+"Tajikistan"	208	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"3687.00"	"3875.00"
+"Thailand"	216	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Thailand"	216	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Thailand"	216	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Thailand"	216	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"3380.00"	"4500.00"
+"Thailand"	216	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"800.00"	"800.00"
+"The former Yugoslav Republic of Macedonia"	154	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"277.00"
+"The former Yugoslav Republic of Macedonia"	154	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"The former Yugoslav Republic of Macedonia"	154	"Fallow land"	6640	"Area (1000 Ha)"	5110		"137.00"
+"The former Yugoslav Republic of Macedonia"	154	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"44.00"	"35.00"
+"The former Yugoslav Republic of Macedonia"	154	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"636.00"	"670.00"
+"Timor-Leste"	176	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Timor-Leste"	176	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Timor-Leste"	176	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Timor-Leste"	176	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"67.00"	"60.00"
+"Timor-Leste"	176	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"150.00"	"150.00"
+"Togo"	217	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Togo"	217	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Togo"	217	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Togo"	217	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"130.00"	"210.00"
+"Togo"	217	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"1000.00"	"1000.00"
+"Tokelau"	218	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Tokelau"	218	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Tokelau"	218	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Tokelau"	218	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"0.60"	"0.60"
+"Tokelau"	218	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Tonga"	219	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Tonga"	219	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Tonga"	219	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Tonga"	219	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"11.00"	"11.00"
+"Tonga"	219	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"4.00"
+"Trinidad and Tobago"	220	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Trinidad and Tobago"	220	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Trinidad and Tobago"	220	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Trinidad and Tobago"	220	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"25.00"	"22.00"
+"Trinidad and Tobago"	220	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"7.00"	"7.00"
+"Tunisia"	222	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1954.00"
+"Tunisia"	222	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Tunisia"	222	"Fallow land"	6640	"Area (1000 Ha)"	5110		"869.00"
+"Tunisia"	222	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2126.00"	"2363.00"
+"Tunisia"	222	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4561.00"	"4852.00"
+"Turkey"	223	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"17135.00"
+"Turkey"	223	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Turkey"	223	"Fallow land"	6640	"Area (1000 Ha)"	5110		"4249.00"
+"Turkey"	223	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2553.00"	"3011.00"
+"Turkey"	223	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"14100.00"	"14617.00"
+"Turkmenistan"	213	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Turkmenistan"	213	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Turkmenistan"	213	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Turkmenistan"	213	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"60.00"	"60.00"
+"Turkmenistan"	213	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"30700.00"	"30700.00"
+"Turks and Caicos Islands"	224	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Turks and Caicos Islands"	224	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Turks and Caicos Islands"	224	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Turks and Caicos Islands"	224	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Turks and Caicos Islands"	224	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Tuvalu"	227	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Tuvalu"	227	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Tuvalu"	227	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Tuvalu"	227	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2.00"	"1.80"
+"Tuvalu"	227	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Uganda"	226	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Uganda"	226	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Uganda"	226	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Uganda"	226	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2100.00"	"2200.00"
+"Uganda"	226	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5112.00"	"5112.00"
+"Ukraine"	230	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"31012.00"
+"Ukraine"	230	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Ukraine"	230	"Fallow land"	6640	"Area (1000 Ha)"	5110		"1465.00"
+"Ukraine"	230	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"932.00"	"897.00"
+"Ukraine"	230	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"7910.00"	"7893.00"
+"United Arab Emirates"	225	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"34.30"
+"United Arab Emirates"	225	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"United Arab Emirates"	225	"Fallow land"	6640	"Area (1000 Ha)"	5110		"16.30"
+"United Arab Emirates"	225	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"187.00"	"41.70"
+"United Arab Emirates"	225	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"305.00"	"305.00"
+"United Kingdom"	229	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"4564.00"
+"United Kingdom"	229	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"1232.00"
+"United Kingdom"	229	"Fallow land"	6640	"Area (1000 Ha)"	5110		"174.00"
+"United Kingdom"	229	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"52.00"	"46.00"
+"United Kingdom"	229	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"11036.00"	"11208.00"
+"United Republic of Tanzania"	215	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"United Republic of Tanzania"	215	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"United Republic of Tanzania"	215	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"United Republic of Tanzania"	215	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1400.00"	"1700.00"
+"United Republic of Tanzania"	215	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"24000.00"	"24000.00"
+"United States of America"	231	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"United States of America"	231	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"United States of America"	231	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"United States of America"	231	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"2700.00"	"2600.00"
+"United States of America"	231	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"236331.00"	"248500.00"
+"United States Virgin Islands"	240	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"United States Virgin Islands"	240	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"United States Virgin Islands"	240	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"United States Virgin Islands"	240	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1.00"	"1.00"
+"United States Virgin Islands"	240	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"4.00"	"2.00"
+"Uruguay"	234	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1320.00"
+"Uruguay"	234	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"275.00"
+"Uruguay"	234	"Fallow land"	6640	"Area (1000 Ha)"	5110		"100.00"
+"Uruguay"	234	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"42.00"	"38.00"
+"Uruguay"	234	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"13543.00"	"12629.00"
+"USSR"	228	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"USSR"	228	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"USSR"	228	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"USSR"	228	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"USSR"	228	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Uzbekistan"	235	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Uzbekistan"	235	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Uzbekistan"	235	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Uzbekistan"	235	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"350.00"	"355.00"
+"Uzbekistan"	235	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"22500.00"	"22000.00"
+"Vanuatu"	155	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Vanuatu"	155	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Vanuatu"	155	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Vanuatu"	155	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"113.00"	"125.00"
+"Vanuatu"	155	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"42.00"	"42.00"
+"Venezuela (Bolivarian Republic of)"	236	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Venezuela (Bolivarian Republic of)"	236	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Venezuela (Bolivarian Republic of)"	236	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Venezuela (Bolivarian Republic of)"	236	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"800.00"	"650.00"
+"Venezuela (Bolivarian Republic of)"	236	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"18000.00"	"18000.00"
+"Viet Nam"	237	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"6393.00"
+"Viet Nam"	237	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"44.00"
+"Viet Nam"	237	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Viet Nam"	237	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"1938.00"	"3689.00"
+"Viet Nam"	237	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"642.00"	"642.00"
+"Wallis and Futuna Islands"	243	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Wallis and Futuna Islands"	243	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Wallis and Futuna Islands"	243	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Wallis and Futuna Islands"	243	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"5.00"	"5.00"
+"Wallis and Futuna Islands"	243	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Western Sahara"	205	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Western Sahara"	205	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Western Sahara"	205	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Western Sahara"	205	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Western Sahara"	205	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"5000.00"	"5000.00"
+"Yemen"	249	"Temporary crops"	6630	"Area (1000 Ha)"	5110		"1173.00"
+"Yemen"	249	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		"18.00"
+"Yemen"	249	"Fallow land"	6640	"Area (1000 Ha)"	5110		"100.00"
+"Yemen"	249	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"124.00"	"288.00"
+"Yemen"	249	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"22000.00"	"22000.00"
+"Yugoslav SFR"	248	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Yugoslav SFR"	248	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Yugoslav SFR"	248	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Yugoslav SFR"	248	"Permanent crops"	6650	"Area (1000 Ha)"	5110		
+"Yugoslav SFR"	248	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110		
+"Zambia"	251	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Zambia"	251	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Zambia"	251	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Zambia"	251	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"32.00"	"35.00"
+"Zambia"	251	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"19650.00"	"20000.00"
+"Zimbabwe"	181	"Temporary crops"	6630	"Area (1000 Ha)"	5110		
+"Zimbabwe"	181	"Temporary meadows and pastures"	6633	"Area (1000 Ha)"	5110		
+"Zimbabwe"	181	"Fallow land"	6640	"Area (1000 Ha)"	5110		
+"Zimbabwe"	181	"Permanent crops"	6650	"Area (1000 Ha)"	5110	"120.00"	"120.00"
+"Zimbabwe"	181	"Permanent meadows and pastures"	6655	"Area (1000 Ha)"	5110	"11360.00"	"12100.00"

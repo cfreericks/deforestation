@@ -1,0 +1,3729 @@
+"ISO3"	"FRACOUNTRYCODE"	"COUNTRY"	"FRACATCODE"	"FRACAT"	"YEAR"	"VALUE"
+"AFG"	86	"Afghanistan"	0	"Forest"	1990	1350
+"AFG"	86	"Afghanistan"	1	"Inland water"	2010	0
+"AFG"	86	"Afghanistan"	3	"Other wooded land"	2010	29471
+"AFG"	86	"Afghanistan"	2	"Other land"	1990	34388
+"AFG"	86	"Afghanistan"	3	"Other wooded land"	1990	29471
+"AFG"	86	"Afghanistan"	0	"Forest"	2005	1350
+"AFG"	86	"Afghanistan"	1	"Inland water"	2000	0
+"AFG"	86	"Afghanistan"	0	"Forest"	2000	1350
+"AFG"	86	"Afghanistan"	2	"Other land"	2000	34388
+"AFG"	86	"Afghanistan"	2	"Other land"	2010	34388
+"AFG"	86	"Afghanistan"	2	"Other land"	2005	34388
+"AFG"	86	"Afghanistan"	1	"Inland water"	2005	0
+"AFG"	86	"Afghanistan"	1	"Inland water"	1990	0
+"AFG"	86	"Afghanistan"	3	"Other wooded land"	2000	29471
+"AFG"	86	"Afghanistan"	0	"Forest"	2010	1350
+"AFG"	86	"Afghanistan"	3	"Other wooded land"	2005	29471
+"ALB"	144	"Albania"	1	"Inland water"	2005	135
+"ALB"	144	"Albania"	3	"Other wooded land"	2010	255.2
+"ALB"	144	"Albania"	3	"Other wooded land"	1990	256
+"ALB"	144	"Albania"	1	"Inland water"	1990	135
+"ALB"	144	"Albania"	1	"Inland water"	2000	135
+"ALB"	144	"Albania"	0	"Forest"	2000	769
+"ALB"	144	"Albania"	0	"Forest"	1990	789
+"ALB"	144	"Albania"	3	"Other wooded land"	2000	255
+"ALB"	144	"Albania"	2	"Other land"	2005	1700
+"ALB"	144	"Albania"	0	"Forest"	2005	782
+"ALB"	144	"Albania"	2	"Other land"	1990	1695
+"ALB"	144	"Albania"	2	"Other land"	2010	1708.5
+"ALB"	144	"Albania"	1	"Inland water"	2010	135
+"ALB"	144	"Albania"	0	"Forest"	2010	776.3
+"ALB"	144	"Albania"	2	"Other land"	2000	1716
+"ALB"	144	"Albania"	3	"Other wooded land"	2005	258
+"DZA"	45	"Algeria"	3	"Other wooded land"	2010	2685
+"DZA"	45	"Algeria"	1	"Inland water"	2000	0
+"DZA"	45	"Algeria"	1	"Inland water"	1990	0
+"DZA"	45	"Algeria"	2	"Other land"	2005	234109
+"DZA"	45	"Algeria"	1	"Inland water"	2005	0
+"DZA"	45	"Algeria"	3	"Other wooded land"	2000	2374
+"DZA"	45	"Algeria"	2	"Other land"	2010	233997
+"DZA"	45	"Algeria"	0	"Forest"	2010	1492
+"DZA"	45	"Algeria"	3	"Other wooded land"	1990	2063
+"DZA"	45	"Algeria"	0	"Forest"	1990	1667
+"DZA"	45	"Algeria"	2	"Other land"	2000	234221
+"DZA"	45	"Algeria"	0	"Forest"	2005	1536
+"DZA"	45	"Algeria"	2	"Other land"	1990	234444
+"DZA"	45	"Algeria"	3	"Other wooded land"	2005	2529
+"DZA"	45	"Algeria"	1	"Inland water"	2010	0
+"DZA"	45	"Algeria"	0	"Forest"	2000	1579
+"ASM"	109	"American Samoa"	3	"Other wooded land"	2010	0
+"ASM"	109	"American Samoa"	3	"Other wooded land"	2000	0
+"ASM"	109	"American Samoa"	1	"Inland water"	1990	0
+"ASM"	109	"American Samoa"	3	"Other wooded land"	2005	0
+"ASM"	109	"American Samoa"	0	"Forest"	2010	17.712
+"ASM"	109	"American Samoa"	2	"Other land"	2005	2.119
+"ASM"	109	"American Samoa"	3	"Other wooded land"	1990	0
+"ASM"	109	"American Samoa"	2	"Other land"	1990	1.612
+"ASM"	109	"American Samoa"	2	"Other land"	2000	1.95
+"ASM"	109	"American Samoa"	0	"Forest"	1990	18.388
+"ASM"	109	"American Samoa"	1	"Inland water"	2010	0
+"ASM"	109	"American Samoa"	1	"Inland water"	2000	0
+"ASM"	109	"American Samoa"	0	"Forest"	2000	18.05
+"ASM"	109	"American Samoa"	0	"Forest"	2005	17.881
+"ASM"	109	"American Samoa"	1	"Inland water"	2005	0
+"ASM"	109	"American Samoa"	2	"Other land"	2010	2.288
+"AND"	80	"Andorra"	1	"Inland water"	1990	0
+"AND"	80	"Andorra"	2	"Other land"	1990	29
+"AND"	80	"Andorra"	3	"Other wooded land"	2000	0
+"AND"	80	"Andorra"	3	"Other wooded land"	1990	0
+"AND"	80	"Andorra"	1	"Inland water"	2005	0
+"AND"	80	"Andorra"	3	"Other wooded land"	2005	0
+"AND"	80	"Andorra"	2	"Other land"	2000	29
+"AND"	80	"Andorra"	3	"Other wooded land"	2010	0
+"AND"	80	"Andorra"	1	"Inland water"	2010	0
+"AND"	80	"Andorra"	0	"Forest"	1990	16
+"AND"	80	"Andorra"	0	"Forest"	2005	16
+"AND"	80	"Andorra"	0	"Forest"	2000	16
+"AND"	80	"Andorra"	2	"Other land"	2005	29
+"AND"	80	"Andorra"	2	"Other land"	2010	29
+"AND"	80	"Andorra"	0	"Forest"	2010	16
+"AND"	80	"Andorra"	1	"Inland water"	2000	0
+"AGO"	13	"Angola"	1	"Inland water"	1990	0
+"AGO"	13	"Angola"	3	"Other wooded land"	2000	0
+"AGO"	13	"Angola"	3	"Other wooded land"	1990	0
+"AGO"	13	"Angola"	2	"Other land"	1990	63694
+"AGO"	13	"Angola"	3	"Other wooded land"	2005	0
+"AGO"	13	"Angola"	2	"Other land"	2005	65566
+"AGO"	13	"Angola"	1	"Inland water"	2010	0
+"AGO"	13	"Angola"	0	"Forest"	1990	60976
+"AGO"	13	"Angola"	2	"Other land"	2000	64942
+"AGO"	13	"Angola"	3	"Other wooded land"	2010	0
+"AGO"	13	"Angola"	0	"Forest"	2010	58480
+"AGO"	13	"Angola"	1	"Inland water"	2005	0
+"AGO"	13	"Angola"	0	"Forest"	2005	59104
+"AGO"	13	"Angola"	0	"Forest"	2000	59728
+"AGO"	13	"Angola"	1	"Inland water"	2000	0
+"AGO"	13	"Angola"	2	"Other land"	2010	66190
+"AIA"	7656221	"Anguilla"	1	"Inland water"	1990	0
+"AIA"	7656221	"Anguilla"	3	"Other wooded land"	2000	0
+"AIA"	7656221	"Anguilla"	2	"Other land"	2000	3.6
+"AIA"	7656221	"Anguilla"	3	"Other wooded land"	1990	0
+"AIA"	7656221	"Anguilla"	2	"Other land"	1990	3.6
+"AIA"	7656221	"Anguilla"	0	"Forest"	1990	5.5
+"AIA"	7656221	"Anguilla"	0	"Forest"	2005	5.5
+"AIA"	7656221	"Anguilla"	3	"Other wooded land"	2010	0
+"AIA"	7656221	"Anguilla"	3	"Other wooded land"	2005	0
+"AIA"	7656221	"Anguilla"	1	"Inland water"	2005	0
+"AIA"	7656221	"Anguilla"	0	"Forest"	2000	5.5
+"AIA"	7656221	"Anguilla"	2	"Other land"	2005	3.6
+"AIA"	7656221	"Anguilla"	1	"Inland water"	2010	0
+"AIA"	7656221	"Anguilla"	0	"Forest"	2010	5.5
+"AIA"	7656221	"Anguilla"	2	"Other land"	2010	3.6
+"AIA"	7656221	"Anguilla"	1	"Inland water"	2000	0
+"ATG"	179	"Antigua and Barbuda"	1	"Inland water"	1990	0
+"ATG"	179	"Antigua and Barbuda"	3	"Other wooded land"	2000	15.6
+"ATG"	179	"Antigua and Barbuda"	2	"Other land"	2000	18.4
+"ATG"	179	"Antigua and Barbuda"	2	"Other land"	1990	18.1
+"ATG"	179	"Antigua and Barbuda"	0	"Forest"	1990	10.3
+"ATG"	179	"Antigua and Barbuda"	3	"Other wooded land"	1990	15.6
+"ATG"	179	"Antigua and Barbuda"	1	"Inland water"	2010	0
+"ATG"	179	"Antigua and Barbuda"	1	"Inland water"	2005	0
+"ATG"	179	"Antigua and Barbuda"	0	"Forest"	2000	10
+"ATG"	179	"Antigua and Barbuda"	3	"Other wooded land"	2010	15.6
+"ATG"	179	"Antigua and Barbuda"	2	"Other land"	2005	18.6
+"ATG"	179	"Antigua and Barbuda"	2	"Other land"	2010	18.6
+"ATG"	179	"Antigua and Barbuda"	0	"Forest"	2005	9.8
+"ATG"	179	"Antigua and Barbuda"	1	"Inland water"	2000	0
+"ATG"	179	"Antigua and Barbuda"	0	"Forest"	2010	9.8
+"ATG"	179	"Antigua and Barbuda"	3	"Other wooded land"	2005	15.6
+"ARG"	215	"Argentina"	3	"Other wooded land"	1990	61100
+"ARG"	215	"Argentina"	2	"Other land"	2000	180076
+"ARG"	215	"Argentina"	1	"Inland water"	1990	4371
+"ARG"	215	"Argentina"	0	"Forest"	2010	29400
+"ARG"	215	"Argentina"	2	"Other land"	1990	177776
+"ARG"	215	"Argentina"	0	"Forest"	1990	34793
+"ARG"	215	"Argentina"	0	"Forest"	2000	31861
+"ARG"	215	"Argentina"	3	"Other wooded land"	2010	61471
+"ARG"	215	"Argentina"	2	"Other land"	2005	181468
+"ARG"	215	"Argentina"	1	"Inland water"	2005	4371
+"ARG"	215	"Argentina"	0	"Forest"	2005	30599
+"ARG"	215	"Argentina"	1	"Inland water"	2000	4371
+"ARG"	215	"Argentina"	2	"Other land"	2010	182798
+"ARG"	215	"Argentina"	1	"Inland water"	2010	4371
+"ARG"	215	"Argentina"	3	"Other wooded land"	2005	61602
+"ARG"	215	"Argentina"	3	"Other wooded land"	2000	61732
+"ARM"	156	"Armenia"	0	"Forest"	2000	304
+"ARM"	156	"Armenia"	1	"Inland water"	1990	160
+"ARM"	156	"Armenia"	3	"Other wooded land"	2000	45
+"ARM"	156	"Armenia"	2	"Other land"	1990	2428
+"ARM"	156	"Armenia"	1	"Inland water"	2000	160
+"ARM"	156	"Armenia"	3	"Other wooded land"	2010	45
+"ARM"	156	"Armenia"	2	"Other land"	2010	2513
+"ARM"	156	"Armenia"	2	"Other land"	2005	2492
+"ARM"	156	"Armenia"	0	"Forest"	2005	283
+"ARM"	156	"Armenia"	1	"Inland water"	2005	160
+"ARM"	156	"Armenia"	0	"Forest"	2010	262
+"ARM"	156	"Armenia"	1	"Inland water"	2010	160
+"ARM"	156	"Armenia"	0	"Forest"	1990	347
+"ARM"	156	"Armenia"	3	"Other wooded land"	2005	45
+"ARM"	156	"Armenia"	3	"Other wooded land"	1990	45
+"ARM"	156	"Armenia"	2	"Other land"	2000	2471
+"ABW"	7656243	"Aruba"	0	"Forest"	1990	0.42
+"ABW"	7656243	"Aruba"	3	"Other wooded land"	2010	0
+"ABW"	7656243	"Aruba"	3	"Other wooded land"	1990	0
+"ABW"	7656243	"Aruba"	1	"Inland water"	2000	0
+"ABW"	7656243	"Aruba"	0	"Forest"	2010	0.42
+"ABW"	7656243	"Aruba"	2	"Other land"	2000	17.58
+"ABW"	7656243	"Aruba"	3	"Other wooded land"	2000	0
+"ABW"	7656243	"Aruba"	0	"Forest"	2000	0.42
+"ABW"	7656243	"Aruba"	1	"Inland water"	2005	0
+"ABW"	7656243	"Aruba"	0	"Forest"	2005	0.42
+"ABW"	7656243	"Aruba"	2	"Other land"	1990	17.58
+"ABW"	7656243	"Aruba"	2	"Other land"	2005	17.58
+"ABW"	7656243	"Aruba"	3	"Other wooded land"	2005	0
+"ABW"	7656243	"Aruba"	1	"Inland water"	2010	0
+"ABW"	7656243	"Aruba"	1	"Inland water"	1990	0
+"ABW"	7656243	"Aruba"	2	"Other land"	2010	17.58
+"AUS"	123	"Australia"	1	"Inland water"	2005	5892
+"AUS"	123	"Australia"	3	"Other wooded land"	1990	0
+"AUS"	123	"Australia"	1	"Inland water"	2000	5892
+"AUS"	123	"Australia"	0	"Forest"	2000	154920
+"AUS"	123	"Australia"	3	"Other wooded land"	2000	0
+"AUS"	123	"Australia"	1	"Inland water"	1990	5892
+"AUS"	123	"Australia"	2	"Other land"	2005	614310
+"AUS"	123	"Australia"	1	"Inland water"	2010	5892
+"AUS"	123	"Australia"	0	"Forest"	1990	154500
+"AUS"	123	"Australia"	2	"Other land"	2000	613310
+"AUS"	123	"Australia"	0	"Forest"	2010	149300
+"AUS"	123	"Australia"	3	"Other wooded land"	2005	0
+"AUS"	123	"Australia"	2	"Other land"	1990	613730
+"AUS"	123	"Australia"	0	"Forest"	2005	153920
+"AUS"	123	"Australia"	2	"Other land"	2010	483561
+"AUS"	123	"Australia"	3	"Other wooded land"	2010	135367
+"AUT"	129	"Austria"	2	"Other land"	1990	4351
+"AUT"	129	"Austria"	2	"Other land"	2005	4265
+"AUT"	129	"Austria"	2	"Other land"	2000	4290
+"AUT"	129	"Austria"	1	"Inland water"	1990	142
+"AUT"	129	"Austria"	1	"Inland water"	2000	142
+"AUT"	129	"Austria"	3	"Other wooded land"	1990	118
+"AUT"	129	"Austria"	0	"Forest"	1990	3776
+"AUT"	129	"Austria"	0	"Forest"	2005	3862
+"AUT"	129	"Austria"	0	"Forest"	2010	3887
+"AUT"	129	"Austria"	3	"Other wooded land"	2000	117
+"AUT"	129	"Austria"	3	"Other wooded land"	2010	119
+"AUT"	129	"Austria"	3	"Other wooded land"	2005	118
+"AUT"	129	"Austria"	0	"Forest"	2000	3838
+"AUT"	129	"Austria"	1	"Inland water"	2005	142
+"AUT"	129	"Austria"	1	"Inland water"	2010	142
+"AUT"	129	"Austria"	2	"Other land"	2010	4239
+"AZE"	157	"Azerbaijan"	3	"Other wooded land"	2000	54
+"AZE"	157	"Azerbaijan"	0	"Forest"	2000	936
+"AZE"	157	"Azerbaijan"	3	"Other wooded land"	2010	54
+"AZE"	157	"Azerbaijan"	2	"Other land"	1990	7273
+"AZE"	157	"Azerbaijan"	1	"Inland water"	1990	397
+"AZE"	157	"Azerbaijan"	1	"Inland water"	2000	397
+"AZE"	157	"Azerbaijan"	2	"Other land"	2000	7273
+"AZE"	157	"Azerbaijan"	0	"Forest"	2010	936
+"AZE"	157	"Azerbaijan"	1	"Inland water"	2010	397.1
+"AZE"	157	"Azerbaijan"	2	"Other land"	2005	7273
+"AZE"	157	"Azerbaijan"	1	"Inland water"	2005	397
+"AZE"	157	"Azerbaijan"	3	"Other wooded land"	2005	54
+"AZE"	157	"Azerbaijan"	2	"Other land"	2010	7273
+"AZE"	157	"Azerbaijan"	3	"Other wooded land"	1990	54
+"AZE"	157	"Azerbaijan"	0	"Forest"	2005	936
+"AZE"	157	"Azerbaijan"	0	"Forest"	1990	936
+"BHS"	180	"Bahamas"	3	"Other wooded land"	2000	35.7
+"BHS"	180	"Bahamas"	1	"Inland water"	2010	387
+"BHS"	180	"Bahamas"	1	"Inland water"	2000	387
+"BHS"	180	"Bahamas"	1	"Inland water"	1990	387
+"BHS"	180	"Bahamas"	3	"Other wooded land"	2005	35.7
+"BHS"	180	"Bahamas"	2	"Other land"	2010	450
+"BHS"	180	"Bahamas"	2	"Other land"	2000	450
+"BHS"	180	"Bahamas"	0	"Forest"	2000	515
+"BHS"	180	"Bahamas"	3	"Other wooded land"	1990	35.7
+"BHS"	180	"Bahamas"	2	"Other land"	1990	450
+"BHS"	180	"Bahamas"	2	"Other land"	2005	450
+"BHS"	180	"Bahamas"	0	"Forest"	2010	515
+"BHS"	180	"Bahamas"	0	"Forest"	1990	515
+"BHS"	180	"Bahamas"	0	"Forest"	2005	515
+"BHS"	180	"Bahamas"	3	"Other wooded land"	2010	35.7
+"BHS"	180	"Bahamas"	1	"Inland water"	2005	387
+"BHR"	87	"Bahrain"	2	"Other land"	2010	70.384
+"BHR"	87	"Bahrain"	3	"Other wooded land"	2005	0.09
+"BHR"	87	"Bahrain"	2	"Other land"	1990	70.684
+"BHR"	87	"Bahrain"	0	"Forest"	1990	0.216
+"BHR"	87	"Bahrain"	1	"Inland water"	1990	0
+"BHR"	87	"Bahrain"	3	"Other wooded land"	1990	0.1
+"BHR"	87	"Bahrain"	0	"Forest"	2005	0.448
+"BHR"	87	"Bahrain"	1	"Inland water"	2005	0
+"BHR"	87	"Bahrain"	3	"Other wooded land"	2000	0.09
+"BHR"	87	"Bahrain"	0	"Forest"	2000	0.371
+"BHR"	87	"Bahrain"	0	"Forest"	2010	0.526
+"BHR"	87	"Bahrain"	1	"Inland water"	2010	0
+"BHR"	87	"Bahrain"	2	"Other land"	2000	70.539
+"BHR"	87	"Bahrain"	1	"Inland water"	2000	0
+"BHR"	87	"Bahrain"	3	"Other wooded land"	2010	0.09
+"BHR"	87	"Bahrain"	2	"Other land"	2005	70.462
+"BGD"	31	"Bangladesh"	3	"Other wooded land"	1990	269
+"BGD"	31	"Bangladesh"	0	"Forest"	2000	1468
+"BGD"	31	"Bangladesh"	2	"Other land"	1990	11254
+"BGD"	31	"Bangladesh"	0	"Forest"	2005	1455
+"BGD"	31	"Bangladesh"	1	"Inland water"	2005	1383
+"BGD"	31	"Bangladesh"	0	"Forest"	2010	1442
+"BGD"	31	"Bangladesh"	1	"Inland water"	1990	1383
+"BGD"	31	"Bangladesh"	2	"Other land"	2000	11270
+"BGD"	31	"Bangladesh"	3	"Other wooded land"	2010	289
+"BGD"	31	"Bangladesh"	3	"Other wooded land"	2000	279
+"BGD"	31	"Bangladesh"	3	"Other wooded land"	2005	284
+"BGD"	31	"Bangladesh"	1	"Inland water"	2000	1383
+"BGD"	31	"Bangladesh"	2	"Other land"	2010	11286
+"BGD"	31	"Bangladesh"	2	"Other land"	2005	11278
+"BGD"	31	"Bangladesh"	0	"Forest"	1990	1494
+"BGD"	31	"Bangladesh"	1	"Inland water"	2010	1383
+"BRB"	181	"Barbados"	2	"Other land"	1990	33.99
+"BRB"	181	"Barbados"	0	"Forest"	2000	8.36
+"BRB"	181	"Barbados"	1	"Inland water"	1990	0
+"BRB"	181	"Barbados"	0	"Forest"	2005	8.36
+"BRB"	181	"Barbados"	0	"Forest"	1990	8.36
+"BRB"	181	"Barbados"	2	"Other land"	2000	33.99
+"BRB"	181	"Barbados"	0	"Forest"	2010	8.36
+"BRB"	181	"Barbados"	3	"Other wooded land"	1990	0.65
+"BRB"	181	"Barbados"	2	"Other land"	2005	33.99
+"BRB"	181	"Barbados"	3	"Other wooded land"	2010	0.65
+"BRB"	181	"Barbados"	3	"Other wooded land"	2000	0.65
+"BRB"	181	"Barbados"	3	"Other wooded land"	2005	0.65
+"BRB"	181	"Barbados"	1	"Inland water"	2005	0
+"BRB"	181	"Barbados"	2	"Other land"	2010	33.99
+"BRB"	181	"Barbados"	1	"Inland water"	2000	0
+"BRB"	181	"Barbados"	1	"Inland water"	2010	0
+"BLR"	158	"Belarus"	3	"Other wooded land"	1990	491
+"BLR"	158	"Belarus"	0	"Forest"	2000	8273
+"BLR"	158	"Belarus"	1	"Inland water"	2005	12
+"BLR"	158	"Belarus"	2	"Other land"	1990	12477
+"BLR"	158	"Belarus"	2	"Other land"	2000	11985
+"BLR"	158	"Belarus"	1	"Inland water"	1990	12
+"BLR"	158	"Belarus"	0	"Forest"	2010	8630
+"BLR"	158	"Belarus"	2	"Other land"	2005	11826
+"BLR"	158	"Belarus"	1	"Inland water"	2000	12
+"BLR"	158	"Belarus"	3	"Other wooded land"	2000	490
+"BLR"	158	"Belarus"	3	"Other wooded land"	2005	486
+"BLR"	158	"Belarus"	1	"Inland water"	2010	12
+"BLR"	158	"Belarus"	0	"Forest"	1990	7780
+"BLR"	158	"Belarus"	2	"Other land"	2010	11598
+"BLR"	158	"Belarus"	0	"Forest"	2005	8436
+"BLR"	158	"Belarus"	3	"Other wooded land"	2010	520
+"BEL"	130	"Belgium"	3	"Other wooded land"	2000	27.1
+"BEL"	130	"Belgium"	2	"Other land"	1990	2329.7
+"BEL"	130	"Belgium"	1	"Inland water"	1990	25
+"BEL"	130	"Belgium"	0	"Forest"	2010	677.8
+"BEL"	130	"Belgium"	2	"Other land"	2005	2327.7
+"BEL"	130	"Belgium"	2	"Other land"	2010	2321.9
+"BEL"	130	"Belgium"	1	"Inland water"	2005	25
+"BEL"	130	"Belgium"	0	"Forest"	2000	667.3
+"BEL"	130	"Belgium"	3	"Other wooded land"	2005	27.6
+"BEL"	130	"Belgium"	3	"Other wooded land"	2010	28.1
+"BEL"	130	"Belgium"	1	"Inland water"	2010	25
+"BEL"	130	"Belgium"	0	"Forest"	1990	677.4
+"BEL"	130	"Belgium"	2	"Other land"	2000	2333.4
+"BEL"	130	"Belgium"	0	"Forest"	2005	672.6
+"BEL"	130	"Belgium"	1	"Inland water"	2000	25
+"BEL"	130	"Belgium"	3	"Other wooded land"	1990	20.7
+"BLZ"	171	"Belize"	0	"Forest"	1990	1586
+"BLZ"	171	"Belize"	2	"Other land"	2000	697
+"BLZ"	171	"Belize"	0	"Forest"	2000	1489
+"BLZ"	171	"Belize"	3	"Other wooded land"	2000	94
+"BLZ"	171	"Belize"	1	"Inland water"	1990	16
+"BLZ"	171	"Belize"	3	"Other wooded land"	2005	104
+"BLZ"	171	"Belize"	0	"Forest"	2005	1441
+"BLZ"	171	"Belize"	1	"Inland water"	2005	16
+"BLZ"	171	"Belize"	2	"Other land"	2010	775
+"BLZ"	171	"Belize"	3	"Other wooded land"	1990	75
+"BLZ"	171	"Belize"	1	"Inland water"	2010	16
+"BLZ"	171	"Belize"	3	"Other wooded land"	2010	113
+"BLZ"	171	"Belize"	1	"Inland water"	2000	16
+"BLZ"	171	"Belize"	0	"Forest"	2010	1393
+"BLZ"	171	"Belize"	2	"Other land"	1990	619
+"BLZ"	171	"Belize"	2	"Other land"	2005	736
+"BEN"	55	"Benin"	0	"Forest"	2000	5061
+"BEN"	55	"Benin"	0	"Forest"	1990	5761
+"BEN"	55	"Benin"	3	"Other wooded land"	2005	2889
+"BEN"	55	"Benin"	1	"Inland water"	2010	200
+"BEN"	55	"Benin"	0	"Forest"	2005	4811
+"BEN"	55	"Benin"	2	"Other land"	2000	3112
+"BEN"	55	"Benin"	1	"Inland water"	1990	200
+"BEN"	55	"Benin"	2	"Other land"	2010	3612
+"BEN"	55	"Benin"	2	"Other land"	1990	2412
+"BEN"	55	"Benin"	1	"Inland water"	2005	200
+"BEN"	55	"Benin"	3	"Other wooded land"	2000	2889
+"BEN"	55	"Benin"	3	"Other wooded land"	1990	2889
+"BEN"	55	"Benin"	3	"Other wooded land"	2010	2889
+"BEN"	55	"Benin"	1	"Inland water"	2000	200
+"BEN"	55	"Benin"	0	"Forest"	2010	4561
+"BEN"	55	"Benin"	2	"Other land"	2005	3362
+"BMU"	182	"Bermuda"	3	"Other wooded land"	2005	0
+"BMU"	182	"Bermuda"	1	"Inland water"	1990	0
+"BMU"	182	"Bermuda"	3	"Other wooded land"	2010	0
+"BMU"	182	"Bermuda"	1	"Inland water"	2005	0
+"BMU"	182	"Bermuda"	3	"Other wooded land"	2000	0
+"BMU"	182	"Bermuda"	2	"Other land"	2010	4
+"BMU"	182	"Bermuda"	0	"Forest"	2005	1
+"BMU"	182	"Bermuda"	1	"Inland water"	2000	0
+"BMU"	182	"Bermuda"	3	"Other wooded land"	1990	0
+"BMU"	182	"Bermuda"	1	"Inland water"	2010	0
+"BMU"	182	"Bermuda"	2	"Other land"	2005	4
+"BMU"	182	"Bermuda"	2	"Other land"	2000	4
+"BMU"	182	"Bermuda"	0	"Forest"	2000	1
+"BMU"	182	"Bermuda"	0	"Forest"	2010	1
+"BMU"	182	"Bermuda"	2	"Other land"	1990	4
+"BMU"	182	"Bermuda"	0	"Forest"	1990	1
+"BTN"	32	"Bhutan"	1	"Inland water"	2005	0
+"BTN"	32	"Bhutan"	3	"Other wooded land"	2010	613
+"BTN"	32	"Bhutan"	2	"Other land"	2005	894
+"BTN"	32	"Bhutan"	1	"Inland water"	2010	0
+"BTN"	32	"Bhutan"	2	"Other land"	2010	838
+"BTN"	32	"Bhutan"	1	"Inland water"	2000	0
+"BTN"	32	"Bhutan"	0	"Forest"	2005	3195
+"BTN"	32	"Bhutan"	1	"Inland water"	1990	0
+"BTN"	32	"Bhutan"	0	"Forest"	2010	3249
+"BTN"	32	"Bhutan"	2	"Other land"	1990	1099
+"BTN"	32	"Bhutan"	0	"Forest"	1990	3035
+"BTN"	32	"Bhutan"	3	"Other wooded land"	2005	611
+"BTN"	32	"Bhutan"	0	"Forest"	2000	3141
+"BTN"	32	"Bhutan"	3	"Other wooded land"	2000	609
+"BTN"	32	"Bhutan"	3	"Other wooded land"	1990	566
+"BTN"	32	"Bhutan"	2	"Other land"	2000	950
+"BOL"	205	"Bolivia (plurinational state of)"	2	"Other land"	2005	47231
+"BOL"	205	"Bolivia (plurinational state of)"	1	"Inland water"	1990	1420
+"BOL"	205	"Bolivia (plurinational state of)"	0	"Forest"	2000	60091
+"BOL"	205	"Bolivia (plurinational state of)"	2	"Other land"	2010	48769
+"BOL"	205	"Bolivia (plurinational state of)"	1	"Inland water"	2005	1420
+"BOL"	205	"Bolivia (plurinational state of)"	3	"Other wooded land"	2005	2473
+"BOL"	205	"Bolivia (plurinational state of)"	0	"Forest"	2010	57196
+"BOL"	205	"Bolivia (plurinational state of)"	0	"Forest"	1990	62795
+"BOL"	205	"Bolivia (plurinational state of)"	0	"Forest"	2005	58734
+"BOL"	205	"Bolivia (plurinational state of)"	3	"Other wooded land"	1990	2473
+"BOL"	205	"Bolivia (plurinational state of)"	1	"Inland water"	2000	1420
+"BOL"	205	"Bolivia (plurinational state of)"	3	"Other wooded land"	2010	2473
+"BOL"	205	"Bolivia (plurinational state of)"	1	"Inland water"	2010	1420
+"BOL"	205	"Bolivia (plurinational state of)"	3	"Other wooded land"	2000	2473
+"BOL"	205	"Bolivia (plurinational state of)"	2	"Other land"	1990	43170
+"BOL"	205	"Bolivia (plurinational state of)"	2	"Other land"	2000	45874
+"BIH"	145	"Bosnia and Herzegovina"	3	"Other wooded land"	1990	500
+"BIH"	145	"Bosnia and Herzegovina"	0	"Forest"	2010	2185
+"BIH"	145	"Bosnia and Herzegovina"	2	"Other land"	2005	2386
+"BIH"	145	"Bosnia and Herzegovina"	1	"Inland water"	2000	1
+"BIH"	145	"Bosnia and Herzegovina"	0	"Forest"	1990	2210
+"BIH"	145	"Bosnia and Herzegovina"	1	"Inland water"	1990	1
+"BIH"	145	"Bosnia and Herzegovina"	0	"Forest"	2000	2185
+"BIH"	145	"Bosnia and Herzegovina"	3	"Other wooded land"	2005	549
+"BIH"	145	"Bosnia and Herzegovina"	2	"Other land"	2000	2386
+"BIH"	145	"Bosnia and Herzegovina"	2	"Other land"	2010	2386
+"BIH"	145	"Bosnia and Herzegovina"	0	"Forest"	2005	2185
+"BIH"	145	"Bosnia and Herzegovina"	2	"Other land"	1990	2410
+"BIH"	145	"Bosnia and Herzegovina"	3	"Other wooded land"	2010	549
+"BIH"	145	"Bosnia and Herzegovina"	3	"Other wooded land"	2000	549
+"BIH"	145	"Bosnia and Herzegovina"	1	"Inland water"	2005	1
+"BIH"	145	"Bosnia and Herzegovina"	1	"Inland water"	2010	1
+"BWA"	14	"Botswana"	0	"Forest"	2000	12535
+"BWA"	14	"Botswana"	3	"Other wooded land"	1990	34791
+"BWA"	14	"Botswana"	3	"Other wooded land"	2000	34791
+"BWA"	14	"Botswana"	1	"Inland water"	2000	1500
+"BWA"	14	"Botswana"	3	"Other wooded land"	2010	34791
+"BWA"	14	"Botswana"	0	"Forest"	2005	11943
+"BWA"	14	"Botswana"	0	"Forest"	1990	13718
+"BWA"	14	"Botswana"	1	"Inland water"	1990	1500
+"BWA"	14	"Botswana"	2	"Other land"	2005	9939
+"BWA"	14	"Botswana"	2	"Other land"	2000	9347
+"BWA"	14	"Botswana"	2	"Other land"	1990	8164
+"BWA"	14	"Botswana"	3	"Other wooded land"	2005	34791
+"BWA"	14	"Botswana"	1	"Inland water"	2005	1500
+"BWA"	14	"Botswana"	0	"Forest"	2010	11351
+"BWA"	14	"Botswana"	1	"Inland water"	2010	1500
+"BWA"	14	"Botswana"	2	"Other land"	2010	10531
+"BRA"	206	"Brazil"	0	"Forest"	2000	545943
+"BRA"	206	"Brazil"	3	"Other wooded land"	2000	48771
+"BRA"	206	"Brazil"	3	"Other wooded land"	1990	54297
+"BRA"	206	"Brazil"	0	"Forest"	2005	530494
+"BRA"	206	"Brazil"	1	"Inland water"	2000	18975
+"BRA"	206	"Brazil"	3	"Other wooded land"	2010	43772
+"BRA"	206	"Brazil"	1	"Inland water"	2010	18975
+"BRA"	206	"Brazil"	2	"Other land"	2000	237799
+"BRA"	206	"Brazil"	0	"Forest"	2010	519522
+"BRA"	206	"Brazil"	2	"Other land"	1990	203377
+"BRA"	206	"Brazil"	2	"Other land"	2005	255849
+"BRA"	206	"Brazil"	1	"Inland water"	2005	18975
+"BRA"	206	"Brazil"	3	"Other wooded land"	2005	46171
+"BRA"	206	"Brazil"	1	"Inland water"	1990	18975
+"BRA"	206	"Brazil"	0	"Forest"	1990	574839
+"BRA"	206	"Brazil"	2	"Other land"	2010	269218
+"VGB"	183	"British Virgin Islands"	2	"Other land"	2000	9.65
+"VGB"	183	"British Virgin Islands"	0	"Forest"	2000	3.67
+"VGB"	183	"British Virgin Islands"	1	"Inland water"	2005	0
+"VGB"	183	"British Virgin Islands"	1	"Inland water"	1990	0
+"VGB"	183	"British Virgin Islands"	1	"Inland water"	2010	0
+"VGB"	183	"British Virgin Islands"	0	"Forest"	2010	3.64
+"VGB"	183	"British Virgin Islands"	1	"Inland water"	2000	0
+"VGB"	183	"British Virgin Islands"	3	"Other wooded land"	2005	1.68
+"VGB"	183	"British Virgin Islands"	2	"Other land"	2005	9.66
+"VGB"	183	"British Virgin Islands"	3	"Other wooded land"	1990	1.68
+"VGB"	183	"British Virgin Islands"	3	"Other wooded land"	2010	1.68
+"VGB"	183	"British Virgin Islands"	3	"Other wooded land"	2000	1.68
+"VGB"	183	"British Virgin Islands"	2	"Other land"	2010	9.68
+"VGB"	183	"British Virgin Islands"	0	"Forest"	1990	3.71
+"VGB"	183	"British Virgin Islands"	0	"Forest"	2005	3.66
+"VGB"	183	"British Virgin Islands"	2	"Other land"	1990	9.61
+"BRN"	81	"Brunei Darussalam"	1	"Inland water"	2005	50
+"BRN"	81	"Brunei Darussalam"	1	"Inland water"	1990	50
+"BRN"	81	"Brunei Darussalam"	2	"Other land"	2005	90
+"BRN"	81	"Brunei Darussalam"	3	"Other wooded land"	2010	50
+"BRN"	81	"Brunei Darussalam"	2	"Other land"	2000	83
+"BRN"	81	"Brunei Darussalam"	2	"Other land"	2010	97
+"BRN"	81	"Brunei Darussalam"	3	"Other wooded land"	1990	43
+"BRN"	81	"Brunei Darussalam"	1	"Inland water"	2010	50
+"BRN"	81	"Brunei Darussalam"	1	"Inland water"	2000	50
+"BRN"	81	"Brunei Darussalam"	0	"Forest"	2000	397
+"BRN"	81	"Brunei Darussalam"	0	"Forest"	1990	413
+"BRN"	81	"Brunei Darussalam"	0	"Forest"	2010	380
+"BRN"	81	"Brunei Darussalam"	2	"Other land"	1990	71
+"BRN"	81	"Brunei Darussalam"	0	"Forest"	2005	389
+"BRN"	81	"Brunei Darussalam"	3	"Other wooded land"	2005	48
+"BRN"	81	"Brunei Darussalam"	3	"Other wooded land"	2000	47
+"BGR"	146	"Bulgaria"	2	"Other land"	2005	7187
+"BGR"	146	"Bulgaria"	1	"Inland water"	1990	36
+"BGR"	146	"Bulgaria"	3	"Other wooded land"	1990	130
+"BGR"	146	"Bulgaria"	0	"Forest"	2000	3375
+"BGR"	146	"Bulgaria"	1	"Inland water"	2005	236
+"BGR"	146	"Bulgaria"	2	"Other land"	1990	7606
+"BGR"	146	"Bulgaria"	3	"Other wooded land"	2000	105
+"BGR"	146	"Bulgaria"	2	"Other land"	2000	7583
+"BGR"	146	"Bulgaria"	3	"Other wooded land"	2005	26
+"BGR"	146	"Bulgaria"	0	"Forest"	2010	3927
+"BGR"	146	"Bulgaria"	1	"Inland water"	2000	36
+"BGR"	146	"Bulgaria"	0	"Forest"	1990	3327
+"BGR"	146	"Bulgaria"	3	"Other wooded land"	2010	0
+"BGR"	146	"Bulgaria"	0	"Forest"	2005	3651
+"BGR"	146	"Bulgaria"	2	"Other land"	2010	6937
+"BGR"	146	"Bulgaria"	1	"Inland water"	2010	236
+"BFA"	63	"Burkina Faso"	3	"Other wooded land"	2000	5435
+"BFA"	63	"Burkina Faso"	0	"Forest"	2005	5949
+"BFA"	63	"Burkina Faso"	3	"Other wooded land"	1990	5861
+"BFA"	63	"Burkina Faso"	1	"Inland water"	2010	40
+"BFA"	63	"Burkina Faso"	2	"Other land"	2000	15677
+"BFA"	63	"Burkina Faso"	2	"Other land"	2005	16189
+"BFA"	63	"Burkina Faso"	0	"Forest"	2010	5649
+"BFA"	63	"Burkina Faso"	3	"Other wooded land"	2010	5009
+"BFA"	63	"Burkina Faso"	0	"Forest"	2000	6248
+"BFA"	63	"Burkina Faso"	2	"Other land"	1990	14652
+"BFA"	63	"Burkina Faso"	0	"Forest"	1990	6847
+"BFA"	63	"Burkina Faso"	1	"Inland water"	2005	40
+"BFA"	63	"Burkina Faso"	2	"Other land"	2010	16702
+"BFA"	63	"Burkina Faso"	1	"Inland water"	1990	40
+"BFA"	63	"Burkina Faso"	1	"Inland water"	2000	40
+"BFA"	63	"Burkina Faso"	3	"Other wooded land"	2005	5222
+"BDI"	4	"Burundi"	1	"Inland water"	2010	215
+"BDI"	4	"Burundi"	0	"Forest"	2005	181
+"BDI"	4	"Burundi"	2	"Other land"	1990	1557
+"BDI"	4	"Burundi"	0	"Forest"	2010	172
+"BDI"	4	"Burundi"	2	"Other land"	2005	1665
+"BDI"	4	"Burundi"	3	"Other wooded land"	2010	722
+"BDI"	4	"Burundi"	2	"Other land"	2000	1648
+"BDI"	4	"Burundi"	1	"Inland water"	1990	215
+"BDI"	4	"Burundi"	3	"Other wooded land"	2005	722
+"BDI"	4	"Burundi"	0	"Forest"	1990	289
+"BDI"	4	"Burundi"	2	"Other land"	2010	1674
+"BDI"	4	"Burundi"	1	"Inland water"	2005	215
+"BDI"	4	"Burundi"	3	"Other wooded land"	1990	722
+"BDI"	4	"Burundi"	0	"Forest"	2000	198
+"BDI"	4	"Burundi"	3	"Other wooded land"	2000	722
+"BDI"	4	"Burundi"	1	"Inland water"	2000	215
+"KHM"	38	"Cambodia"	1	"Inland water"	2010	452
+"KHM"	38	"Cambodia"	3	"Other wooded land"	2010	133
+"KHM"	38	"Cambodia"	3	"Other wooded land"	2005	133
+"KHM"	38	"Cambodia"	0	"Forest"	1990	12944
+"KHM"	38	"Cambodia"	2	"Other land"	2010	7425
+"KHM"	38	"Cambodia"	3	"Other wooded land"	2000	300
+"KHM"	38	"Cambodia"	3	"Other wooded land"	1990	335
+"KHM"	38	"Cambodia"	2	"Other land"	1990	4373
+"KHM"	38	"Cambodia"	0	"Forest"	2010	10094
+"KHM"	38	"Cambodia"	2	"Other land"	2000	5805
+"KHM"	38	"Cambodia"	0	"Forest"	2000	11546
+"KHM"	38	"Cambodia"	1	"Inland water"	2005	452
+"KHM"	38	"Cambodia"	1	"Inland water"	1990	452
+"KHM"	38	"Cambodia"	0	"Forest"	2005	10731
+"KHM"	38	"Cambodia"	2	"Other land"	2005	6788
+"KHM"	38	"Cambodia"	1	"Inland water"	2000	452
+"CMR"	5	"Cameroon"	1	"Inland water"	2000	273
+"CMR"	5	"Cameroon"	2	"Other land"	2010	14640
+"CMR"	5	"Cameroon"	2	"Other land"	1990	10240
+"CMR"	5	"Cameroon"	3	"Other wooded land"	1990	12715
+"CMR"	5	"Cameroon"	0	"Forest"	2000	22116
+"CMR"	5	"Cameroon"	2	"Other land"	2005	13540
+"CMR"	5	"Cameroon"	3	"Other wooded land"	2000	12715
+"CMR"	5	"Cameroon"	1	"Inland water"	2010	273
+"CMR"	5	"Cameroon"	0	"Forest"	2005	21016
+"CMR"	5	"Cameroon"	3	"Other wooded land"	2010	12715
+"CMR"	5	"Cameroon"	0	"Forest"	1990	24316
+"CMR"	5	"Cameroon"	3	"Other wooded land"	2005	12715
+"CMR"	5	"Cameroon"	0	"Forest"	2010	19916
+"CMR"	5	"Cameroon"	2	"Other land"	2000	12440
+"CMR"	5	"Cameroon"	1	"Inland water"	1990	273
+"CMR"	5	"Cameroon"	1	"Inland water"	2005	273
+"CAN"	203	"Canada"	2	"Other land"	2010	507266
+"CAN"	203	"Canada"	2	"Other land"	2000	507266
+"CAN"	203	"Canada"	3	"Other wooded land"	2000	91951
+"CAN"	203	"Canada"	2	"Other land"	2005	507266
+"CAN"	203	"Canada"	1	"Inland water"	2010	89116
+"CAN"	203	"Canada"	0	"Forest"	2005	310134
+"CAN"	203	"Canada"	0	"Forest"	1990	310134
+"CAN"	203	"Canada"	1	"Inland water"	2000	89116
+"CAN"	203	"Canada"	3	"Other wooded land"	2005	91951
+"CAN"	203	"Canada"	0	"Forest"	2010	310134
+"CAN"	203	"Canada"	3	"Other wooded land"	2010	91951
+"CAN"	203	"Canada"	3	"Other wooded land"	1990	91951
+"CAN"	203	"Canada"	1	"Inland water"	1990	89116
+"CAN"	203	"Canada"	1	"Inland water"	2005	89116
+"CAN"	203	"Canada"	0	"Forest"	2000	310134
+"CAN"	203	"Canada"	2	"Other land"	1990	507266
+"CPV"	64	"Cape Verde"	2	"Other land"	2005	319.41
+"CPV"	64	"Cape Verde"	0	"Forest"	1990	57.75
+"CPV"	64	"Cape Verde"	0	"Forest"	2005	83.59
+"CPV"	64	"Cape Verde"	3	"Other wooded land"	2010	0
+"CPV"	64	"Cape Verde"	1	"Inland water"	2010	0
+"CPV"	64	"Cape Verde"	2	"Other land"	2010	317.91
+"CPV"	64	"Cape Verde"	0	"Forest"	2010	85.09
+"CPV"	64	"Cape Verde"	1	"Inland water"	2005	0
+"CPV"	64	"Cape Verde"	1	"Inland water"	2000	0
+"CPV"	64	"Cape Verde"	3	"Other wooded land"	1990	0
+"CPV"	64	"Cape Verde"	3	"Other wooded land"	2005	0
+"CPV"	64	"Cape Verde"	3	"Other wooded land"	2000	0
+"CPV"	64	"Cape Verde"	1	"Inland water"	1990	0
+"CPV"	64	"Cape Verde"	2	"Other land"	1990	345.25
+"CPV"	64	"Cape Verde"	2	"Other land"	2000	320.91
+"CPV"	64	"Cape Verde"	0	"Forest"	2000	82.09
+"CYM"	184	"Cayman Islands"	0	"Forest"	2005	12.7
+"CYM"	184	"Cayman Islands"	1	"Inland water"	2005	0.4
+"CYM"	184	"Cayman Islands"	3	"Other wooded land"	2005	0
+"CYM"	184	"Cayman Islands"	2	"Other land"	2005	12.9
+"CYM"	184	"Cayman Islands"	2	"Other land"	1990	12.9
+"CYM"	184	"Cayman Islands"	1	"Inland water"	2010	0.4
+"CYM"	184	"Cayman Islands"	0	"Forest"	2000	12.7
+"CYM"	184	"Cayman Islands"	3	"Other wooded land"	1990	0
+"CYM"	184	"Cayman Islands"	1	"Inland water"	2000	0.4
+"CYM"	184	"Cayman Islands"	2	"Other land"	2010	12.9
+"CYM"	184	"Cayman Islands"	3	"Other wooded land"	2000	0
+"CYM"	184	"Cayman Islands"	0	"Forest"	1990	12.7
+"CYM"	184	"Cayman Islands"	0	"Forest"	2010	12.7
+"CYM"	184	"Cayman Islands"	2	"Other land"	2000	12.9
+"CYM"	184	"Cayman Islands"	1	"Inland water"	1990	0.4
+"CYM"	184	"Cayman Islands"	3	"Other wooded land"	2010	0
+"CAF"	6	"Central African Republic"	0	"Forest"	2005	22755
+"CAF"	6	"Central African Republic"	1	"Inland water"	2005	0
+"CAF"	6	"Central African Republic"	2	"Other land"	2005	29423
+"CAF"	6	"Central African Republic"	1	"Inland water"	2010	0
+"CAF"	6	"Central African Republic"	0	"Forest"	2000	22903
+"CAF"	6	"Central African Republic"	3	"Other wooded land"	1990	10122
+"CAF"	6	"Central African Republic"	3	"Other wooded land"	2010	10122
+"CAF"	6	"Central African Republic"	0	"Forest"	1990	23203
+"CAF"	6	"Central African Republic"	3	"Other wooded land"	2000	10122
+"CAF"	6	"Central African Republic"	2	"Other land"	2000	29275
+"CAF"	6	"Central African Republic"	2	"Other land"	2010	29573
+"CAF"	6	"Central African Republic"	2	"Other land"	1990	28975
+"CAF"	6	"Central African Republic"	0	"Forest"	2010	22605
+"CAF"	6	"Central African Republic"	1	"Inland water"	2000	0
+"CAF"	6	"Central African Republic"	1	"Inland water"	1990	0
+"CAF"	6	"Central African Republic"	3	"Other wooded land"	2005	10122
+"TCD"	65	"Chad"	2	"Other land"	2000	104145
+"TCD"	65	"Chad"	1	"Inland water"	2000	2480
+"TCD"	65	"Chad"	2	"Other land"	2010	105548
+"TCD"	65	"Chad"	1	"Inland water"	2005	2480
+"TCD"	65	"Chad"	2	"Other land"	1990	102740
+"TCD"	65	"Chad"	0	"Forest"	2010	11525
+"TCD"	65	"Chad"	1	"Inland water"	2010	2480
+"TCD"	65	"Chad"	3	"Other wooded land"	2000	9458
+"TCD"	65	"Chad"	1	"Inland water"	1990	2480
+"TCD"	65	"Chad"	3	"Other wooded land"	2010	8847
+"TCD"	65	"Chad"	2	"Other land"	2005	104847
+"TCD"	65	"Chad"	0	"Forest"	2005	11921
+"TCD"	65	"Chad"	0	"Forest"	1990	13110
+"TCD"	65	"Chad"	0	"Forest"	2000	12317
+"TCD"	65	"Chad"	3	"Other wooded land"	2005	9152
+"TCD"	65	"Chad"	3	"Other wooded land"	1990	10070
+"CHL"	216	"Chile"	3	"Other wooded land"	2010	14658
+"CHL"	216	"Chile"	1	"Inland water"	2000	783
+"CHL"	216	"Chile"	1	"Inland water"	2005	783
+"CHL"	216	"Chile"	0	"Forest"	2010	16231
+"CHL"	216	"Chile"	2	"Other land"	2000	44325
+"CHL"	216	"Chile"	0	"Forest"	1990	15263
+"CHL"	216	"Chile"	3	"Other wooded land"	2005	14674
+"CHL"	216	"Chile"	0	"Forest"	2000	15834
+"CHL"	216	"Chile"	3	"Other wooded land"	2000	14721
+"CHL"	216	"Chile"	1	"Inland water"	1990	783
+"CHL"	216	"Chile"	2	"Other land"	2005	44163
+"CHL"	216	"Chile"	0	"Forest"	2005	16043
+"CHL"	216	"Chile"	2	"Other land"	2010	43991
+"CHL"	216	"Chile"	1	"Inland water"	2010	783
+"CHL"	216	"Chile"	3	"Other wooded land"	1990	15063
+"CHL"	216	"Chile"	2	"Other land"	1990	44554
+"CHN"	102	"China"	3	"Other wooded land"	2000	97683.1
+"CHN"	102	"China"	1	"Inland water"	2005	17470
+"CHN"	102	"China"	3	"Other wooded land"	2010	102011.8
+"CHN"	102	"China"	0	"Forest"	2010	206860.6
+"CHN"	102	"China"	3	"Other wooded land"	2005	104332.9
+"CHN"	102	"China"	0	"Forest"	2000	177000.5
+"CHN"	102	"China"	2	"Other land"	2000	667846.4
+"CHN"	102	"China"	1	"Inland water"	2000	17470
+"CHN"	102	"China"	1	"Inland water"	1990	17470
+"CHN"	102	"China"	2	"Other land"	2005	645153.2
+"CHN"	102	"China"	0	"Forest"	2005	193043.9
+"CHN"	102	"China"	3	"Other wooded land"	1990	101497.7
+"CHN"	102	"China"	0	"Forest"	1990	157140.6
+"CHN"	102	"China"	1	"Inland water"	2010	17470
+"CHN"	102	"China"	2	"Other land"	1990	683891.7
+"CHN"	102	"China"	2	"Other land"	2010	633657.6
+"COL"	207	"Colombia"	0	"Forest"	2000	61509
+"COL"	207	"Colombia"	1	"Inland water"	2005	3225
+"COL"	207	"Colombia"	3	"Other wooded land"	2005	22727
+"COL"	207	"Colombia"	2	"Other land"	2010	27724
+"COL"	207	"Colombia"	1	"Inland water"	1990	3225
+"COL"	207	"Colombia"	3	"Other wooded land"	2010	22727
+"COL"	207	"Colombia"	0	"Forest"	2010	60499
+"COL"	207	"Colombia"	1	"Inland water"	2000	3225
+"COL"	207	"Colombia"	2	"Other land"	2005	27219
+"COL"	207	"Colombia"	3	"Other wooded land"	1990	22727
+"COL"	207	"Colombia"	3	"Other wooded land"	2000	22727
+"COL"	207	"Colombia"	0	"Forest"	2005	61004
+"COL"	207	"Colombia"	2	"Other land"	2000	26714
+"COL"	207	"Colombia"	0	"Forest"	1990	62519
+"COL"	207	"Colombia"	1	"Inland water"	2010	3225
+"COL"	207	"Colombia"	2	"Other land"	1990	25704
+"COM"	22	"Comoros"	3	"Other wooded land"	2005	0
+"COM"	22	"Comoros"	3	"Other wooded land"	2010	0
+"COM"	22	"Comoros"	2	"Other land"	2000	178
+"COM"	22	"Comoros"	0	"Forest"	2010	3
+"COM"	22	"Comoros"	0	"Forest"	2005	5
+"COM"	22	"Comoros"	1	"Inland water"	2000	0
+"COM"	22	"Comoros"	2	"Other land"	2005	181
+"COM"	22	"Comoros"	3	"Other wooded land"	2000	0
+"COM"	22	"Comoros"	2	"Other land"	1990	174
+"COM"	22	"Comoros"	2	"Other land"	2010	183
+"COM"	22	"Comoros"	0	"Forest"	2000	8
+"COM"	22	"Comoros"	3	"Other wooded land"	1990	0
+"COM"	22	"Comoros"	1	"Inland water"	1990	0
+"COM"	22	"Comoros"	0	"Forest"	1990	12
+"COM"	22	"Comoros"	1	"Inland water"	2005	0
+"COM"	22	"Comoros"	1	"Inland water"	2010	0
+"COG"	7	"Congo"	0	"Forest"	2010	22411
+"COG"	7	"Congo"	2	"Other land"	1990	775
+"COG"	7	"Congo"	3	"Other wooded land"	2005	10547
+"COG"	7	"Congo"	1	"Inland water"	2000	50
+"COG"	7	"Congo"	3	"Other wooded land"	1990	10649
+"COG"	7	"Congo"	1	"Inland water"	1990	50
+"COG"	7	"Congo"	0	"Forest"	1990	22726
+"COG"	7	"Congo"	1	"Inland water"	2005	50
+"COG"	7	"Congo"	2	"Other land"	2010	1226
+"COG"	7	"Congo"	2	"Other land"	2005	1132
+"COG"	7	"Congo"	3	"Other wooded land"	2010	10513
+"COG"	7	"Congo"	2	"Other land"	2000	1013
+"COG"	7	"Congo"	3	"Other wooded land"	2000	10581
+"COG"	7	"Congo"	0	"Forest"	2000	22556
+"COG"	7	"Congo"	1	"Inland water"	2010	50
+"COG"	7	"Congo"	0	"Forest"	2005	22471
+"COK"	110	"Cook Islands"	0	"Forest"	2010	15.5
+"COK"	110	"Cook Islands"	3	"Other wooded land"	1990	0
+"COK"	110	"Cook Islands"	2	"Other land"	1990	9.1
+"COK"	110	"Cook Islands"	0	"Forest"	1990	14.9
+"COK"	110	"Cook Islands"	1	"Inland water"	2000	0
+"COK"	110	"Cook Islands"	3	"Other wooded land"	2000	0
+"COK"	110	"Cook Islands"	0	"Forest"	2000	15.5
+"COK"	110	"Cook Islands"	2	"Other land"	2005	8.5
+"COK"	110	"Cook Islands"	1	"Inland water"	2010	0
+"COK"	110	"Cook Islands"	1	"Inland water"	2005	0
+"COK"	110	"Cook Islands"	3	"Other wooded land"	2005	0
+"COK"	110	"Cook Islands"	2	"Other land"	2010	8.5
+"COK"	110	"Cook Islands"	3	"Other wooded land"	2010	0
+"COK"	110	"Cook Islands"	1	"Inland water"	1990	0
+"COK"	110	"Cook Islands"	2	"Other land"	2000	8.5
+"COK"	110	"Cook Islands"	0	"Forest"	2005	15.5
+"CRI"	172	"Costa Rica"	3	"Other wooded land"	1990	15
+"CRI"	172	"Costa Rica"	0	"Forest"	1990	2564
+"CRI"	172	"Costa Rica"	1	"Inland water"	2010	4
+"CRI"	172	"Costa Rica"	2	"Other land"	1990	2527
+"CRI"	172	"Costa Rica"	0	"Forest"	2000	2376
+"CRI"	172	"Costa Rica"	2	"Other land"	2010	2489
+"CRI"	172	"Costa Rica"	3	"Other wooded land"	2010	12
+"CRI"	172	"Costa Rica"	1	"Inland water"	2000	4
+"CRI"	172	"Costa Rica"	3	"Other wooded land"	2005	11
+"CRI"	172	"Costa Rica"	0	"Forest"	2010	2605
+"CRI"	172	"Costa Rica"	2	"Other land"	2000	2720
+"CRI"	172	"Costa Rica"	2	"Other land"	2005	2604
+"CRI"	172	"Costa Rica"	3	"Other wooded land"	2000	10
+"CRI"	172	"Costa Rica"	1	"Inland water"	2005	4
+"CRI"	172	"Costa Rica"	0	"Forest"	2005	2491
+"CRI"	172	"Costa Rica"	1	"Inland water"	1990	4
+"CIV"	75	"Cote d'Ivoire"	3	"Other wooded land"	1990	2675
+"CIV"	75	"Cote d'Ivoire"	1	"Inland water"	2000	446
+"CIV"	75	"Cote d'Ivoire"	0	"Forest"	2005	10405
+"CIV"	75	"Cote d'Ivoire"	3	"Other wooded land"	2000	2662
+"CIV"	75	"Cote d'Ivoire"	2	"Other land"	1990	18903
+"CIV"	75	"Cote d'Ivoire"	1	"Inland water"	1990	446
+"CIV"	75	"Cote d'Ivoire"	2	"Other land"	2005	18769
+"CIV"	75	"Cote d'Ivoire"	3	"Other wooded land"	2005	2626
+"CIV"	75	"Cote d'Ivoire"	0	"Forest"	2000	10328
+"CIV"	75	"Cote d'Ivoire"	0	"Forest"	1990	10222
+"CIV"	75	"Cote d'Ivoire"	0	"Forest"	2010	10403
+"CIV"	75	"Cote d'Ivoire"	1	"Inland water"	2010	446
+"CIV"	75	"Cote d'Ivoire"	2	"Other land"	2000	18810
+"CIV"	75	"Cote d'Ivoire"	1	"Inland water"	2005	446
+"CIV"	75	"Cote d'Ivoire"	3	"Other wooded land"	2010	2590
+"CIV"	75	"Cote d'Ivoire"	2	"Other land"	2010	18807
+"HRV"	147	"Croatia"	0	"Forest"	1990	1850
+"HRV"	147	"Croatia"	3	"Other wooded land"	1990	277
+"HRV"	147	"Croatia"	2	"Other land"	2010	3118
+"HRV"	147	"Croatia"	1	"Inland water"	2010	62
+"HRV"	147	"Croatia"	2	"Other land"	1990	3465
+"HRV"	147	"Croatia"	1	"Inland water"	2000	62
+"HRV"	147	"Croatia"	0	"Forest"	2000	1885
+"HRV"	147	"Croatia"	0	"Forest"	2010	1920
+"HRV"	147	"Croatia"	3	"Other wooded land"	2010	554
+"HRV"	147	"Croatia"	3	"Other wooded land"	2000	415
+"HRV"	147	"Croatia"	3	"Other wooded land"	2005	484
+"HRV"	147	"Croatia"	1	"Inland water"	2005	62
+"HRV"	147	"Croatia"	0	"Forest"	2005	1903
+"HRV"	147	"Croatia"	2	"Other land"	2005	3205
+"HRV"	147	"Croatia"	1	"Inland water"	1990	62
+"HRV"	147	"Croatia"	2	"Other land"	2000	3292
+"CUB"	185	"Cuba"	2	"Other land"	2010	7813
+"CUB"	185	"Cuba"	0	"Forest"	2010	2870
+"CUB"	185	"Cuba"	3	"Other wooded land"	1990	254
+"CUB"	185	"Cuba"	3	"Other wooded land"	2005	388
+"CUB"	185	"Cuba"	1	"Inland water"	2000	104
+"CUB"	185	"Cuba"	3	"Other wooded land"	2000	264
+"CUB"	185	"Cuba"	2	"Other land"	2005	7897
+"CUB"	185	"Cuba"	1	"Inland water"	1990	104
+"CUB"	185	"Cuba"	1	"Inland water"	2005	104
+"CUB"	185	"Cuba"	0	"Forest"	2005	2697
+"CUB"	185	"Cuba"	1	"Inland water"	2010	104
+"CUB"	185	"Cuba"	2	"Other land"	1990	8670
+"CUB"	185	"Cuba"	2	"Other land"	2000	8283
+"CUB"	185	"Cuba"	3	"Other wooded land"	2010	299
+"CUB"	185	"Cuba"	0	"Forest"	2000	2435
+"CUB"	185	"Cuba"	0	"Forest"	1990	2058
+"CYP"	88	"Cyprus"	1	"Inland water"	2000	1
+"CYP"	88	"Cyprus"	3	"Other wooded land"	2005	213.865
+"CYP"	88	"Cyprus"	2	"Other land"	2010	537.103
+"CYP"	88	"Cyprus"	0	"Forest"	2010	173.182
+"CYP"	88	"Cyprus"	2	"Other land"	1990	568.04
+"CYP"	88	"Cyprus"	1	"Inland water"	2005	1
+"CYP"	88	"Cyprus"	3	"Other wooded land"	2000	213.86
+"CYP"	88	"Cyprus"	1	"Inland water"	1990	1
+"CYP"	88	"Cyprus"	3	"Other wooded land"	1990	195
+"CYP"	88	"Cyprus"	0	"Forest"	1990	161.11
+"CYP"	88	"Cyprus"	0	"Forest"	2005	172.851
+"CYP"	88	"Cyprus"	2	"Other land"	2005	537.434
+"CYP"	88	"Cyprus"	2	"Other land"	2000	538.68
+"CYP"	88	"Cyprus"	3	"Other wooded land"	2010	213.865
+"CYP"	88	"Cyprus"	1	"Inland water"	2010	1
+"CYP"	88	"Cyprus"	0	"Forest"	2000	171.61
+"CZE"	148	"Czech Republic"	1	"Inland water"	2000	160
+"CZE"	148	"Czech Republic"	0	"Forest"	2005	2647
+"CZE"	148	"Czech Republic"	3	"Other wooded land"	2000	0
+"CZE"	148	"Czech Republic"	1	"Inland water"	2005	161
+"CZE"	148	"Czech Republic"	0	"Forest"	1990	2629
+"CZE"	148	"Czech Republic"	0	"Forest"	2010	2657
+"CZE"	148	"Czech Republic"	3	"Other wooded land"	1990	0
+"CZE"	148	"Czech Republic"	2	"Other land"	1990	5098
+"CZE"	148	"Czech Republic"	2	"Other land"	2005	5079
+"CZE"	148	"Czech Republic"	1	"Inland water"	1990	160
+"CZE"	148	"Czech Republic"	2	"Other land"	2000	5090
+"CZE"	148	"Czech Republic"	0	"Forest"	2000	2637
+"CZE"	148	"Czech Republic"	3	"Other wooded land"	2005	0
+"CZE"	148	"Czech Republic"	2	"Other land"	2010	5069
+"CZE"	148	"Czech Republic"	1	"Inland water"	2010	161
+"CZE"	148	"Czech Republic"	3	"Other wooded land"	2010	0
+"PRK"	105	"Democratic People's Republic of Korea"	1	"Inland water"	2000	13
+"PRK"	105	"Democratic People's Republic of Korea"	0	"Forest"	2005	6299
+"PRK"	105	"Democratic People's Republic of Korea"	1	"Inland water"	2010	13
+"PRK"	105	"Democratic People's Republic of Korea"	1	"Inland water"	1990	13
+"PRK"	105	"Democratic People's Republic of Korea"	2	"Other land"	2005	5742
+"PRK"	105	"Democratic People's Republic of Korea"	3	"Other wooded land"	2010	0
+"PRK"	105	"Democratic People's Republic of Korea"	2	"Other land"	1990	3840
+"PRK"	105	"Democratic People's Republic of Korea"	0	"Forest"	2000	6933
+"PRK"	105	"Democratic People's Republic of Korea"	3	"Other wooded land"	1990	0
+"PRK"	105	"Democratic People's Republic of Korea"	3	"Other wooded land"	2005	0
+"PRK"	105	"Democratic People's Republic of Korea"	1	"Inland water"	2005	13
+"PRK"	105	"Democratic People's Republic of Korea"	2	"Other land"	2000	5108
+"PRK"	105	"Democratic People's Republic of Korea"	0	"Forest"	2010	5666
+"PRK"	105	"Democratic People's Republic of Korea"	2	"Other land"	2010	6375
+"PRK"	105	"Democratic People's Republic of Korea"	0	"Forest"	1990	8201
+"PRK"	105	"Democratic People's Republic of Korea"	3	"Other wooded land"	2000	0
+"COD"	12	"Democratic Republic of the Congo"	0	"Forest"	2000	157249
+"COD"	12	"Democratic Republic of the Congo"	1	"Inland water"	2000	7781
+"COD"	12	"Democratic Republic of the Congo"	1	"Inland water"	1990	7781
+"COD"	12	"Democratic Republic of the Congo"	2	"Other land"	1990	54829
+"COD"	12	"Democratic Republic of the Congo"	3	"Other wooded land"	2000	11513
+"COD"	12	"Democratic Republic of the Congo"	0	"Forest"	1990	160363
+"COD"	12	"Democratic Republic of the Congo"	3	"Other wooded land"	1990	11513
+"COD"	12	"Democratic Republic of the Congo"	3	"Other wooded land"	2005	11513
+"COD"	12	"Democratic Republic of the Congo"	2	"Other land"	2005	59500
+"COD"	12	"Democratic Republic of the Congo"	3	"Other wooded land"	2010	11513
+"COD"	12	"Democratic Republic of the Congo"	2	"Other land"	2000	57943
+"COD"	12	"Democratic Republic of the Congo"	0	"Forest"	2010	154135
+"COD"	12	"Democratic Republic of the Congo"	1	"Inland water"	2005	7781
+"COD"	12	"Democratic Republic of the Congo"	0	"Forest"	2005	155692
+"COD"	12	"Democratic Republic of the Congo"	2	"Other land"	2010	61057
+"COD"	12	"Democratic Republic of the Congo"	1	"Inland water"	2010	7781
+"DNK"	132	"Denmark"	3	"Other wooded land"	2000	136
+"DNK"	132	"Denmark"	1	"Inland water"	2000	66
+"DNK"	132	"Denmark"	2	"Other land"	2005	3662
+"DNK"	132	"Denmark"	1	"Inland water"	1990	66
+"DNK"	132	"Denmark"	0	"Forest"	2000	486
+"DNK"	132	"Denmark"	3	"Other wooded land"	2005	47
+"DNK"	132	"Denmark"	1	"Inland water"	2005	66
+"DNK"	132	"Denmark"	2	"Other land"	2000	3622
+"DNK"	132	"Denmark"	2	"Other land"	1990	3663
+"DNK"	132	"Denmark"	0	"Forest"	2010	544
+"DNK"	132	"Denmark"	2	"Other land"	2010	3652
+"DNK"	132	"Denmark"	0	"Forest"	1990	445
+"DNK"	132	"Denmark"	3	"Other wooded land"	1990	136
+"DNK"	132	"Denmark"	1	"Inland water"	2010	67
+"DNK"	132	"Denmark"	3	"Other wooded land"	2010	47
+"DNK"	132	"Denmark"	0	"Forest"	2005	534
+"DJI"	72	"Djibouti"	2	"Other land"	2000	2092
+"DJI"	72	"Djibouti"	3	"Other wooded land"	2010	220
+"DJI"	72	"Djibouti"	1	"Inland water"	2000	2
+"DJI"	72	"Djibouti"	1	"Inland water"	1990	2
+"DJI"	72	"Djibouti"	1	"Inland water"	2005	2
+"DJI"	72	"Djibouti"	2	"Other land"	2005	2092
+"DJI"	72	"Djibouti"	3	"Other wooded land"	1990	220
+"DJI"	72	"Djibouti"	3	"Other wooded land"	2005	220
+"DJI"	72	"Djibouti"	2	"Other land"	1990	2092
+"DJI"	72	"Djibouti"	2	"Other land"	2010	2092
+"DJI"	72	"Djibouti"	3	"Other wooded land"	2000	220
+"DJI"	72	"Djibouti"	1	"Inland water"	2010	2
+"DJI"	72	"Djibouti"	0	"Forest"	2005	5.6
+"DJI"	72	"Djibouti"	0	"Forest"	2010	5.6
+"DJI"	72	"Djibouti"	0	"Forest"	2000	5.6
+"DJI"	72	"Djibouti"	0	"Forest"	1990	5.6
+"DMA"	186	"Dominica"	3	"Other wooded land"	2005	0.28
+"DMA"	186	"Dominica"	1	"Inland water"	1990	0
+"DMA"	186	"Dominica"	3	"Other wooded land"	2010	0.3
+"DMA"	186	"Dominica"	0	"Forest"	2010	44.66
+"DMA"	186	"Dominica"	3	"Other wooded land"	2000	0.25
+"DMA"	186	"Dominica"	2	"Other land"	1990	24.8
+"DMA"	186	"Dominica"	0	"Forest"	2005	45.99
+"DMA"	186	"Dominica"	1	"Inland water"	2000	0
+"DMA"	186	"Dominica"	0	"Forest"	1990	50
+"DMA"	186	"Dominica"	0	"Forest"	2000	47.33
+"DMA"	186	"Dominica"	3	"Other wooded land"	1990	0.2
+"DMA"	186	"Dominica"	1	"Inland water"	2010	0
+"DMA"	186	"Dominica"	1	"Inland water"	2005	0
+"DMA"	186	"Dominica"	2	"Other land"	2000	27.42
+"DMA"	186	"Dominica"	2	"Other land"	2005	28.73
+"DMA"	186	"Dominica"	2	"Other land"	2010	30.04
+"DOM"	187	"Dominican Republic"	2	"Other land"	1990	2431
+"DOM"	187	"Dominican Republic"	0	"Forest"	2010	1972
+"DOM"	187	"Dominican Republic"	1	"Inland water"	2010	35
+"DOM"	187	"Dominican Republic"	1	"Inland water"	2000	35
+"DOM"	187	"Dominican Republic"	1	"Inland water"	1990	35
+"DOM"	187	"Dominican Republic"	0	"Forest"	2000	1972
+"DOM"	187	"Dominican Republic"	3	"Other wooded land"	2000	436
+"DOM"	187	"Dominican Republic"	0	"Forest"	2005	1972
+"DOM"	187	"Dominican Republic"	3	"Other wooded land"	1990	436
+"DOM"	187	"Dominican Republic"	1	"Inland water"	2005	35
+"DOM"	187	"Dominican Republic"	3	"Other wooded land"	2010	436
+"DOM"	187	"Dominican Republic"	2	"Other land"	2000	2431
+"DOM"	187	"Dominican Republic"	0	"Forest"	1990	1972
+"DOM"	187	"Dominican Republic"	2	"Other land"	2010	2431
+"DOM"	187	"Dominican Republic"	2	"Other land"	2005	2431
+"DOM"	187	"Dominican Republic"	3	"Other wooded land"	2005	436
+"ECU"	208	"Ecuador"	2	"Other land"	1990	12666
+"ECU"	208	"Ecuador"	3	"Other wooded land"	2000	1360
+"ECU"	208	"Ecuador"	0	"Forest"	2010	9865
+"ECU"	208	"Ecuador"	1	"Inland water"	2005	672
+"ECU"	208	"Ecuador"	2	"Other land"	2005	15383
+"ECU"	208	"Ecuador"	1	"Inland water"	1990	672
+"ECU"	208	"Ecuador"	1	"Inland water"	2000	672
+"ECU"	208	"Ecuador"	3	"Other wooded land"	2005	1448
+"ECU"	208	"Ecuador"	3	"Other wooded land"	2010	1519
+"ECU"	208	"Ecuador"	3	"Other wooded land"	1990	1201
+"ECU"	208	"Ecuador"	1	"Inland water"	2010	672
+"ECU"	208	"Ecuador"	2	"Other land"	2010	16300
+"ECU"	208	"Ecuador"	2	"Other land"	2000	14483
+"ECU"	208	"Ecuador"	0	"Forest"	2000	11841
+"ECU"	208	"Ecuador"	0	"Forest"	2005	10853
+"ECU"	208	"Ecuador"	0	"Forest"	1990	13817
+"EGY"	53	"Egypt"	1	"Inland water"	2010	600
+"EGY"	53	"Egypt"	1	"Inland water"	1990	600
+"EGY"	53	"Egypt"	3	"Other wooded land"	2000	20
+"EGY"	53	"Egypt"	3	"Other wooded land"	2005	20
+"EGY"	53	"Egypt"	2	"Other land"	2000	99466
+"EGY"	53	"Egypt"	0	"Forest"	2010	70
+"EGY"	53	"Egypt"	1	"Inland water"	2000	600
+"EGY"	53	"Egypt"	3	"Other wooded land"	1990	20
+"EGY"	53	"Egypt"	2	"Other land"	2010	99455
+"EGY"	53	"Egypt"	0	"Forest"	2005	67
+"EGY"	53	"Egypt"	1	"Inland water"	2005	600
+"EGY"	53	"Egypt"	2	"Other land"	2005	99458
+"EGY"	53	"Egypt"	0	"Forest"	2000	59
+"EGY"	53	"Egypt"	2	"Other land"	1990	99481
+"EGY"	53	"Egypt"	3	"Other wooded land"	2010	20
+"EGY"	53	"Egypt"	0	"Forest"	1990	44
+"SLV"	173	"El Salvador"	0	"Forest"	2010	287
+"SLV"	173	"El Salvador"	0	"Forest"	2000	332
+"SLV"	173	"El Salvador"	2	"Other land"	2010	1581
+"SLV"	173	"El Salvador"	1	"Inland water"	2005	32
+"SLV"	173	"El Salvador"	1	"Inland water"	2010	32
+"SLV"	173	"El Salvador"	3	"Other wooded land"	2005	204
+"SLV"	173	"El Salvador"	2	"Other land"	1990	1491
+"SLV"	173	"El Salvador"	2	"Other land"	2005	1559
+"SLV"	173	"El Salvador"	2	"Other land"	2000	1536
+"SLV"	173	"El Salvador"	3	"Other wooded land"	2000	204
+"SLV"	173	"El Salvador"	0	"Forest"	1990	377
+"SLV"	173	"El Salvador"	1	"Inland water"	1990	32
+"SLV"	173	"El Salvador"	0	"Forest"	2005	309
+"SLV"	173	"El Salvador"	3	"Other wooded land"	2010	204
+"SLV"	173	"El Salvador"	3	"Other wooded land"	1990	204
+"SLV"	173	"El Salvador"	1	"Inland water"	2000	32
+"GNQ"	8	"Equatorial Guinea"	3	"Other wooded land"	2005	8
+"GNQ"	8	"Equatorial Guinea"	2	"Other land"	2010	1171
+"GNQ"	8	"Equatorial Guinea"	0	"Forest"	2005	1685
+"GNQ"	8	"Equatorial Guinea"	0	"Forest"	1990	1860
+"GNQ"	8	"Equatorial Guinea"	2	"Other land"	1990	938
+"GNQ"	8	"Equatorial Guinea"	2	"Other land"	2005	1112
+"GNQ"	8	"Equatorial Guinea"	3	"Other wooded land"	2000	8
+"GNQ"	8	"Equatorial Guinea"	3	"Other wooded land"	1990	7
+"GNQ"	8	"Equatorial Guinea"	2	"Other land"	2000	1054
+"GNQ"	8	"Equatorial Guinea"	0	"Forest"	2000	1743
+"GNQ"	8	"Equatorial Guinea"	1	"Inland water"	2000	0
+"GNQ"	8	"Equatorial Guinea"	1	"Inland water"	1990	0
+"GNQ"	8	"Equatorial Guinea"	1	"Inland water"	2005	0
+"GNQ"	8	"Equatorial Guinea"	3	"Other wooded land"	2010	8
+"GNQ"	8	"Equatorial Guinea"	0	"Forest"	2010	1626
+"GNQ"	8	"Equatorial Guinea"	1	"Inland water"	2010	0
+"ERI"	62	"Eritrea"	3	"Other wooded land"	2005	7257
+"ERI"	62	"Eritrea"	0	"Forest"	1990	1621
+"ERI"	62	"Eritrea"	2	"Other land"	2005	1289
+"ERI"	62	"Eritrea"	3	"Other wooded land"	1990	7569
+"ERI"	62	"Eritrea"	2	"Other land"	2010	1415
+"ERI"	62	"Eritrea"	1	"Inland water"	2005	1660
+"ERI"	62	"Eritrea"	1	"Inland water"	1990	1660
+"ERI"	62	"Eritrea"	3	"Other wooded land"	2000	7361
+"ERI"	62	"Eritrea"	0	"Forest"	2010	1532
+"ERI"	62	"Eritrea"	3	"Other wooded land"	2010	7153
+"ERI"	62	"Eritrea"	0	"Forest"	2000	1576
+"ERI"	62	"Eritrea"	2	"Other land"	2000	1163
+"ERI"	62	"Eritrea"	0	"Forest"	2005	1554
+"ERI"	62	"Eritrea"	1	"Inland water"	2010	1660
+"ERI"	62	"Eritrea"	1	"Inland water"	2000	1660
+"ERI"	62	"Eritrea"	2	"Other land"	1990	910
+"EST"	159	"Estonia"	0	"Forest"	2005	2252
+"EST"	159	"Estonia"	2	"Other land"	2005	1877
+"EST"	159	"Estonia"	0	"Forest"	1990	2090
+"EST"	159	"Estonia"	3	"Other wooded land"	2010	133
+"EST"	159	"Estonia"	3	"Other wooded land"	2005	110
+"EST"	159	"Estonia"	2	"Other land"	2010	1889
+"EST"	159	"Estonia"	1	"Inland water"	2000	284
+"EST"	159	"Estonia"	1	"Inland water"	2010	284
+"EST"	159	"Estonia"	3	"Other wooded land"	2000	94
+"EST"	159	"Estonia"	2	"Other land"	2000	1902
+"EST"	159	"Estonia"	3	"Other wooded land"	1990	0
+"EST"	159	"Estonia"	1	"Inland water"	1990	284
+"EST"	159	"Estonia"	1	"Inland water"	2005	284
+"EST"	159	"Estonia"	2	"Other land"	1990	2149
+"EST"	159	"Estonia"	0	"Forest"	2000	2243
+"EST"	159	"Estonia"	0	"Forest"	2010	2217
+"ETH"	60	"Ethiopia"	0	"Forest"	2005	13000
+"ETH"	60	"Ethiopia"	3	"Other wooded land"	2005	44650
+"ETH"	60	"Ethiopia"	1	"Inland water"	2000	799
+"ETH"	60	"Ethiopia"	3	"Other wooded land"	2000	44650
+"ETH"	60	"Ethiopia"	2	"Other land"	2010	52685
+"ETH"	60	"Ethiopia"	0	"Forest"	1990	15114
+"ETH"	60	"Ethiopia"	1	"Inland water"	1990	799
+"ETH"	60	"Ethiopia"	2	"Other land"	2000	51276
+"ETH"	60	"Ethiopia"	2	"Other land"	2005	51981
+"ETH"	60	"Ethiopia"	2	"Other land"	1990	49867
+"ETH"	60	"Ethiopia"	3	"Other wooded land"	1990	44650
+"ETH"	60	"Ethiopia"	1	"Inland water"	2005	799
+"ETH"	60	"Ethiopia"	1	"Inland water"	2010	799
+"ETH"	60	"Ethiopia"	0	"Forest"	2010	12296
+"ETH"	60	"Ethiopia"	0	"Forest"	2000	13705
+"ETH"	60	"Ethiopia"	3	"Other wooded land"	2010	44650
+"FRO"	642354614	"Faeroe Islands"	2	"Other land"	2000	139.9
+"FRO"	642354614	"Faeroe Islands"	3	"Other wooded land"	2005	0
+"FRO"	642354614	"Faeroe Islands"	1	"Inland water"	2000	0
+"FRO"	642354614	"Faeroe Islands"	2	"Other land"	2005	139.9
+"FRO"	642354614	"Faeroe Islands"	3	"Other wooded land"	2000	0
+"FRO"	642354614	"Faeroe Islands"	0	"Forest"	2000	0.1
+"FRO"	642354614	"Faeroe Islands"	0	"Forest"	1990	0.1
+"FRO"	642354614	"Faeroe Islands"	2	"Other land"	2010	139.9
+"FRO"	642354614	"Faeroe Islands"	0	"Forest"	2005	0.1
+"FRO"	642354614	"Faeroe Islands"	1	"Inland water"	2005	0
+"FRO"	642354614	"Faeroe Islands"	1	"Inland water"	2010	0
+"FRO"	642354614	"Faeroe Islands"	3	"Other wooded land"	2010	0
+"FRO"	642354614	"Faeroe Islands"	1	"Inland water"	1990	0
+"FRO"	642354614	"Faeroe Islands"	2	"Other land"	1990	139.9
+"FRO"	642354614	"Faeroe Islands"	3	"Other wooded land"	1990	0
+"FRO"	642354614	"Faeroe Islands"	0	"Forest"	2010	0.1
+"FLK"	7653870	"Falkland Islands (Malvinas)"	2	"Other land"	2000	1217
+"FLK"	7653870	"Falkland Islands (Malvinas)"	1	"Inland water"	2005	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	1	"Inland water"	2000	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	3	"Other wooded land"	2000	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	0	"Forest"	2000	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	2	"Other land"	1990	1217
+"FLK"	7653870	"Falkland Islands (Malvinas)"	0	"Forest"	2005	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	1	"Inland water"	1990	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	3	"Other wooded land"	2005	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	3	"Other wooded land"	2010	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	2	"Other land"	2005	1217
+"FLK"	7653870	"Falkland Islands (Malvinas)"	2	"Other land"	2010	1217
+"FLK"	7653870	"Falkland Islands (Malvinas)"	3	"Other wooded land"	1990	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	0	"Forest"	1990	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	0	"Forest"	2010	0
+"FLK"	7653870	"Falkland Islands (Malvinas)"	1	"Inland water"	2010	0
+"FJI"	111	"Fiji"	1	"Inland water"	2000	0
+"FJI"	111	"Fiji"	3	"Other wooded land"	2005	68.97
+"FJI"	111	"Fiji"	2	"Other land"	2000	786.26
+"FJI"	111	"Fiji"	0	"Forest"	2000	980.44
+"FJI"	111	"Fiji"	3	"Other wooded land"	2000	60.3
+"FJI"	111	"Fiji"	1	"Inland water"	1990	0
+"FJI"	111	"Fiji"	1	"Inland water"	2005	0
+"FJI"	111	"Fiji"	0	"Forest"	2005	997.26
+"FJI"	111	"Fiji"	2	"Other land"	2005	760.77
+"FJI"	111	"Fiji"	2	"Other land"	2010	735.28
+"FJI"	111	"Fiji"	3	"Other wooded land"	1990	45.1
+"FJI"	111	"Fiji"	3	"Other wooded land"	2010	77.64
+"FJI"	111	"Fiji"	2	"Other land"	1990	829
+"FJI"	111	"Fiji"	0	"Forest"	1990	952.9
+"FJI"	111	"Fiji"	1	"Inland water"	2010	0
+"FJI"	111	"Fiji"	0	"Forest"	2010	1014.08
+"FIN"	125	"Finland"	3	"Other wooded land"	2000	824
+"FIN"	125	"Finland"	1	"Inland water"	1990	3433
+"FIN"	125	"Finland"	2	"Other land"	2005	7140
+"FIN"	125	"Finland"	3	"Other wooded land"	2010	1112
+"FIN"	125	"Finland"	1	"Inland water"	2000	3433
+"FIN"	125	"Finland"	0	"Forest"	2005	22157
+"FIN"	125	"Finland"	3	"Other wooded land"	1990	926
+"FIN"	125	"Finland"	2	"Other land"	1990	7593
+"FIN"	125	"Finland"	0	"Forest"	2000	22459
+"FIN"	125	"Finland"	2	"Other land"	2000	7126
+"FIN"	125	"Finland"	1	"Inland water"	2010	3433
+"FIN"	125	"Finland"	0	"Forest"	2010	22157
+"FIN"	125	"Finland"	3	"Other wooded land"	2005	1112
+"FIN"	125	"Finland"	1	"Inland water"	2005	3433
+"FIN"	125	"Finland"	2	"Other land"	2010	7140
+"FIN"	125	"Finland"	0	"Forest"	1990	21889
+"FRA"	133	"France"	3	"Other wooded land"	2010	1618
+"FRA"	133	"France"	2	"Other land"	2005	37581
+"FRA"	133	"France"	1	"Inland water"	2005	140
+"FRA"	133	"France"	3	"Other wooded land"	2000	1812
+"FRA"	133	"France"	2	"Other land"	2000	37845
+"FRA"	133	"France"	1	"Inland water"	1990	140
+"FRA"	133	"France"	0	"Forest"	2000	15353
+"FRA"	133	"France"	1	"Inland water"	2010	140
+"FRA"	133	"France"	3	"Other wooded land"	1990	2086
+"FRA"	133	"France"	2	"Other land"	1990	38387
+"FRA"	133	"France"	0	"Forest"	2005	15714
+"FRA"	133	"France"	0	"Forest"	1990	14537
+"FRA"	133	"France"	1	"Inland water"	2000	140
+"FRA"	133	"France"	3	"Other wooded land"	2005	1715
+"FRA"	133	"France"	0	"Forest"	2010	15954
+"FRA"	133	"France"	2	"Other land"	2010	37438
+"GUF"	209	"French Guiana"	3	"Other wooded land"	2000	0
+"GUF"	209	"French Guiana"	1	"Inland water"	1990	142
+"GUF"	209	"French Guiana"	1	"Inland water"	2010	176
+"GUF"	209	"French Guiana"	2	"Other land"	2005	120
+"GUF"	209	"French Guiana"	0	"Forest"	2000	8118
+"GUF"	209	"French Guiana"	3	"Other wooded land"	2010	0
+"GUF"	209	"French Guiana"	3	"Other wooded land"	1990	0
+"GUF"	209	"French Guiana"	2	"Other land"	1990	66
+"GUF"	209	"French Guiana"	0	"Forest"	1990	8188
+"GUF"	209	"French Guiana"	0	"Forest"	2005	8100
+"GUF"	209	"French Guiana"	0	"Forest"	2010	8082
+"GUF"	209	"French Guiana"	2	"Other land"	2000	102
+"GUF"	209	"French Guiana"	1	"Inland water"	2000	176
+"GUF"	209	"French Guiana"	3	"Other wooded land"	2005	0
+"GUF"	209	"French Guiana"	2	"Other land"	2010	138
+"GUF"	209	"French Guiana"	1	"Inland water"	2005	176
+"PYF"	112	"French Polynesia"	0	"Forest"	2010	155
+"PYF"	112	"French Polynesia"	3	"Other wooded land"	1990	0
+"PYF"	112	"French Polynesia"	1	"Inland water"	1990	34
+"PYF"	112	"French Polynesia"	3	"Other wooded land"	2010	0
+"PYF"	112	"French Polynesia"	3	"Other wooded land"	2000	0
+"PYF"	112	"French Polynesia"	1	"Inland water"	2000	34
+"PYF"	112	"French Polynesia"	2	"Other land"	1990	311
+"PYF"	112	"French Polynesia"	0	"Forest"	2005	130
+"PYF"	112	"French Polynesia"	1	"Inland water"	2010	34
+"PYF"	112	"French Polynesia"	1	"Inland water"	2005	34
+"PYF"	112	"French Polynesia"	2	"Other land"	2005	236
+"PYF"	112	"French Polynesia"	3	"Other wooded land"	2005	0
+"PYF"	112	"French Polynesia"	0	"Forest"	2000	105
+"PYF"	112	"French Polynesia"	2	"Other land"	2000	261
+"PYF"	112	"French Polynesia"	2	"Other land"	2010	211
+"PYF"	112	"French Polynesia"	0	"Forest"	1990	55
+"GAB"	9	"Gabon"	1	"Inland water"	2005	1000
+"GAB"	9	"Gabon"	1	"Inland water"	2010	1000
+"GAB"	9	"Gabon"	3	"Other wooded land"	2010	0
+"GAB"	9	"Gabon"	1	"Inland water"	2000	1000
+"GAB"	9	"Gabon"	3	"Other wooded land"	2005	0
+"GAB"	9	"Gabon"	1	"Inland water"	1990	1000
+"GAB"	9	"Gabon"	0	"Forest"	2005	22000
+"GAB"	9	"Gabon"	0	"Forest"	1990	22000
+"GAB"	9	"Gabon"	3	"Other wooded land"	2000	0
+"GAB"	9	"Gabon"	2	"Other land"	2010	3767
+"GAB"	9	"Gabon"	0	"Forest"	2010	22000
+"GAB"	9	"Gabon"	2	"Other land"	2000	3767
+"GAB"	9	"Gabon"	3	"Other wooded land"	1990	0
+"GAB"	9	"Gabon"	0	"Forest"	2000	22000
+"GAB"	9	"Gabon"	2	"Other land"	1990	3767
+"GAB"	9	"Gabon"	2	"Other land"	2005	3767
+"GMB"	66	"Gambia"	3	"Other wooded land"	2005	107
+"GMB"	66	"Gambia"	3	"Other wooded land"	2010	103
+"GMB"	66	"Gambia"	1	"Inland water"	2010	130
+"GMB"	66	"Gambia"	1	"Inland water"	1990	130
+"GMB"	66	"Gambia"	0	"Forest"	2005	471
+"GMB"	66	"Gambia"	2	"Other land"	2000	428
+"GMB"	66	"Gambia"	1	"Inland water"	2005	130
+"GMB"	66	"Gambia"	2	"Other land"	2010	417
+"GMB"	66	"Gambia"	0	"Forest"	2000	461
+"GMB"	66	"Gambia"	0	"Forest"	2010	480
+"GMB"	66	"Gambia"	1	"Inland water"	2000	130
+"GMB"	66	"Gambia"	3	"Other wooded land"	1990	119
+"GMB"	66	"Gambia"	2	"Other land"	2005	422
+"GMB"	66	"Gambia"	2	"Other land"	1990	439
+"GMB"	66	"Gambia"	3	"Other wooded land"	2000	111
+"GMB"	66	"Gambia"	0	"Forest"	1990	442
+"GEO"	160	"Georgia"	0	"Forest"	2005	2755.06
+"GEO"	160	"Georgia"	3	"Other wooded land"	2005	51.25
+"GEO"	160	"Georgia"	3	"Other wooded land"	2010	50.83
+"GEO"	160	"Georgia"	2	"Other land"	2000	4129.49
+"GEO"	160	"Georgia"	1	"Inland water"	2005	21
+"GEO"	160	"Georgia"	3	"Other wooded land"	2000	51.68
+"GEO"	160	"Georgia"	2	"Other land"	2005	4142.69
+"GEO"	160	"Georgia"	0	"Forest"	2010	2742.29
+"GEO"	160	"Georgia"	3	"Other wooded land"	1990	53
+"GEO"	160	"Georgia"	2	"Other land"	2010	4155.88
+"GEO"	160	"Georgia"	2	"Other land"	1990	4116.7
+"GEO"	160	"Georgia"	1	"Inland water"	1990	21
+"GEO"	160	"Georgia"	1	"Inland water"	2010	21
+"GEO"	160	"Georgia"	0	"Forest"	1990	2779.3
+"GEO"	160	"Georgia"	1	"Inland water"	2000	21
+"GEO"	160	"Georgia"	0	"Forest"	2000	2767.83
+"DEU"	134	"Germany"	3	"Other wooded land"	1990	0
+"DEU"	134	"Germany"	3	"Other wooded land"	2005	0
+"DEU"	134	"Germany"	2	"Other land"	2000	23801
+"DEU"	134	"Germany"	1	"Inland water"	2010	828
+"DEU"	134	"Germany"	2	"Other land"	2010	23801
+"DEU"	134	"Germany"	1	"Inland water"	2005	828
+"DEU"	134	"Germany"	1	"Inland water"	2000	828
+"DEU"	134	"Germany"	0	"Forest"	1990	10741
+"DEU"	134	"Germany"	2	"Other land"	2005	23801
+"DEU"	134	"Germany"	3	"Other wooded land"	2010	0
+"DEU"	134	"Germany"	0	"Forest"	2005	11076
+"DEU"	134	"Germany"	0	"Forest"	2010	11076
+"DEU"	134	"Germany"	1	"Inland water"	1990	828
+"DEU"	134	"Germany"	3	"Other wooded land"	2000	0
+"DEU"	134	"Germany"	0	"Forest"	2000	11076
+"DEU"	134	"Germany"	2	"Other land"	1990	24136
+"GHA"	76	"Ghana"	0	"Forest"	1990	7448
+"GHA"	76	"Ghana"	0	"Forest"	2010	4940
+"GHA"	76	"Ghana"	2	"Other land"	2010	17814
+"GHA"	76	"Ghana"	2	"Other land"	2000	16660
+"GHA"	76	"Ghana"	0	"Forest"	2000	6094
+"GHA"	76	"Ghana"	3	"Other wooded land"	2000	0
+"GHA"	76	"Ghana"	1	"Inland water"	2005	1100
+"GHA"	76	"Ghana"	1	"Inland water"	2010	1100
+"GHA"	76	"Ghana"	0	"Forest"	2005	5517
+"GHA"	76	"Ghana"	3	"Other wooded land"	1990	0
+"GHA"	76	"Ghana"	1	"Inland water"	2000	1100
+"GHA"	76	"Ghana"	3	"Other wooded land"	2010	0
+"GHA"	76	"Ghana"	2	"Other land"	1990	15306
+"GHA"	76	"Ghana"	3	"Other wooded land"	2005	0
+"GHA"	76	"Ghana"	1	"Inland water"	1990	1100
+"GHA"	76	"Ghana"	2	"Other land"	2005	17237
+"GIB"	7655146	"Gibraltar"	2	"Other land"	2005	1
+"GIB"	7655146	"Gibraltar"	1	"Inland water"	2010	0
+"GIB"	7655146	"Gibraltar"	0	"Forest"	2000	0
+"GIB"	7655146	"Gibraltar"	2	"Other land"	2000	1
+"GIB"	7655146	"Gibraltar"	1	"Inland water"	2000	0
+"GIB"	7655146	"Gibraltar"	3	"Other wooded land"	2005	0
+"GIB"	7655146	"Gibraltar"	0	"Forest"	2010	0
+"GIB"	7655146	"Gibraltar"	2	"Other land"	1990	1
+"GIB"	7655146	"Gibraltar"	1	"Inland water"	2005	0
+"GIB"	7655146	"Gibraltar"	3	"Other wooded land"	2010	0
+"GIB"	7655146	"Gibraltar"	0	"Forest"	2005	0
+"GIB"	7655146	"Gibraltar"	1	"Inland water"	1990	0
+"GIB"	7655146	"Gibraltar"	3	"Other wooded land"	1990	0
+"GIB"	7655146	"Gibraltar"	2	"Other land"	2010	1
+"GIB"	7655146	"Gibraltar"	3	"Other wooded land"	2000	0
+"GIB"	7655146	"Gibraltar"	0	"Forest"	1990	0
+"GRC"	135	"Greece"	2	"Other land"	2005	6358
+"GRC"	135	"Greece"	1	"Inland water"	2000	306
+"GRC"	135	"Greece"	0	"Forest"	2000	3601
+"GRC"	135	"Greece"	0	"Forest"	2005	3752
+"GRC"	135	"Greece"	3	"Other wooded land"	2005	2780
+"GRC"	135	"Greece"	1	"Inland water"	2010	306
+"GRC"	135	"Greece"	1	"Inland water"	2005	306
+"GRC"	135	"Greece"	3	"Other wooded land"	2010	2636
+"GRC"	135	"Greece"	2	"Other land"	2010	6351
+"GRC"	135	"Greece"	0	"Forest"	2010	3903
+"GRC"	135	"Greece"	1	"Inland water"	1990	306
+"GRC"	135	"Greece"	3	"Other wooded land"	2000	2924
+"GRC"	135	"Greece"	3	"Other wooded land"	1990	3212
+"GRC"	135	"Greece"	0	"Forest"	1990	3299
+"GRC"	135	"Greece"	2	"Other land"	2000	6365
+"GRC"	135	"Greece"	2	"Other land"	1990	6379
+"GRL"	4103	"Greenland"	1	"Inland water"	2000	0
+"GRL"	4103	"Greenland"	0	"Forest"	2000	0.22
+"GRL"	4103	"Greenland"	1	"Inland water"	2005	0
+"GRL"	4103	"Greenland"	2	"Other land"	2005	41037.28
+"GRL"	4103	"Greenland"	1	"Inland water"	1990	0
+"GRL"	4103	"Greenland"	3	"Other wooded land"	2005	7.5
+"GRL"	4103	"Greenland"	2	"Other land"	2010	41037.28
+"GRL"	4103	"Greenland"	0	"Forest"	2010	0.22
+"GRL"	4103	"Greenland"	1	"Inland water"	2010	0
+"GRL"	4103	"Greenland"	3	"Other wooded land"	2000	7.5
+"GRL"	4103	"Greenland"	0	"Forest"	1990	0.22
+"GRL"	4103	"Greenland"	0	"Forest"	2005	0.22
+"GRL"	4103	"Greenland"	2	"Other land"	2000	41037.28
+"GRL"	4103	"Greenland"	2	"Other land"	1990	41037.28
+"GRL"	4103	"Greenland"	3	"Other wooded land"	2010	7.5
+"GRL"	4103	"Greenland"	3	"Other wooded land"	1990	7.5
+"GRD"	188	"Grenada"	3	"Other wooded land"	2005	1.23
+"GRD"	188	"Grenada"	0	"Forest"	2000	16.99
+"GRD"	188	"Grenada"	3	"Other wooded land"	2000	1.23
+"GRD"	188	"Grenada"	1	"Inland water"	1990	0
+"GRD"	188	"Grenada"	2	"Other land"	1990	15.78
+"GRD"	188	"Grenada"	2	"Other land"	2005	15.78
+"GRD"	188	"Grenada"	1	"Inland water"	2000	0
+"GRD"	188	"Grenada"	2	"Other land"	2000	15.78
+"GRD"	188	"Grenada"	0	"Forest"	1990	16.99
+"GRD"	188	"Grenada"	0	"Forest"	2005	16.99
+"GRD"	188	"Grenada"	1	"Inland water"	2005	0
+"GRD"	188	"Grenada"	1	"Inland water"	2010	0
+"GRD"	188	"Grenada"	3	"Other wooded land"	2010	1.23
+"GRD"	188	"Grenada"	3	"Other wooded land"	1990	1.23
+"GRD"	188	"Grenada"	2	"Other land"	2010	15.78
+"GRD"	188	"Grenada"	0	"Forest"	2010	16.99
+"GLP"	189	"Guadeloupe"	1	"Inland water"	2010	1.9
+"GLP"	189	"Guadeloupe"	2	"Other land"	1990	91.2
+"GLP"	189	"Guadeloupe"	3	"Other wooded land"	2010	2.5
+"GLP"	189	"Guadeloupe"	1	"Inland water"	2005	1.9
+"GLP"	189	"Guadeloupe"	1	"Inland water"	2000	1.9
+"GLP"	189	"Guadeloupe"	0	"Forest"	2000	65.4
+"GLP"	189	"Guadeloupe"	0	"Forest"	2010	63.5
+"GLP"	189	"Guadeloupe"	3	"Other wooded land"	2005	2.5
+"GLP"	189	"Guadeloupe"	2	"Other land"	2010	95.1
+"GLP"	189	"Guadeloupe"	1	"Inland water"	1990	1.9
+"GLP"	189	"Guadeloupe"	3	"Other wooded land"	2000	2.5
+"GLP"	189	"Guadeloupe"	3	"Other wooded land"	1990	2.5
+"GLP"	189	"Guadeloupe"	2	"Other land"	2005	94.2
+"GLP"	189	"Guadeloupe"	2	"Other land"	2000	93.2
+"GLP"	189	"Guadeloupe"	0	"Forest"	2005	64.4
+"GLP"	189	"Guadeloupe"	0	"Forest"	1990	67.4
+"GUM"	113	"Guam"	1	"Inland water"	2010	0
+"GUM"	113	"Guam"	3	"Other wooded land"	2010	0
+"GUM"	113	"Guam"	2	"Other land"	1990	29.12
+"GUM"	113	"Guam"	0	"Forest"	2005	25.88
+"GUM"	113	"Guam"	0	"Forest"	2010	25.88
+"GUM"	113	"Guam"	2	"Other land"	2010	29.12
+"GUM"	113	"Guam"	0	"Forest"	2000	25.88
+"GUM"	113	"Guam"	1	"Inland water"	1990	0
+"GUM"	113	"Guam"	1	"Inland water"	2005	0
+"GUM"	113	"Guam"	3	"Other wooded land"	1990	0
+"GUM"	113	"Guam"	1	"Inland water"	2000	0
+"GUM"	113	"Guam"	2	"Other land"	2000	29.12
+"GUM"	113	"Guam"	3	"Other wooded land"	2000	0
+"GUM"	113	"Guam"	3	"Other wooded land"	2005	0
+"GUM"	113	"Guam"	2	"Other land"	2005	29.12
+"GUM"	113	"Guam"	0	"Forest"	1990	25.88
+"GTM"	174	"Guatemala"	1	"Inland water"	2000	46
+"GTM"	174	"Guatemala"	1	"Inland water"	1990	46
+"GTM"	174	"Guatemala"	3	"Other wooded land"	2010	1672
+"GTM"	174	"Guatemala"	3	"Other wooded land"	1990	1672
+"GTM"	174	"Guatemala"	2	"Other land"	2010	5514
+"GTM"	174	"Guatemala"	0	"Forest"	2000	4208
+"GTM"	174	"Guatemala"	1	"Inland water"	2005	46
+"GTM"	174	"Guatemala"	2	"Other land"	2005	5233
+"GTM"	174	"Guatemala"	0	"Forest"	1990	4748
+"GTM"	174	"Guatemala"	3	"Other wooded land"	2000	1672
+"GTM"	174	"Guatemala"	2	"Other land"	1990	4423
+"GTM"	174	"Guatemala"	1	"Inland water"	2010	46
+"GTM"	174	"Guatemala"	0	"Forest"	2010	3657
+"GTM"	174	"Guatemala"	2	"Other land"	2000	4963
+"GTM"	174	"Guatemala"	3	"Other wooded land"	2005	1672
+"GTM"	174	"Guatemala"	0	"Forest"	2005	3938
+"GGY"	643000370	"Guernsey"	3	"Other wooded land"	2000	0
+"GGY"	643000370	"Guernsey"	0	"Forest"	1990	0.2
+"GGY"	643000370	"Guernsey"	2	"Other land"	2000	7.6
+"GGY"	643000370	"Guernsey"	1	"Inland water"	1990	0
+"GGY"	643000370	"Guernsey"	3	"Other wooded land"	1990	0
+"GGY"	643000370	"Guernsey"	2	"Other land"	2005	7.6
+"GGY"	643000370	"Guernsey"	1	"Inland water"	2000	0
+"GGY"	643000370	"Guernsey"	2	"Other land"	1990	7.6
+"GGY"	643000370	"Guernsey"	1	"Inland water"	2005	0
+"GGY"	643000370	"Guernsey"	3	"Other wooded land"	2010	0
+"GGY"	643000370	"Guernsey"	0	"Forest"	2005	0.2
+"GGY"	643000370	"Guernsey"	1	"Inland water"	2010	0
+"GGY"	643000370	"Guernsey"	0	"Forest"	2000	0.2
+"GGY"	643000370	"Guernsey"	2	"Other land"	2010	7.6
+"GGY"	643000370	"Guernsey"	0	"Forest"	2010	0.2
+"GGY"	643000370	"Guernsey"	3	"Other wooded land"	2005	0
+"GIN"	77	"Guinea"	0	"Forest"	1990	7264
+"GIN"	77	"Guinea"	1	"Inland water"	1990	14
+"GIN"	77	"Guinea"	3	"Other wooded land"	2000	5850
+"GIN"	77	"Guinea"	1	"Inland water"	2000	14
+"GIN"	77	"Guinea"	1	"Inland water"	2010	14
+"GIN"	77	"Guinea"	0	"Forest"	2010	6544
+"GIN"	77	"Guinea"	3	"Other wooded land"	1990	5850
+"GIN"	77	"Guinea"	2	"Other land"	2005	11998
+"GIN"	77	"Guinea"	0	"Forest"	2005	6724
+"GIN"	77	"Guinea"	2	"Other land"	2010	12178
+"GIN"	77	"Guinea"	0	"Forest"	2000	6904
+"GIN"	77	"Guinea"	3	"Other wooded land"	2010	5850
+"GIN"	77	"Guinea"	2	"Other land"	1990	11458
+"GIN"	77	"Guinea"	1	"Inland water"	2005	14
+"GIN"	77	"Guinea"	3	"Other wooded land"	2005	5850
+"GIN"	77	"Guinea"	2	"Other land"	2000	11818
+"GNB"	67	"Guinea-Bissau"	0	"Forest"	1990	2216
+"GNB"	67	"Guinea-Bissau"	1	"Inland water"	2010	800
+"GNB"	67	"Guinea-Bissau"	1	"Inland water"	2000	800
+"GNB"	67	"Guinea-Bissau"	2	"Other land"	2010	560
+"GNB"	67	"Guinea-Bissau"	2	"Other land"	2005	504
+"GNB"	67	"Guinea-Bissau"	0	"Forest"	2005	2072
+"GNB"	67	"Guinea-Bissau"	0	"Forest"	2010	2022
+"GNB"	67	"Guinea-Bissau"	3	"Other wooded land"	1990	293
+"GNB"	67	"Guinea-Bissau"	3	"Other wooded land"	2000	241
+"GNB"	67	"Guinea-Bissau"	1	"Inland water"	2005	800
+"GNB"	67	"Guinea-Bissau"	0	"Forest"	2000	2120
+"GNB"	67	"Guinea-Bissau"	1	"Inland water"	1990	800
+"GNB"	67	"Guinea-Bissau"	2	"Other land"	1990	303
+"GNB"	67	"Guinea-Bissau"	3	"Other wooded land"	2010	230
+"GNB"	67	"Guinea-Bissau"	2	"Other land"	2000	451
+"GNB"	67	"Guinea-Bissau"	3	"Other wooded land"	2005	236
+"GUY"	210	"Guyana"	1	"Inland water"	2010	1812
+"GUY"	210	"Guyana"	2	"Other land"	2005	900
+"GUY"	210	"Guyana"	2	"Other land"	2010	900
+"GUY"	210	"Guyana"	3	"Other wooded land"	2010	3580
+"GUY"	210	"Guyana"	0	"Forest"	2010	15205
+"GUY"	210	"Guyana"	1	"Inland water"	1990	1812
+"GUY"	210	"Guyana"	1	"Inland water"	2005	1812
+"GUY"	210	"Guyana"	3	"Other wooded land"	2000	3580
+"GUY"	210	"Guyana"	0	"Forest"	2000	15205
+"GUY"	210	"Guyana"	0	"Forest"	1990	15205
+"GUY"	210	"Guyana"	2	"Other land"	1990	900
+"GUY"	210	"Guyana"	3	"Other wooded land"	2005	3580
+"GUY"	210	"Guyana"	0	"Forest"	2005	15205
+"GUY"	210	"Guyana"	1	"Inland water"	2000	1812
+"GUY"	210	"Guyana"	3	"Other wooded land"	1990	3580
+"GUY"	210	"Guyana"	2	"Other land"	2000	900
+"HTI"	190	"Haiti"	2	"Other land"	2005	2651
+"HTI"	190	"Haiti"	3	"Other wooded land"	1990	0
+"HTI"	190	"Haiti"	3	"Other wooded land"	2010	0
+"HTI"	190	"Haiti"	1	"Inland water"	2005	19
+"HTI"	190	"Haiti"	1	"Inland water"	1990	19
+"HTI"	190	"Haiti"	3	"Other wooded land"	2000	0
+"HTI"	190	"Haiti"	1	"Inland water"	2010	19
+"HTI"	190	"Haiti"	2	"Other land"	2010	2655
+"HTI"	190	"Haiti"	2	"Other land"	2000	2647
+"HTI"	190	"Haiti"	3	"Other wooded land"	2005	0
+"HTI"	190	"Haiti"	0	"Forest"	2005	105
+"HTI"	190	"Haiti"	0	"Forest"	2010	101
+"HTI"	190	"Haiti"	1	"Inland water"	2000	19
+"HTI"	190	"Haiti"	0	"Forest"	1990	116
+"HTI"	190	"Haiti"	0	"Forest"	2000	109
+"HTI"	190	"Haiti"	2	"Other land"	1990	2640
+"VAT"	7657948	"Holy See"	3	"Other wooded land"	2005	0
+"VAT"	7657948	"Holy See"	1	"Inland water"	2005	0
+"VAT"	7657948	"Holy See"	2	"Other land"	1990	0.044
+"VAT"	7657948	"Holy See"	1	"Inland water"	2010	0
+"VAT"	7657948	"Holy See"	0	"Forest"	2010	0
+"VAT"	7657948	"Holy See"	1	"Inland water"	2000	0
+"VAT"	7657948	"Holy See"	2	"Other land"	2000	0.044
+"VAT"	7657948	"Holy See"	0	"Forest"	1990	0
+"VAT"	7657948	"Holy See"	0	"Forest"	2005	0
+"VAT"	7657948	"Holy See"	2	"Other land"	2010	0.044
+"VAT"	7657948	"Holy See"	3	"Other wooded land"	2010	0
+"VAT"	7657948	"Holy See"	3	"Other wooded land"	1990	0
+"VAT"	7657948	"Holy See"	2	"Other land"	2005	0.044
+"VAT"	7657948	"Holy See"	0	"Forest"	2000	0
+"VAT"	7657948	"Holy See"	3	"Other wooded land"	2000	0
+"VAT"	7657948	"Holy See"	1	"Inland water"	1990	0
+"HND"	175	"Honduras"	1	"Inland water"	2005	20
+"HND"	175	"Honduras"	0	"Forest"	2005	5792
+"HND"	175	"Honduras"	0	"Forest"	2010	5192
+"HND"	175	"Honduras"	2	"Other land"	2000	3610
+"HND"	175	"Honduras"	3	"Other wooded land"	2000	1187
+"HND"	175	"Honduras"	0	"Forest"	1990	8136
+"HND"	175	"Honduras"	3	"Other wooded land"	2005	1331
+"HND"	175	"Honduras"	2	"Other land"	2010	4522
+"HND"	175	"Honduras"	2	"Other land"	2005	4066
+"HND"	175	"Honduras"	3	"Other wooded land"	1990	899
+"HND"	175	"Honduras"	2	"Other land"	1990	2154
+"HND"	175	"Honduras"	0	"Forest"	2000	6392
+"HND"	175	"Honduras"	3	"Other wooded land"	2010	1475
+"HND"	175	"Honduras"	1	"Inland water"	2000	20
+"HND"	175	"Honduras"	1	"Inland water"	1990	20
+"HND"	175	"Honduras"	1	"Inland water"	2010	20
+"HUN"	149	"Hungary"	3	"Other wooded land"	1990	0
+"HUN"	149	"Hungary"	3	"Other wooded land"	2000	0
+"HUN"	149	"Hungary"	2	"Other land"	2000	7055
+"HUN"	149	"Hungary"	0	"Forest"	2005	1983
+"HUN"	149	"Hungary"	1	"Inland water"	2005	342
+"HUN"	149	"Hungary"	0	"Forest"	2010	2029
+"HUN"	149	"Hungary"	1	"Inland water"	2000	341
+"HUN"	149	"Hungary"	0	"Forest"	1990	1801
+"HUN"	149	"Hungary"	0	"Forest"	2000	1907
+"HUN"	149	"Hungary"	2	"Other land"	2005	6978
+"HUN"	149	"Hungary"	1	"Inland water"	1990	316
+"HUN"	149	"Hungary"	2	"Other land"	2010	6932
+"HUN"	149	"Hungary"	3	"Other wooded land"	2005	0
+"HUN"	149	"Hungary"	2	"Other land"	1990	7186
+"HUN"	149	"Hungary"	3	"Other wooded land"	2010	0
+"HUN"	149	"Hungary"	1	"Inland water"	2010	342
+"ISL"	127	"Iceland"	0	"Forest"	2005	25.4
+"ISL"	127	"Iceland"	3	"Other wooded land"	2000	82.6
+"ISL"	127	"Iceland"	1	"Inland water"	2005	275
+"ISL"	127	"Iceland"	0	"Forest"	1990	8.7
+"ISL"	127	"Iceland"	0	"Forest"	2010	29.9
+"ISL"	127	"Iceland"	1	"Inland water"	1990	275
+"ISL"	127	"Iceland"	0	"Forest"	2000	18.4
+"ISL"	127	"Iceland"	2	"Other land"	2000	9924
+"ISL"	127	"Iceland"	2	"Other land"	2005	9914.5
+"ISL"	127	"Iceland"	3	"Other wooded land"	2005	85.1
+"ISL"	127	"Iceland"	2	"Other land"	1990	9935.5
+"ISL"	127	"Iceland"	1	"Inland water"	2000	275
+"ISL"	127	"Iceland"	3	"Other wooded land"	2010	86.1
+"ISL"	127	"Iceland"	3	"Other wooded land"	1990	80.8
+"ISL"	127	"Iceland"	2	"Other land"	2010	9909
+"ISL"	127	"Iceland"	1	"Inland water"	2010	275
+"IND"	33	"India"	0	"Forest"	2000	65390
+"IND"	33	"India"	1	"Inland water"	2000	31407
+"IND"	33	"India"	3	"Other wooded land"	2000	4732
+"IND"	33	"India"	2	"Other land"	2005	225762
+"IND"	33	"India"	0	"Forest"	2005	67709
+"IND"	33	"India"	1	"Inland water"	1990	31407
+"IND"	33	"India"	0	"Forest"	1990	63939
+"IND"	33	"India"	2	"Other land"	1990	227486
+"IND"	33	"India"	3	"Other wooded land"	1990	5894
+"IND"	33	"India"	2	"Other land"	2000	227197
+"IND"	33	"India"	1	"Inland water"	2010	31407
+"IND"	33	"India"	3	"Other wooded land"	2005	3848
+"IND"	33	"India"	1	"Inland water"	2005	31407
+"IND"	33	"India"	2	"Other land"	2010	225618
+"IND"	33	"India"	3	"Other wooded land"	2010	3267
+"IND"	33	"India"	0	"Forest"	2010	68434
+"IDN"	82	"Indonesia"	1	"Inland water"	1990	9300
+"IDN"	82	"Indonesia"	2	"Other land"	1990	62612
+"IDN"	82	"Indonesia"	3	"Other wooded land"	1990	0
+"IDN"	82	"Indonesia"	2	"Other land"	2000	59121
+"IDN"	82	"Indonesia"	2	"Other land"	2005	61094
+"IDN"	82	"Indonesia"	3	"Other wooded land"	2005	22206
+"IDN"	82	"Indonesia"	3	"Other wooded land"	2000	22627
+"IDN"	82	"Indonesia"	0	"Forest"	2000	99409
+"IDN"	82	"Indonesia"	1	"Inland water"	2010	9300
+"IDN"	82	"Indonesia"	3	"Other wooded land"	2010	21003
+"IDN"	82	"Indonesia"	1	"Inland water"	2005	9300
+"IDN"	82	"Indonesia"	1	"Inland water"	2000	9300
+"IDN"	82	"Indonesia"	0	"Forest"	1990	118545
+"IDN"	82	"Indonesia"	2	"Other land"	2010	65722
+"IDN"	82	"Indonesia"	0	"Forest"	2005	97857
+"IDN"	82	"Indonesia"	0	"Forest"	2010	94432
+"IRN"	89	"Iran (Islamic Republic of)"	1	"Inland water"	1990	11660
+"IRN"	89	"Iran (Islamic Republic of)"	2	"Other land"	2000	146440
+"IRN"	89	"Iran (Islamic Republic of)"	3	"Other wooded land"	1990	5340
+"IRN"	89	"Iran (Islamic Republic of)"	0	"Forest"	2000	11075
+"IRN"	89	"Iran (Islamic Republic of)"	3	"Other wooded land"	2000	5340
+"IRN"	89	"Iran (Islamic Republic of)"	2	"Other land"	1990	146440
+"IRN"	89	"Iran (Islamic Republic of)"	2	"Other land"	2005	146440
+"IRN"	89	"Iran (Islamic Republic of)"	3	"Other wooded land"	2005	5340
+"IRN"	89	"Iran (Islamic Republic of)"	1	"Inland water"	2005	11660
+"IRN"	89	"Iran (Islamic Republic of)"	1	"Inland water"	2000	11660
+"IRN"	89	"Iran (Islamic Republic of)"	3	"Other wooded land"	2010	5340
+"IRN"	89	"Iran (Islamic Republic of)"	0	"Forest"	2005	11075
+"IRN"	89	"Iran (Islamic Republic of)"	2	"Other land"	2010	146440
+"IRN"	89	"Iran (Islamic Republic of)"	1	"Inland water"	2010	11660
+"IRN"	89	"Iran (Islamic Republic of)"	0	"Forest"	2010	11075
+"IRN"	89	"Iran (Islamic Republic of)"	0	"Forest"	1990	11075
+"IRQ"	90	"Iraq"	2	"Other land"	2000	42660
+"IRQ"	90	"Iraq"	2	"Other land"	1990	42674
+"IRQ"	90	"Iraq"	1	"Inland water"	1990	95
+"IRQ"	90	"Iraq"	1	"Inland water"	2000	95
+"IRQ"	90	"Iraq"	2	"Other land"	2005	42653
+"IRQ"	90	"Iraq"	3	"Other wooded land"	1990	259
+"IRQ"	90	"Iraq"	3	"Other wooded land"	2000	259
+"IRQ"	90	"Iraq"	3	"Other wooded land"	2010	259
+"IRQ"	90	"Iraq"	0	"Forest"	2010	825
+"IRQ"	90	"Iraq"	3	"Other wooded land"	2005	259
+"IRQ"	90	"Iraq"	1	"Inland water"	2005	95
+"IRQ"	90	"Iraq"	1	"Inland water"	2010	95
+"IRQ"	90	"Iraq"	0	"Forest"	2005	825
+"IRQ"	90	"Iraq"	2	"Other land"	2010	42653
+"IRQ"	90	"Iraq"	0	"Forest"	2000	818
+"IRQ"	90	"Iraq"	0	"Forest"	1990	804
+"IRL"	136	"Ireland"	1	"Inland water"	2000	138
+"IRL"	136	"Ireland"	1	"Inland water"	2010	138
+"IRL"	136	"Ireland"	3	"Other wooded land"	2010	50
+"IRL"	136	"Ireland"	3	"Other wooded land"	2000	49
+"IRL"	136	"Ireland"	0	"Forest"	2000	635
+"IRL"	136	"Ireland"	0	"Forest"	2010	739
+"IRL"	136	"Ireland"	2	"Other land"	2000	6205
+"IRL"	136	"Ireland"	3	"Other wooded land"	1990	49
+"IRL"	136	"Ireland"	1	"Inland water"	1990	138
+"IRL"	136	"Ireland"	2	"Other land"	1990	6375
+"IRL"	136	"Ireland"	0	"Forest"	1990	465
+"IRL"	136	"Ireland"	0	"Forest"	2005	695
+"IRL"	136	"Ireland"	3	"Other wooded land"	2005	50
+"IRL"	136	"Ireland"	2	"Other land"	2005	6145
+"IRL"	136	"Ireland"	2	"Other land"	2010	6099
+"IRL"	136	"Ireland"	1	"Inland water"	2005	138
+"IMN"	7655849	"Isle of Man"	1	"Inland water"	2010	0.103
+"IMN"	7655849	"Isle of Man"	2	"Other land"	2000	53.6
+"IMN"	7655849	"Isle of Man"	0	"Forest"	2000	3.46
+"IMN"	7655849	"Isle of Man"	1	"Inland water"	2000	0.103
+"IMN"	7655849	"Isle of Man"	3	"Other wooded land"	2010	0
+"IMN"	7655849	"Isle of Man"	3	"Other wooded land"	2000	0
+"IMN"	7655849	"Isle of Man"	3	"Other wooded land"	1990	0
+"IMN"	7655849	"Isle of Man"	0	"Forest"	2010	3.46
+"IMN"	7655849	"Isle of Man"	0	"Forest"	1990	3.46
+"IMN"	7655849	"Isle of Man"	1	"Inland water"	1990	0.103
+"IMN"	7655849	"Isle of Man"	1	"Inland water"	2005	0.103
+"IMN"	7655849	"Isle of Man"	2	"Other land"	1990	53.6
+"IMN"	7655849	"Isle of Man"	2	"Other land"	2005	53.6
+"IMN"	7655849	"Isle of Man"	2	"Other land"	2010	53.6
+"IMN"	7655849	"Isle of Man"	0	"Forest"	2005	3.46
+"IMN"	7655849	"Isle of Man"	3	"Other wooded land"	2005	0
+"ISR"	91	"Israel"	0	"Forest"	2010	154
+"ISR"	91	"Israel"	1	"Inland water"	2000	43
+"ISR"	91	"Israel"	2	"Other land"	2000	1978
+"ISR"	91	"Israel"	3	"Other wooded land"	2000	33
+"ISR"	91	"Israel"	1	"Inland water"	1990	43
+"ISR"	91	"Israel"	0	"Forest"	1990	132
+"ISR"	91	"Israel"	1	"Inland water"	2010	43
+"ISR"	91	"Israel"	0	"Forest"	2005	155
+"ISR"	91	"Israel"	3	"Other wooded land"	2010	33
+"ISR"	91	"Israel"	0	"Forest"	2000	153
+"ISR"	91	"Israel"	2	"Other land"	2010	1977
+"ISR"	91	"Israel"	1	"Inland water"	2005	43
+"ISR"	91	"Israel"	3	"Other wooded land"	1990	34
+"ISR"	91	"Israel"	2	"Other land"	1990	1998
+"ISR"	91	"Israel"	3	"Other wooded land"	2005	33
+"ISR"	91	"Israel"	2	"Other land"	2005	1976
+"ITA"	137	"Italy"	1	"Inland water"	2010	723
+"ITA"	137	"Italy"	0	"Forest"	1990	7590
+"ITA"	137	"Italy"	3	"Other wooded land"	2000	1650
+"ITA"	137	"Italy"	0	"Forest"	2000	8369
+"ITA"	137	"Italy"	0	"Forest"	2010	9149
+"ITA"	137	"Italy"	1	"Inland water"	2000	723
+"ITA"	137	"Italy"	1	"Inland water"	1990	723
+"ITA"	137	"Italy"	3	"Other wooded land"	2005	1708
+"ITA"	137	"Italy"	2	"Other land"	2010	18495
+"ITA"	137	"Italy"	0	"Forest"	2005	8759
+"ITA"	137	"Italy"	3	"Other wooded land"	2010	1767
+"ITA"	137	"Italy"	3	"Other wooded land"	1990	1533
+"ITA"	137	"Italy"	2	"Other land"	1990	20288
+"ITA"	137	"Italy"	2	"Other land"	2005	18944
+"ITA"	137	"Italy"	1	"Inland water"	2005	723
+"ITA"	137	"Italy"	2	"Other land"	2000	19392
+"JAM"	191	"Jamaica"	2	"Other land"	2010	558.3
+"JAM"	191	"Jamaica"	0	"Forest"	1990	344.6
+"JAM"	191	"Jamaica"	0	"Forest"	2005	339.2
+"JAM"	191	"Jamaica"	1	"Inland water"	2000	16
+"JAM"	191	"Jamaica"	1	"Inland water"	2005	16
+"JAM"	191	"Jamaica"	0	"Forest"	2000	340.9
+"JAM"	191	"Jamaica"	3	"Other wooded land"	2005	188
+"JAM"	191	"Jamaica"	1	"Inland water"	1990	16
+"JAM"	191	"Jamaica"	2	"Other land"	2005	555.8
+"JAM"	191	"Jamaica"	1	"Inland water"	2010	16
+"JAM"	191	"Jamaica"	3	"Other wooded land"	1990	190
+"JAM"	191	"Jamaica"	3	"Other wooded land"	2010	187.6
+"JAM"	191	"Jamaica"	2	"Other land"	1990	548.3
+"JAM"	191	"Jamaica"	3	"Other wooded land"	2000	188.8
+"JAM"	191	"Jamaica"	2	"Other land"	2000	553.3
+"JAM"	191	"Jamaica"	0	"Forest"	2010	337.1
+"JPN"	103	"Japan"	3	"Other wooded land"	2005	0
+"JPN"	103	"Japan"	0	"Forest"	2000	24876
+"JPN"	103	"Japan"	1	"Inland water"	1990	1320
+"JPN"	103	"Japan"	2	"Other land"	2000	11574
+"JPN"	103	"Japan"	0	"Forest"	2005	24935
+"JPN"	103	"Japan"	2	"Other land"	1990	11510
+"JPN"	103	"Japan"	2	"Other land"	2005	11515
+"JPN"	103	"Japan"	0	"Forest"	1990	24950
+"JPN"	103	"Japan"	0	"Forest"	2010	24979
+"JPN"	103	"Japan"	2	"Other land"	2010	11471
+"JPN"	103	"Japan"	3	"Other wooded land"	2010	0
+"JPN"	103	"Japan"	3	"Other wooded land"	1990	0
+"JPN"	103	"Japan"	1	"Inland water"	2000	1330
+"JPN"	103	"Japan"	3	"Other wooded land"	2000	0
+"JPN"	103	"Japan"	1	"Inland water"	2005	1341
+"JPN"	103	"Japan"	1	"Inland water"	2010	1341
+"JEY"	643000371	"Jersey"	0	"Forest"	2005	0.6
+"JEY"	643000371	"Jersey"	1	"Inland water"	1990	0.1
+"JEY"	643000371	"Jersey"	0	"Forest"	1990	0.6
+"JEY"	643000371	"Jersey"	0	"Forest"	2000	0.6
+"JEY"	643000371	"Jersey"	2	"Other land"	2000	10.9
+"JEY"	643000371	"Jersey"	3	"Other wooded land"	2000	0
+"JEY"	643000371	"Jersey"	3	"Other wooded land"	1990	0
+"JEY"	643000371	"Jersey"	3	"Other wooded land"	2005	0
+"JEY"	643000371	"Jersey"	2	"Other land"	2005	10.9
+"JEY"	643000371	"Jersey"	1	"Inland water"	2005	0.1
+"JEY"	643000371	"Jersey"	0	"Forest"	2010	0.6
+"JEY"	643000371	"Jersey"	2	"Other land"	1990	10.9
+"JEY"	643000371	"Jersey"	3	"Other wooded land"	2010	0
+"JEY"	643000371	"Jersey"	1	"Inland water"	2010	0.1
+"JEY"	643000371	"Jersey"	1	"Inland water"	2000	0.1
+"JEY"	643000371	"Jersey"	2	"Other land"	2010	10.9
+"JOR"	92	"Jordan"	0	"Forest"	2010	97.5
+"JOR"	92	"Jordan"	2	"Other land"	1990	8675.5
+"JOR"	92	"Jordan"	2	"Other land"	2000	8675.5
+"JOR"	92	"Jordan"	1	"Inland water"	2000	54
+"JOR"	92	"Jordan"	0	"Forest"	2005	97.5
+"JOR"	92	"Jordan"	2	"Other land"	2005	8675.5
+"JOR"	92	"Jordan"	0	"Forest"	1990	97.5
+"JOR"	92	"Jordan"	3	"Other wooded land"	2010	51
+"JOR"	92	"Jordan"	1	"Inland water"	1990	54
+"JOR"	92	"Jordan"	3	"Other wooded land"	1990	51
+"JOR"	92	"Jordan"	3	"Other wooded land"	2000	51
+"JOR"	92	"Jordan"	0	"Forest"	2000	97.5
+"JOR"	92	"Jordan"	2	"Other land"	2010	8675.5
+"JOR"	92	"Jordan"	1	"Inland water"	2005	54
+"JOR"	92	"Jordan"	1	"Inland water"	2010	54
+"JOR"	92	"Jordan"	3	"Other wooded land"	2005	51
+"KAZ"	161	"Kazakhstan"	2	"Other land"	2000	251840
+"KAZ"	161	"Kazakhstan"	2	"Other land"	2005	251011
+"KAZ"	161	"Kazakhstan"	1	"Inland water"	1990	2520
+"KAZ"	161	"Kazakhstan"	3	"Other wooded land"	2005	15622
+"KAZ"	161	"Kazakhstan"	3	"Other wooded land"	2000	14765
+"KAZ"	161	"Kazakhstan"	1	"Inland water"	2000	2520
+"KAZ"	161	"Kazakhstan"	3	"Other wooded land"	1990	13049
+"KAZ"	161	"Kazakhstan"	2	"Other land"	1990	253499
+"KAZ"	161	"Kazakhstan"	1	"Inland water"	2005	2520
+"KAZ"	161	"Kazakhstan"	1	"Inland water"	2010	2520
+"KAZ"	161	"Kazakhstan"	0	"Forest"	2010	3309
+"KAZ"	161	"Kazakhstan"	0	"Forest"	1990	3422
+"KAZ"	161	"Kazakhstan"	3	"Other wooded land"	2010	16479
+"KAZ"	161	"Kazakhstan"	0	"Forest"	2000	3365
+"KAZ"	161	"Kazakhstan"	0	"Forest"	2005	3337
+"KAZ"	161	"Kazakhstan"	2	"Other land"	2010	250182
+"KEN"	73	"Kenya"	2	"Other land"	2000	24503
+"KEN"	73	"Kenya"	0	"Forest"	1990	3708
+"KEN"	73	"Kenya"	2	"Other land"	2005	24682
+"KEN"	73	"Kenya"	1	"Inland water"	2000	1123
+"KEN"	73	"Kenya"	1	"Inland water"	1990	1123
+"KEN"	73	"Kenya"	3	"Other wooded land"	2005	28710
+"KEN"	73	"Kenya"	3	"Other wooded land"	2000	28829
+"KEN"	73	"Kenya"	3	"Other wooded land"	2010	28650
+"KEN"	73	"Kenya"	0	"Forest"	2010	3467
+"KEN"	73	"Kenya"	2	"Other land"	1990	24114
+"KEN"	73	"Kenya"	1	"Inland water"	2005	1123
+"KEN"	73	"Kenya"	0	"Forest"	2000	3582
+"KEN"	73	"Kenya"	3	"Other wooded land"	1990	29092
+"KEN"	73	"Kenya"	0	"Forest"	2005	3522
+"KEN"	73	"Kenya"	1	"Inland water"	2010	1123
+"KEN"	73	"Kenya"	2	"Other land"	2010	24797
+"KIR"	114	"Kiribati"	3	"Other wooded land"	2000	0
+"KIR"	114	"Kiribati"	3	"Other wooded land"	2005	0
+"KIR"	114	"Kiribati"	1	"Inland water"	1990	0
+"KIR"	114	"Kiribati"	2	"Other land"	1990	68.85
+"KIR"	114	"Kiribati"	1	"Inland water"	2000	0
+"KIR"	114	"Kiribati"	2	"Other land"	2000	68.85
+"KIR"	114	"Kiribati"	2	"Other land"	2005	68.85
+"KIR"	114	"Kiribati"	3	"Other wooded land"	1990	0
+"KIR"	114	"Kiribati"	1	"Inland water"	2005	0
+"KIR"	114	"Kiribati"	0	"Forest"	2000	12.15
+"KIR"	114	"Kiribati"	0	"Forest"	1990	12.15
+"KIR"	114	"Kiribati"	0	"Forest"	2010	12.15
+"KIR"	114	"Kiribati"	0	"Forest"	2005	12.15
+"KIR"	114	"Kiribati"	3	"Other wooded land"	2010	0
+"KIR"	114	"Kiribati"	1	"Inland water"	2010	0
+"KIR"	114	"Kiribati"	2	"Other land"	2010	68.85
+"KWT"	93	"Kuwait"	3	"Other wooded land"	1990	0
+"KWT"	93	"Kuwait"	3	"Other wooded land"	2005	0
+"KWT"	93	"Kuwait"	1	"Inland water"	2000	0
+"KWT"	93	"Kuwait"	3	"Other wooded land"	2000	0
+"KWT"	93	"Kuwait"	0	"Forest"	1990	3.45
+"KWT"	93	"Kuwait"	1	"Inland water"	1990	0
+"KWT"	93	"Kuwait"	0	"Forest"	2005	5.55
+"KWT"	93	"Kuwait"	2	"Other land"	2005	1776.45
+"KWT"	93	"Kuwait"	1	"Inland water"	2010	0
+"KWT"	93	"Kuwait"	2	"Other land"	2000	1777.15
+"KWT"	93	"Kuwait"	2	"Other land"	1990	1778.55
+"KWT"	93	"Kuwait"	0	"Forest"	2000	4.85
+"KWT"	93	"Kuwait"	3	"Other wooded land"	2010	0
+"KWT"	93	"Kuwait"	1	"Inland water"	2005	0
+"KWT"	93	"Kuwait"	0	"Forest"	2010	6.25
+"KWT"	93	"Kuwait"	2	"Other land"	2010	1775.75
+"KGZ"	162	"Kyrgyzstan"	1	"Inland water"	2000	810
+"KGZ"	162	"Kyrgyzstan"	3	"Other wooded land"	1990	283.4
+"KGZ"	162	"Kyrgyzstan"	1	"Inland water"	2005	810
+"KGZ"	162	"Kyrgyzstan"	3	"Other wooded land"	2000	303
+"KGZ"	162	"Kyrgyzstan"	2	"Other land"	1990	18060.2
+"KGZ"	162	"Kyrgyzstan"	1	"Inland water"	1990	810
+"KGZ"	162	"Kyrgyzstan"	3	"Other wooded land"	2005	312.8
+"KGZ"	162	"Kyrgyzstan"	2	"Other land"	2000	18018.7
+"KGZ"	162	"Kyrgyzstan"	0	"Forest"	2005	869.3
+"KGZ"	162	"Kyrgyzstan"	0	"Forest"	2000	858.3
+"KGZ"	162	"Kyrgyzstan"	0	"Forest"	1990	836.4
+"KGZ"	162	"Kyrgyzstan"	0	"Forest"	2010	953.8
+"KGZ"	162	"Kyrgyzstan"	3	"Other wooded land"	2010	390.1
+"KGZ"	162	"Kyrgyzstan"	1	"Inland water"	2010	810
+"KGZ"	162	"Kyrgyzstan"	2	"Other land"	2010	17836.1
+"KGZ"	162	"Kyrgyzstan"	2	"Other land"	2005	17997.9
+"LAO"	39	"Lao People's Democratic Republic"	2	"Other land"	2000	2395
+"LAO"	39	"Lao People's Democratic Republic"	3	"Other wooded land"	1990	3472
+"LAO"	39	"Lao People's Democratic Republic"	1	"Inland water"	1990	600
+"LAO"	39	"Lao People's Democratic Republic"	1	"Inland water"	2010	600
+"LAO"	39	"Lao People's Democratic Republic"	1	"Inland water"	2000	600
+"LAO"	39	"Lao People's Democratic Republic"	3	"Other wooded land"	2000	4153
+"LAO"	39	"Lao People's Democratic Republic"	0	"Forest"	2005	16142
+"LAO"	39	"Lao People's Democratic Republic"	0	"Forest"	2000	16532
+"LAO"	39	"Lao People's Democratic Republic"	0	"Forest"	1990	17314
+"LAO"	39	"Lao People's Democratic Republic"	1	"Inland water"	2005	600
+"LAO"	39	"Lao People's Democratic Republic"	3	"Other wooded land"	2005	4493
+"LAO"	39	"Lao People's Democratic Republic"	2	"Other land"	1990	2294
+"LAO"	39	"Lao People's Democratic Republic"	2	"Other land"	2010	2495
+"LAO"	39	"Lao People's Democratic Republic"	0	"Forest"	2010	15751
+"LAO"	39	"Lao People's Democratic Republic"	2	"Other land"	2005	2445
+"LAO"	39	"Lao People's Democratic Republic"	3	"Other wooded land"	2010	4834
+"LVA"	163	"Latvia"	0	"Forest"	2005	3297
+"LVA"	163	"Latvia"	0	"Forest"	1990	3173
+"LVA"	163	"Latvia"	0	"Forest"	2010	3354
+"LVA"	163	"Latvia"	0	"Forest"	2000	3241
+"LVA"	163	"Latvia"	2	"Other land"	1990	2916
+"LVA"	163	"Latvia"	3	"Other wooded land"	2010	113
+"LVA"	163	"Latvia"	1	"Inland water"	2000	254
+"LVA"	163	"Latvia"	2	"Other land"	2000	2841
+"LVA"	163	"Latvia"	3	"Other wooded land"	2000	123
+"LVA"	163	"Latvia"	1	"Inland water"	1990	255
+"LVA"	163	"Latvia"	2	"Other land"	2010	2762
+"LVA"	163	"Latvia"	2	"Other land"	2005	2814
+"LVA"	163	"Latvia"	3	"Other wooded land"	1990	115
+"LVA"	163	"Latvia"	1	"Inland water"	2005	230
+"LVA"	163	"Latvia"	1	"Inland water"	2010	230
+"LVA"	163	"Latvia"	3	"Other wooded land"	2005	118
+"LBN"	94	"Lebanon"	0	"Forest"	1990	131
+"LBN"	94	"Lebanon"	2	"Other land"	1990	775
+"LBN"	94	"Lebanon"	3	"Other wooded land"	2010	106
+"LBN"	94	"Lebanon"	1	"Inland water"	2010	17
+"LBN"	94	"Lebanon"	0	"Forest"	2005	136.5
+"LBN"	94	"Lebanon"	2	"Other land"	2010	780.1
+"LBN"	94	"Lebanon"	1	"Inland water"	1990	17
+"LBN"	94	"Lebanon"	3	"Other wooded land"	1990	117
+"LBN"	94	"Lebanon"	2	"Other land"	2005	780.5
+"LBN"	94	"Lebanon"	1	"Inland water"	2000	17
+"LBN"	94	"Lebanon"	0	"Forest"	2000	131
+"LBN"	94	"Lebanon"	0	"Forest"	2010	136.9
+"LBN"	94	"Lebanon"	3	"Other wooded land"	2000	117
+"LBN"	94	"Lebanon"	2	"Other land"	2000	775
+"LBN"	94	"Lebanon"	3	"Other wooded land"	2005	106
+"LBN"	94	"Lebanon"	1	"Inland water"	2005	17
+"LSO"	27	"Lesotho"	3	"Other wooded land"	2010	97
+"LSO"	27	"Lesotho"	1	"Inland water"	2000	0
+"LSO"	27	"Lesotho"	1	"Inland water"	2010	0
+"LSO"	27	"Lesotho"	0	"Forest"	2005	43
+"LSO"	27	"Lesotho"	0	"Forest"	2000	42
+"LSO"	27	"Lesotho"	2	"Other land"	2010	2894
+"LSO"	27	"Lesotho"	2	"Other land"	2005	2884
+"LSO"	27	"Lesotho"	3	"Other wooded land"	2000	120
+"LSO"	27	"Lesotho"	3	"Other wooded land"	1990	142
+"LSO"	27	"Lesotho"	1	"Inland water"	1990	0
+"LSO"	27	"Lesotho"	0	"Forest"	2010	44
+"LSO"	27	"Lesotho"	3	"Other wooded land"	2005	108
+"LSO"	27	"Lesotho"	2	"Other land"	2000	2873
+"LSO"	27	"Lesotho"	0	"Forest"	1990	40
+"LSO"	27	"Lesotho"	2	"Other land"	1990	2853
+"LSO"	27	"Lesotho"	1	"Inland water"	2005	0
+"LBR"	78	"Liberia"	2	"Other land"	2005	5153
+"LBR"	78	"Liberia"	2	"Other land"	2000	5003
+"LBR"	78	"Liberia"	0	"Forest"	2000	4629
+"LBR"	78	"Liberia"	3	"Other wooded land"	2010	0
+"LBR"	78	"Liberia"	3	"Other wooded land"	2005	0
+"LBR"	78	"Liberia"	3	"Other wooded land"	2000	0
+"LBR"	78	"Liberia"	0	"Forest"	1990	4929
+"LBR"	78	"Liberia"	1	"Inland water"	1990	1505
+"LBR"	78	"Liberia"	0	"Forest"	2010	4329
+"LBR"	78	"Liberia"	1	"Inland water"	2005	1505
+"LBR"	78	"Liberia"	0	"Forest"	2005	4479
+"LBR"	78	"Liberia"	3	"Other wooded land"	1990	0
+"LBR"	78	"Liberia"	1	"Inland water"	2010	1505
+"LBR"	78	"Liberia"	2	"Other land"	2010	5303
+"LBR"	78	"Liberia"	1	"Inland water"	2000	1505
+"LBR"	78	"Liberia"	2	"Other land"	1990	4703
+"LBY"	58	"Libya"	2	"Other land"	2000	175407
+"LBY"	58	"Libya"	0	"Forest"	2010	217
+"LBY"	58	"Libya"	3	"Other wooded land"	2000	330
+"LBY"	58	"Libya"	0	"Forest"	2005	217
+"LBY"	58	"Libya"	1	"Inland water"	1990	0
+"LBY"	58	"Libya"	3	"Other wooded land"	2010	330
+"LBY"	58	"Libya"	1	"Inland water"	2010	0
+"LBY"	58	"Libya"	1	"Inland water"	2000	0
+"LBY"	58	"Libya"	0	"Forest"	2000	217
+"LBY"	58	"Libya"	2	"Other land"	1990	175407
+"LBY"	58	"Libya"	0	"Forest"	1990	217
+"LBY"	58	"Libya"	2	"Other land"	2005	175407
+"LBY"	58	"Libya"	3	"Other wooded land"	2005	330
+"LBY"	58	"Libya"	3	"Other wooded land"	1990	330
+"LBY"	58	"Libya"	2	"Other land"	2010	175407
+"LBY"	58	"Libya"	1	"Inland water"	2005	0
+"LIE"	138	"Liechtenstein"	3	"Other wooded land"	2010	0.5
+"LIE"	138	"Liechtenstein"	2	"Other land"	2005	8.6
+"LIE"	138	"Liechtenstein"	0	"Forest"	2000	6.9
+"LIE"	138	"Liechtenstein"	1	"Inland water"	2010	0
+"LIE"	138	"Liechtenstein"	0	"Forest"	2010	6.9
+"LIE"	138	"Liechtenstein"	2	"Other land"	2000	8.6
+"LIE"	138	"Liechtenstein"	0	"Forest"	2005	6.9
+"LIE"	138	"Liechtenstein"	1	"Inland water"	1990	0
+"LIE"	138	"Liechtenstein"	2	"Other land"	2010	8.6
+"LIE"	138	"Liechtenstein"	3	"Other wooded land"	2000	0.5
+"LIE"	138	"Liechtenstein"	1	"Inland water"	2005	0
+"LIE"	138	"Liechtenstein"	3	"Other wooded land"	1990	0.5
+"LIE"	138	"Liechtenstein"	2	"Other land"	1990	9
+"LIE"	138	"Liechtenstein"	3	"Other wooded land"	2005	0.5
+"LIE"	138	"Liechtenstein"	1	"Inland water"	2000	0
+"LIE"	138	"Liechtenstein"	0	"Forest"	1990	6.5
+"LTU"	164	"Lithuania"	2	"Other land"	2000	4165
+"LTU"	164	"Lithuania"	1	"Inland water"	1990	262
+"LTU"	164	"Lithuania"	0	"Forest"	2010	2160
+"LTU"	164	"Lithuania"	0	"Forest"	2000	2020
+"LTU"	164	"Lithuania"	1	"Inland water"	2000	262
+"LTU"	164	"Lithuania"	3	"Other wooded land"	2010	80
+"LTU"	164	"Lithuania"	1	"Inland water"	2010	262
+"LTU"	164	"Lithuania"	3	"Other wooded land"	2005	73
+"LTU"	164	"Lithuania"	2	"Other land"	2005	4074
+"LTU"	164	"Lithuania"	2	"Other land"	1990	4243
+"LTU"	164	"Lithuania"	0	"Forest"	1990	1945
+"LTU"	164	"Lithuania"	2	"Other land"	2010	4028
+"LTU"	164	"Lithuania"	3	"Other wooded land"	2000	83
+"LTU"	164	"Lithuania"	0	"Forest"	2005	2121
+"LTU"	164	"Lithuania"	3	"Other wooded land"	1990	80
+"LTU"	164	"Lithuania"	1	"Inland water"	2005	262
+"LUX"	131	"Luxembourg"	1	"Inland water"	2010	0
+"LUX"	131	"Luxembourg"	2	"Other land"	2005	170.85
+"LUX"	131	"Luxembourg"	1	"Inland water"	1990	0
+"LUX"	131	"Luxembourg"	2	"Other land"	1990	170.4
+"LUX"	131	"Luxembourg"	0	"Forest"	2010	86.75
+"LUX"	131	"Luxembourg"	3	"Other wooded land"	2000	1.4
+"LUX"	131	"Luxembourg"	2	"Other land"	2000	170.85
+"LUX"	131	"Luxembourg"	3	"Other wooded land"	1990	2.8
+"LUX"	131	"Luxembourg"	2	"Other land"	2010	170.85
+"LUX"	131	"Luxembourg"	3	"Other wooded land"	2010	1.4
+"LUX"	131	"Luxembourg"	0	"Forest"	2005	86.75
+"LUX"	131	"Luxembourg"	0	"Forest"	2000	86.75
+"LUX"	131	"Luxembourg"	0	"Forest"	1990	85.8
+"LUX"	131	"Luxembourg"	3	"Other wooded land"	2005	1.4
+"LUX"	131	"Luxembourg"	1	"Inland water"	2005	0
+"LUX"	131	"Luxembourg"	1	"Inland water"	2000	0
+"MDG"	23	"Madagascar"	2	"Other land"	2000	26614
+"MDG"	23	"Madagascar"	1	"Inland water"	2010	550
+"MDG"	23	"Madagascar"	3	"Other wooded land"	2010	15688
+"MDG"	23	"Madagascar"	1	"Inland water"	2005	550
+"MDG"	23	"Madagascar"	0	"Forest"	2000	13122
+"MDG"	23	"Madagascar"	3	"Other wooded land"	1990	21148
+"MDG"	23	"Madagascar"	2	"Other land"	2010	29913
+"MDG"	23	"Madagascar"	0	"Forest"	2010	12553
+"MDG"	23	"Madagascar"	0	"Forest"	2005	12838
+"MDG"	23	"Madagascar"	1	"Inland water"	2000	550
+"MDG"	23	"Madagascar"	1	"Inland water"	1990	550
+"MDG"	23	"Madagascar"	3	"Other wooded land"	2005	17053
+"MDG"	23	"Madagascar"	3	"Other wooded land"	2000	18418
+"MDG"	23	"Madagascar"	2	"Other land"	1990	23314
+"MDG"	23	"Madagascar"	2	"Other land"	2005	28263
+"MDG"	23	"Madagascar"	0	"Forest"	1990	13692
+"MWI"	15	"Malawi"	2	"Other land"	2000	5841
+"MWI"	15	"Malawi"	0	"Forest"	2000	3567
+"MWI"	15	"Malawi"	1	"Inland water"	2005	2440
+"MWI"	15	"Malawi"	0	"Forest"	2005	3402
+"MWI"	15	"Malawi"	3	"Other wooded land"	1990	0
+"MWI"	15	"Malawi"	3	"Other wooded land"	2005	0
+"MWI"	15	"Malawi"	2	"Other land"	2005	6006
+"MWI"	15	"Malawi"	1	"Inland water"	2000	2440
+"MWI"	15	"Malawi"	0	"Forest"	2010	3237
+"MWI"	15	"Malawi"	2	"Other land"	2010	6171
+"MWI"	15	"Malawi"	1	"Inland water"	1990	2440
+"MWI"	15	"Malawi"	3	"Other wooded land"	2000	0
+"MWI"	15	"Malawi"	2	"Other land"	1990	5512
+"MWI"	15	"Malawi"	0	"Forest"	1990	3896
+"MWI"	15	"Malawi"	1	"Inland water"	2010	2440
+"MWI"	15	"Malawi"	3	"Other wooded land"	2010	0
+"MYS"	83	"Malaysia"	0	"Forest"	2000	21591
+"MYS"	83	"Malaysia"	2	"Other land"	1990	10479
+"MYS"	83	"Malaysia"	2	"Other land"	2000	11264
+"MYS"	83	"Malaysia"	0	"Forest"	2010	20456
+"MYS"	83	"Malaysia"	1	"Inland water"	2000	119
+"MYS"	83	"Malaysia"	1	"Inland water"	1990	119
+"MYS"	83	"Malaysia"	2	"Other land"	2010	12399
+"MYS"	83	"Malaysia"	0	"Forest"	2005	20890
+"MYS"	83	"Malaysia"	1	"Inland water"	2005	119
+"MYS"	83	"Malaysia"	2	"Other land"	2005	11965
+"MYS"	83	"Malaysia"	0	"Forest"	1990	22376
+"MYS"	83	"Malaysia"	1	"Inland water"	2010	119
+"MYS"	83	"Malaysia"	3	"Other wooded land"	2005	0
+"MYS"	83	"Malaysia"	3	"Other wooded land"	1990	0
+"MYS"	83	"Malaysia"	3	"Other wooded land"	2010	0
+"MYS"	83	"Malaysia"	3	"Other wooded land"	2000	0
+"MDV"	34	"Maldives"	0	"Forest"	1990	0.9
+"MDV"	34	"Maldives"	1	"Inland water"	2000	0
+"MDV"	34	"Maldives"	3	"Other wooded land"	1990	0
+"MDV"	34	"Maldives"	1	"Inland water"	1990	0
+"MDV"	34	"Maldives"	1	"Inland water"	2010	0
+"MDV"	34	"Maldives"	0	"Forest"	2000	0.9
+"MDV"	34	"Maldives"	2	"Other land"	2000	29.1
+"MDV"	34	"Maldives"	3	"Other wooded land"	2010	0
+"MDV"	34	"Maldives"	3	"Other wooded land"	2005	0
+"MDV"	34	"Maldives"	3	"Other wooded land"	2000	0
+"MDV"	34	"Maldives"	0	"Forest"	2005	0.9
+"MDV"	34	"Maldives"	2	"Other land"	2005	29.1
+"MDV"	34	"Maldives"	2	"Other land"	1990	29.1
+"MDV"	34	"Maldives"	2	"Other land"	2010	29.1
+"MDV"	34	"Maldives"	0	"Forest"	2010	0.9
+"MDV"	34	"Maldives"	1	"Inland water"	2005	0
+"MLI"	68	"Mali"	1	"Inland water"	2000	2000
+"MLI"	68	"Mali"	1	"Inland water"	1990	2000
+"MLI"	68	"Mali"	2	"Other land"	1990	91415
+"MLI"	68	"Mali"	0	"Forest"	1990	14072
+"MLI"	68	"Mali"	3	"Other wooded land"	1990	16532
+"MLI"	68	"Mali"	3	"Other wooded land"	2010	8227
+"MLI"	68	"Mali"	3	"Other wooded land"	2005	10303
+"MLI"	68	"Mali"	3	"Other wooded land"	2000	12379
+"MLI"	68	"Mali"	1	"Inland water"	2005	2000
+"MLI"	68	"Mali"	0	"Forest"	2000	13281
+"MLI"	68	"Mali"	2	"Other land"	2010	101302
+"MLI"	68	"Mali"	1	"Inland water"	2010	2000
+"MLI"	68	"Mali"	0	"Forest"	2005	12885
+"MLI"	68	"Mali"	2	"Other land"	2000	96359
+"MLI"	68	"Mali"	0	"Forest"	2010	12490
+"MLI"	68	"Mali"	2	"Other land"	2005	98831
+"MLT"	139	"Malta"	1	"Inland water"	1990	0
+"MLT"	139	"Malta"	3	"Other wooded land"	1990	0
+"MLT"	139	"Malta"	2	"Other land"	2000	31.653
+"MLT"	139	"Malta"	0	"Forest"	1990	0.347
+"MLT"	139	"Malta"	3	"Other wooded land"	2005	0
+"MLT"	139	"Malta"	1	"Inland water"	2010	0
+"MLT"	139	"Malta"	1	"Inland water"	2005	0
+"MLT"	139	"Malta"	2	"Other land"	1990	31.653
+"MLT"	139	"Malta"	1	"Inland water"	2000	0
+"MLT"	139	"Malta"	3	"Other wooded land"	2000	0
+"MLT"	139	"Malta"	2	"Other land"	2010	31.653
+"MLT"	139	"Malta"	3	"Other wooded land"	2010	0
+"MLT"	139	"Malta"	0	"Forest"	2005	0.347
+"MLT"	139	"Malta"	2	"Other land"	2005	31.653
+"MLT"	139	"Malta"	0	"Forest"	2000	0.347
+"MLT"	139	"Malta"	0	"Forest"	2010	0.347
+"MHL"	5293301	"Marshall Islands"	1	"Inland water"	1990	0
+"MHL"	5293301	"Marshall Islands"	2	"Other land"	1990	5.364
+"MHL"	5293301	"Marshall Islands"	0	"Forest"	1990	12.636
+"MHL"	5293301	"Marshall Islands"	3	"Other wooded land"	2000	0
+"MHL"	5293301	"Marshall Islands"	3	"Other wooded land"	1990	0
+"MHL"	5293301	"Marshall Islands"	3	"Other wooded land"	2010	0
+"MHL"	5293301	"Marshall Islands"	3	"Other wooded land"	2005	0
+"MHL"	5293301	"Marshall Islands"	2	"Other land"	2000	5.364
+"MHL"	5293301	"Marshall Islands"	0	"Forest"	2010	12.636
+"MHL"	5293301	"Marshall Islands"	1	"Inland water"	2000	0
+"MHL"	5293301	"Marshall Islands"	1	"Inland water"	2005	0
+"MHL"	5293301	"Marshall Islands"	2	"Other land"	2005	5.364
+"MHL"	5293301	"Marshall Islands"	1	"Inland water"	2010	0
+"MHL"	5293301	"Marshall Islands"	2	"Other land"	2010	5.364
+"MHL"	5293301	"Marshall Islands"	0	"Forest"	2000	12.636
+"MHL"	5293301	"Marshall Islands"	0	"Forest"	2005	12.636
+"MTQ"	192	"Martinique"	1	"Inland water"	1990	4
+"MTQ"	192	"Martinique"	2	"Other land"	1990	56.4
+"MTQ"	192	"Martinique"	3	"Other wooded land"	2000	1.1
+"MTQ"	192	"Martinique"	0	"Forest"	2010	48.5
+"MTQ"	192	"Martinique"	3	"Other wooded land"	2005	1.1
+"MTQ"	192	"Martinique"	2	"Other land"	2000	56.4
+"MTQ"	192	"Martinique"	1	"Inland water"	2010	4
+"MTQ"	192	"Martinique"	3	"Other wooded land"	1990	1.1
+"MTQ"	192	"Martinique"	0	"Forest"	1990	48.5
+"MTQ"	192	"Martinique"	0	"Forest"	2005	48.5
+"MTQ"	192	"Martinique"	0	"Forest"	2000	48.5
+"MTQ"	192	"Martinique"	2	"Other land"	2010	56.4
+"MTQ"	192	"Martinique"	2	"Other land"	2005	56.4
+"MTQ"	192	"Martinique"	1	"Inland water"	2000	4
+"MTQ"	192	"Martinique"	3	"Other wooded land"	2010	1.1
+"MTQ"	192	"Martinique"	1	"Inland water"	2005	4
+"MRT"	69	"Mauritania"	1	"Inland water"	1990	0
+"MRT"	69	"Mauritania"	3	"Other wooded land"	2000	3110
+"MRT"	69	"Mauritania"	3	"Other wooded land"	2005	3110
+"MRT"	69	"Mauritania"	0	"Forest"	1990	415
+"MRT"	69	"Mauritania"	3	"Other wooded land"	2010	3060
+"MRT"	69	"Mauritania"	3	"Other wooded land"	1990	3110
+"MRT"	69	"Mauritania"	2	"Other land"	1990	99545
+"MRT"	69	"Mauritania"	2	"Other land"	2000	99643
+"MRT"	69	"Mauritania"	1	"Inland water"	2010	0
+"MRT"	69	"Mauritania"	0	"Forest"	2010	242
+"MRT"	69	"Mauritania"	2	"Other land"	2005	99693
+"MRT"	69	"Mauritania"	0	"Forest"	2005	267
+"MRT"	69	"Mauritania"	0	"Forest"	2000	317
+"MRT"	69	"Mauritania"	2	"Other land"	2010	99768
+"MRT"	69	"Mauritania"	1	"Inland water"	2000	0
+"MRT"	69	"Mauritania"	1	"Inland water"	2005	0
+"MUS"	24	"Mauritius"	0	"Forest"	2000	38.7
+"MUS"	24	"Mauritius"	2	"Other land"	1990	146.3
+"MUS"	24	"Mauritius"	2	"Other land"	2000	146.1
+"MUS"	24	"Mauritius"	1	"Inland water"	1990	1
+"MUS"	24	"Mauritius"	3	"Other wooded land"	2005	12.3
+"MUS"	24	"Mauritius"	0	"Forest"	2005	34.9
+"MUS"	24	"Mauritius"	0	"Forest"	2010	35
+"MUS"	24	"Mauritius"	2	"Other land"	2010	155.5
+"MUS"	24	"Mauritius"	0	"Forest"	1990	38.8
+"MUS"	24	"Mauritius"	3	"Other wooded land"	2010	12.2
+"MUS"	24	"Mauritius"	1	"Inland water"	2000	1.3
+"MUS"	24	"Mauritius"	3	"Other wooded land"	2000	17.9
+"MUS"	24	"Mauritius"	2	"Other land"	2005	155.5
+"MUS"	24	"Mauritius"	1	"Inland water"	2005	1.3
+"MUS"	24	"Mauritius"	1	"Inland water"	2010	1.3
+"MUS"	24	"Mauritius"	3	"Other wooded land"	1990	17.9
+"MYT"	7661379	"Mayotte"	1	"Inland water"	1990	0
+"MYT"	7661379	"Mayotte"	2	"Other land"	2005	22.254
+"MYT"	7661379	"Mayotte"	2	"Other land"	1990	19.346
+"MYT"	7661379	"Mayotte"	0	"Forest"	1990	17.693
+"MYT"	7661379	"Mayotte"	1	"Inland water"	2010	0
+"MYT"	7661379	"Mayotte"	3	"Other wooded land"	1990	0.361
+"MYT"	7661379	"Mayotte"	2	"Other land"	2000	21.285
+"MYT"	7661379	"Mayotte"	1	"Inland water"	2000	0
+"MYT"	7661379	"Mayotte"	0	"Forest"	2000	15.754
+"MYT"	7661379	"Mayotte"	0	"Forest"	2010	13.815
+"MYT"	7661379	"Mayotte"	0	"Forest"	2005	14.785
+"MYT"	7661379	"Mayotte"	1	"Inland water"	2005	0
+"MYT"	7661379	"Mayotte"	3	"Other wooded land"	2005	0.361
+"MYT"	7661379	"Mayotte"	3	"Other wooded land"	2010	0.361
+"MYT"	7661379	"Mayotte"	2	"Other land"	2010	23.224
+"MYT"	7661379	"Mayotte"	3	"Other wooded land"	2000	0.361
+"MEX"	176	"Mexico"	2	"Other land"	1990	103016
+"MEX"	176	"Mexico"	2	"Other land"	2000	107097
+"MEX"	176	"Mexico"	0	"Forest"	2005	65578
+"MEX"	176	"Mexico"	2	"Other land"	2005	108476
+"MEX"	176	"Mexico"	0	"Forest"	2010	64802
+"MEX"	176	"Mexico"	0	"Forest"	1990	70291
+"MEX"	176	"Mexico"	1	"Inland water"	1990	2043
+"MEX"	176	"Mexico"	3	"Other wooded land"	1990	21088
+"MEX"	176	"Mexico"	3	"Other wooded land"	2010	20181
+"MEX"	176	"Mexico"	1	"Inland water"	2000	2043
+"MEX"	176	"Mexico"	1	"Inland water"	2010	2043
+"MEX"	176	"Mexico"	3	"Other wooded land"	2000	20547
+"MEX"	176	"Mexico"	1	"Inland water"	2005	2043
+"MEX"	176	"Mexico"	2	"Other land"	2010	109412
+"MEX"	176	"Mexico"	3	"Other wooded land"	2005	20342
+"MEX"	176	"Mexico"	0	"Forest"	2000	66751
+"FSM"	4921994	"Micronesia (Federated States of)"	3	"Other wooded land"	1990	0
+"FSM"	4921994	"Micronesia (Federated States of)"	1	"Inland water"	2005	0.137
+"FSM"	4921994	"Micronesia (Federated States of)"	0	"Forest"	2005	63.993
+"FSM"	4921994	"Micronesia (Federated States of)"	1	"Inland water"	2010	0.098
+"FSM"	4921994	"Micronesia (Federated States of)"	0	"Forest"	1990	63.584
+"FSM"	4921994	"Micronesia (Federated States of)"	0	"Forest"	2010	64.129
+"FSM"	4921994	"Micronesia (Federated States of)"	2	"Other land"	1990	6.163
+"FSM"	4921994	"Micronesia (Federated States of)"	1	"Inland water"	2000	0.176
+"FSM"	4921994	"Micronesia (Federated States of)"	2	"Other land"	2010	5.773
+"FSM"	4921994	"Micronesia (Federated States of)"	0	"Forest"	2000	63.856
+"FSM"	4921994	"Micronesia (Federated States of)"	3	"Other wooded land"	2005	0
+"FSM"	4921994	"Micronesia (Federated States of)"	2	"Other land"	2000	5.968
+"FSM"	4921994	"Micronesia (Federated States of)"	2	"Other land"	2005	5.87
+"FSM"	4921994	"Micronesia (Federated States of)"	3	"Other wooded land"	2000	0
+"FSM"	4921994	"Micronesia (Federated States of)"	3	"Other wooded land"	2010	0
+"FSM"	4921994	"Micronesia (Federated States of)"	1	"Inland water"	1990	0.253
+"MCO"	7655168	"Monaco"	1	"Inland water"	2005	0
+"MCO"	7655168	"Monaco"	2	"Other land"	2000	0.202
+"MCO"	7655168	"Monaco"	1	"Inland water"	2000	0
+"MCO"	7655168	"Monaco"	1	"Inland water"	2010	0
+"MCO"	7655168	"Monaco"	0	"Forest"	2010	0
+"MCO"	7655168	"Monaco"	0	"Forest"	1990	0
+"MCO"	7655168	"Monaco"	3	"Other wooded land"	2000	0
+"MCO"	7655168	"Monaco"	1	"Inland water"	1990	0
+"MCO"	7655168	"Monaco"	0	"Forest"	2000	0
+"MCO"	7655168	"Monaco"	2	"Other land"	2010	0.202
+"MCO"	7655168	"Monaco"	2	"Other land"	2005	0.202
+"MCO"	7655168	"Monaco"	3	"Other wooded land"	1990	0
+"MCO"	7655168	"Monaco"	3	"Other wooded land"	2005	0
+"MCO"	7655168	"Monaco"	0	"Forest"	2005	0
+"MCO"	7655168	"Monaco"	3	"Other wooded land"	2010	0
+"MCO"	7655168	"Monaco"	2	"Other land"	1990	0.202
+"MNG"	107	"Mongolia"	1	"Inland water"	2000	0
+"MNG"	107	"Mongolia"	0	"Forest"	2000	11717
+"MNG"	107	"Mongolia"	1	"Inland water"	2010	0
+"MNG"	107	"Mongolia"	0	"Forest"	2010	10898
+"MNG"	107	"Mongolia"	2	"Other land"	2000	141532
+"MNG"	107	"Mongolia"	1	"Inland water"	1990	0
+"MNG"	107	"Mongolia"	3	"Other wooded land"	2005	2674
+"MNG"	107	"Mongolia"	0	"Forest"	1990	12536
+"MNG"	107	"Mongolia"	3	"Other wooded land"	2000	3401
+"MNG"	107	"Mongolia"	2	"Other land"	1990	139259
+"MNG"	107	"Mongolia"	3	"Other wooded land"	2010	1947
+"MNG"	107	"Mongolia"	2	"Other land"	2010	143805
+"MNG"	107	"Mongolia"	0	"Forest"	2005	11308
+"MNG"	107	"Mongolia"	1	"Inland water"	2005	0
+"MNG"	107	"Mongolia"	2	"Other land"	2005	142668
+"MNG"	107	"Mongolia"	3	"Other wooded land"	1990	4855
+"MNE"	643000290	"Montenegro"	0	"Forest"	2000	543
+"MNE"	643000290	"Montenegro"	3	"Other wooded land"	2000	175
+"MNE"	643000290	"Montenegro"	1	"Inland water"	1990	36
+"MNE"	643000290	"Montenegro"	1	"Inland water"	2000	36
+"MNE"	643000290	"Montenegro"	1	"Inland water"	2010	36
+"MNE"	643000290	"Montenegro"	2	"Other land"	2000	627
+"MNE"	643000290	"Montenegro"	2	"Other land"	2010	627
+"MNE"	643000290	"Montenegro"	3	"Other wooded land"	2010	175
+"MNE"	643000290	"Montenegro"	3	"Other wooded land"	1990	175
+"MNE"	643000290	"Montenegro"	0	"Forest"	2010	543
+"MNE"	643000290	"Montenegro"	0	"Forest"	2005	543
+"MNE"	643000290	"Montenegro"	0	"Forest"	1990	543
+"MNE"	643000290	"Montenegro"	2	"Other land"	2005	627
+"MNE"	643000290	"Montenegro"	3	"Other wooded land"	2005	175
+"MNE"	643000290	"Montenegro"	1	"Inland water"	2005	36
+"MNE"	643000290	"Montenegro"	2	"Other land"	1990	627
+"MSR"	193	"Montserrat"	2	"Other land"	2000	6.2
+"MSR"	193	"Montserrat"	1	"Inland water"	1990	0
+"MSR"	193	"Montserrat"	1	"Inland water"	2000	0
+"MSR"	193	"Montserrat"	0	"Forest"	2000	2.5
+"MSR"	193	"Montserrat"	3	"Other wooded land"	2000	1.6
+"MSR"	193	"Montserrat"	3	"Other wooded land"	2010	1.6
+"MSR"	193	"Montserrat"	1	"Inland water"	2010	0
+"MSR"	193	"Montserrat"	2	"Other land"	2010	6.2
+"MSR"	193	"Montserrat"	0	"Forest"	2010	2.5
+"MSR"	193	"Montserrat"	1	"Inland water"	2005	0
+"MSR"	193	"Montserrat"	3	"Other wooded land"	1990	1.6
+"MSR"	193	"Montserrat"	3	"Other wooded land"	2005	1.6
+"MSR"	193	"Montserrat"	0	"Forest"	2005	2.5
+"MSR"	193	"Montserrat"	0	"Forest"	1990	3.5
+"MSR"	193	"Montserrat"	2	"Other land"	1990	5.2
+"MSR"	193	"Montserrat"	2	"Other land"	2005	6.2
+"MAR"	57	"Morocco"	3	"Other wooded land"	2010	631
+"MAR"	57	"Morocco"	3	"Other wooded land"	2005	630
+"MAR"	57	"Morocco"	1	"Inland water"	1990	25
+"MAR"	57	"Morocco"	3	"Other wooded land"	2000	407
+"MAR"	57	"Morocco"	2	"Other land"	1990	39174
+"MAR"	57	"Morocco"	2	"Other land"	2000	39206
+"MAR"	57	"Morocco"	0	"Forest"	2000	5017
+"MAR"	57	"Morocco"	3	"Other wooded land"	1990	407
+"MAR"	57	"Morocco"	0	"Forest"	1990	5049
+"MAR"	57	"Morocco"	0	"Forest"	2005	5081
+"MAR"	57	"Morocco"	0	"Forest"	2010	5131
+"MAR"	57	"Morocco"	1	"Inland water"	2000	25
+"MAR"	57	"Morocco"	2	"Other land"	2005	38919
+"MAR"	57	"Morocco"	2	"Other land"	2010	38868
+"MAR"	57	"Morocco"	1	"Inland water"	2010	25
+"MAR"	57	"Morocco"	1	"Inland water"	2005	25
+"MOZ"	16	"Mozambique"	3	"Other wooded land"	2010	14566
+"MOZ"	16	"Mozambique"	3	"Other wooded land"	1990	15146
+"MOZ"	16	"Mozambique"	2	"Other land"	1990	20114
+"MOZ"	16	"Mozambique"	1	"Inland water"	1990	1300
+"MOZ"	16	"Mozambique"	3	"Other wooded land"	2000	14856
+"MOZ"	16	"Mozambique"	0	"Forest"	1990	43378
+"MOZ"	16	"Mozambique"	2	"Other land"	2005	23848
+"MOZ"	16	"Mozambique"	2	"Other land"	2000	22594
+"MOZ"	16	"Mozambique"	0	"Forest"	2000	41188
+"MOZ"	16	"Mozambique"	1	"Inland water"	2000	1300
+"MOZ"	16	"Mozambique"	1	"Inland water"	2010	1300
+"MOZ"	16	"Mozambique"	0	"Forest"	2005	40079
+"MOZ"	16	"Mozambique"	3	"Other wooded land"	2005	14711
+"MOZ"	16	"Mozambique"	0	"Forest"	2010	39022
+"MOZ"	16	"Mozambique"	1	"Inland water"	2005	1300
+"MOZ"	16	"Mozambique"	2	"Other land"	2010	25050
+"MMR"	40	"Myanmar"	3	"Other wooded land"	1990	19498
+"MMR"	40	"Myanmar"	3	"Other wooded land"	2000	19703
+"MMR"	40	"Myanmar"	1	"Inland water"	1990	1903
+"MMR"	40	"Myanmar"	3	"Other wooded land"	2010	20113
+"MMR"	40	"Myanmar"	2	"Other land"	2005	12526
+"MMR"	40	"Myanmar"	2	"Other land"	2000	11184
+"MMR"	40	"Myanmar"	0	"Forest"	1990	39218
+"MMR"	40	"Myanmar"	2	"Other land"	1990	7039
+"MMR"	40	"Myanmar"	3	"Other wooded land"	2005	19908
+"MMR"	40	"Myanmar"	0	"Forest"	2005	33321
+"MMR"	40	"Myanmar"	0	"Forest"	2000	34868
+"MMR"	40	"Myanmar"	1	"Inland water"	2000	1903
+"MMR"	40	"Myanmar"	1	"Inland water"	2005	1903
+"MMR"	40	"Myanmar"	0	"Forest"	2010	31773
+"MMR"	40	"Myanmar"	1	"Inland water"	2010	1903
+"MMR"	40	"Myanmar"	2	"Other land"	2010	13869
+"NAM"	17	"Namibia"	3	"Other wooded land"	1990	9023
+"NAM"	17	"Namibia"	0	"Forest"	1990	8762
+"NAM"	17	"Namibia"	1	"Inland water"	1990	100
+"NAM"	17	"Namibia"	2	"Other land"	2000	65641
+"NAM"	17	"Namibia"	0	"Forest"	2000	8032
+"NAM"	17	"Namibia"	2	"Other land"	1990	64544
+"NAM"	17	"Namibia"	1	"Inland water"	2005	100
+"NAM"	17	"Namibia"	0	"Forest"	2010	7290
+"NAM"	17	"Namibia"	1	"Inland water"	2010	100
+"NAM"	17	"Namibia"	3	"Other wooded land"	2010	8290
+"NAM"	17	"Namibia"	2	"Other land"	2010	66749
+"NAM"	17	"Namibia"	3	"Other wooded land"	2000	8656
+"NAM"	17	"Namibia"	1	"Inland water"	2000	100
+"NAM"	17	"Namibia"	0	"Forest"	2005	7661
+"NAM"	17	"Namibia"	2	"Other land"	2005	66195
+"NAM"	17	"Namibia"	3	"Other wooded land"	2005	8473
+"NRU"	5293372	"Nauru"	2	"Other land"	1990	2
+"NRU"	5293372	"Nauru"	1	"Inland water"	1990	0
+"NRU"	5293372	"Nauru"	0	"Forest"	2010	0
+"NRU"	5293372	"Nauru"	0	"Forest"	1990	0
+"NRU"	5293372	"Nauru"	2	"Other land"	2005	2
+"NRU"	5293372	"Nauru"	1	"Inland water"	2010	0
+"NRU"	5293372	"Nauru"	0	"Forest"	2000	0
+"NRU"	5293372	"Nauru"	1	"Inland water"	2000	0
+"NRU"	5293372	"Nauru"	1	"Inland water"	2005	0
+"NRU"	5293372	"Nauru"	3	"Other wooded land"	2005	0
+"NRU"	5293372	"Nauru"	2	"Other land"	2010	2
+"NRU"	5293372	"Nauru"	3	"Other wooded land"	1990	0
+"NRU"	5293372	"Nauru"	3	"Other wooded land"	2010	0
+"NRU"	5293372	"Nauru"	2	"Other land"	2000	2
+"NRU"	5293372	"Nauru"	0	"Forest"	2005	0
+"NRU"	5293372	"Nauru"	3	"Other wooded land"	2000	0
+"NPL"	35	"Nepal"	2	"Other land"	1990	8303
+"NPL"	35	"Nepal"	0	"Forest"	1990	4817
+"NPL"	35	"Nepal"	1	"Inland water"	2010	418
+"NPL"	35	"Nepal"	0	"Forest"	2000	3900
+"NPL"	35	"Nepal"	1	"Inland water"	1990	418
+"NPL"	35	"Nepal"	2	"Other land"	2010	8767
+"NPL"	35	"Nepal"	1	"Inland water"	2000	418
+"NPL"	35	"Nepal"	3	"Other wooded land"	2005	1897
+"NPL"	35	"Nepal"	3	"Other wooded land"	2010	1897
+"NPL"	35	"Nepal"	2	"Other land"	2005	8767
+"NPL"	35	"Nepal"	3	"Other wooded land"	1990	1180
+"NPL"	35	"Nepal"	2	"Other land"	2000	8647
+"NPL"	35	"Nepal"	3	"Other wooded land"	2000	1753
+"NPL"	35	"Nepal"	1	"Inland water"	2005	418
+"NPL"	35	"Nepal"	0	"Forest"	2005	3636
+"NPL"	35	"Nepal"	0	"Forest"	2010	3636
+"NLD"	140	"Netherlands"	2	"Other land"	1990	3043
+"NLD"	140	"Netherlands"	2	"Other land"	2010	3023
+"NLD"	140	"Netherlands"	2	"Other land"	2005	3023
+"NLD"	140	"Netherlands"	0	"Forest"	1990	345
+"NLD"	140	"Netherlands"	3	"Other wooded land"	2005	0
+"NLD"	140	"Netherlands"	1	"Inland water"	2010	765
+"NLD"	140	"Netherlands"	0	"Forest"	2010	365
+"NLD"	140	"Netherlands"	1	"Inland water"	2000	765
+"NLD"	140	"Netherlands"	1	"Inland water"	1990	765
+"NLD"	140	"Netherlands"	0	"Forest"	2000	360
+"NLD"	140	"Netherlands"	3	"Other wooded land"	2010	0
+"NLD"	140	"Netherlands"	0	"Forest"	2005	365
+"NLD"	140	"Netherlands"	1	"Inland water"	2005	765
+"NLD"	140	"Netherlands"	3	"Other wooded land"	1990	0
+"NLD"	140	"Netherlands"	3	"Other wooded land"	2000	0
+"NLD"	140	"Netherlands"	2	"Other land"	2000	3028
+"ANT"	194	"Netherlands Antilles"	2	"Other land"	2010	46.13
+"ANT"	194	"Netherlands Antilles"	0	"Forest"	2005	1.18
+"ANT"	194	"Netherlands Antilles"	3	"Other wooded land"	2005	32.69
+"ANT"	194	"Netherlands Antilles"	1	"Inland water"	2000	0
+"ANT"	194	"Netherlands Antilles"	0	"Forest"	2010	1.18
+"ANT"	194	"Netherlands Antilles"	0	"Forest"	1990	1.18
+"ANT"	194	"Netherlands Antilles"	1	"Inland water"	1990	0
+"ANT"	194	"Netherlands Antilles"	3	"Other wooded land"	2000	32.69
+"ANT"	194	"Netherlands Antilles"	3	"Other wooded land"	2010	32.69
+"ANT"	194	"Netherlands Antilles"	1	"Inland water"	2005	0
+"ANT"	194	"Netherlands Antilles"	2	"Other land"	2005	46.13
+"ANT"	194	"Netherlands Antilles"	3	"Other wooded land"	1990	32.69
+"ANT"	194	"Netherlands Antilles"	2	"Other land"	1990	46.13
+"ANT"	194	"Netherlands Antilles"	1	"Inland water"	2010	0
+"ANT"	194	"Netherlands Antilles"	2	"Other land"	2000	46.13
+"ANT"	194	"Netherlands Antilles"	0	"Forest"	2000	1.18
+"NCL"	115	"New Caledonia"	1	"Inland water"	2010	30
+"NCL"	115	"New Caledonia"	3	"Other wooded land"	2005	371
+"NCL"	115	"New Caledonia"	3	"Other wooded land"	2010	371
+"NCL"	115	"New Caledonia"	2	"Other land"	2005	618
+"NCL"	115	"New Caledonia"	3	"Other wooded land"	1990	371
+"NCL"	115	"New Caledonia"	3	"Other wooded land"	2000	371
+"NCL"	115	"New Caledonia"	0	"Forest"	2000	839
+"NCL"	115	"New Caledonia"	1	"Inland water"	2005	30
+"NCL"	115	"New Caledonia"	1	"Inland water"	1990	30
+"NCL"	115	"New Caledonia"	2	"Other land"	1990	618
+"NCL"	115	"New Caledonia"	0	"Forest"	2005	839
+"NCL"	115	"New Caledonia"	2	"Other land"	2010	618
+"NCL"	115	"New Caledonia"	2	"Other land"	2000	618
+"NCL"	115	"New Caledonia"	0	"Forest"	1990	839
+"NCL"	115	"New Caledonia"	0	"Forest"	2010	839
+"NCL"	115	"New Caledonia"	1	"Inland water"	2000	30
+"NZL"	124	"New Zealand"	1	"Inland water"	2005	0
+"NZL"	124	"New Zealand"	0	"Forest"	2010	8269
+"NZL"	124	"New Zealand"	2	"Other land"	2005	15903
+"NZL"	124	"New Zealand"	3	"Other wooded land"	2000	2557
+"NZL"	124	"New Zealand"	0	"Forest"	2000	8266
+"NZL"	124	"New Zealand"	1	"Inland water"	2010	0
+"NZL"	124	"New Zealand"	3	"Other wooded land"	2010	2557
+"NZL"	124	"New Zealand"	3	"Other wooded land"	2005	2557
+"NZL"	124	"New Zealand"	0	"Forest"	2005	8311
+"NZL"	124	"New Zealand"	2	"Other land"	2000	15948
+"NZL"	124	"New Zealand"	2	"Other land"	2010	15945
+"NZL"	124	"New Zealand"	3	"Other wooded land"	1990	2557
+"NZL"	124	"New Zealand"	0	"Forest"	1990	7720
+"NZL"	124	"New Zealand"	1	"Inland water"	1990	0
+"NZL"	124	"New Zealand"	1	"Inland water"	2000	0
+"NZL"	124	"New Zealand"	2	"Other land"	1990	16494
+"NIC"	177	"Nicaragua"	0	"Forest"	2000	3814
+"NIC"	177	"Nicaragua"	1	"Inland water"	2005	860
+"NIC"	177	"Nicaragua"	0	"Forest"	1990	4514
+"NIC"	177	"Nicaragua"	1	"Inland water"	2010	860
+"NIC"	177	"Nicaragua"	2	"Other land"	2010	6807
+"NIC"	177	"Nicaragua"	3	"Other wooded land"	2005	2219
+"NIC"	177	"Nicaragua"	2	"Other land"	2000	6107
+"NIC"	177	"Nicaragua"	0	"Forest"	2005	3464
+"NIC"	177	"Nicaragua"	0	"Forest"	2010	3114
+"NIC"	177	"Nicaragua"	3	"Other wooded land"	1990	2219
+"NIC"	177	"Nicaragua"	3	"Other wooded land"	2000	2219
+"NIC"	177	"Nicaragua"	1	"Inland water"	2000	860
+"NIC"	177	"Nicaragua"	1	"Inland water"	1990	860
+"NIC"	177	"Nicaragua"	2	"Other land"	2005	6457
+"NIC"	177	"Nicaragua"	2	"Other land"	1990	5407
+"NIC"	177	"Nicaragua"	3	"Other wooded land"	2010	2219
+"NER"	70	"Niger"	1	"Inland water"	2005	30
+"NER"	70	"Niger"	0	"Forest"	2000	1328
+"NER"	70	"Niger"	2	"Other land"	2000	121302
+"NER"	70	"Niger"	1	"Inland water"	2010	30
+"NER"	70	"Niger"	0	"Forest"	1990	1945
+"NER"	70	"Niger"	3	"Other wooded land"	2005	3740
+"NER"	70	"Niger"	1	"Inland water"	1990	30
+"NER"	70	"Niger"	3	"Other wooded land"	2000	4040
+"NER"	70	"Niger"	1	"Inland water"	2000	30
+"NER"	70	"Niger"	0	"Forest"	2010	1204
+"NER"	70	"Niger"	3	"Other wooded land"	1990	4640
+"NER"	70	"Niger"	2	"Other land"	1990	120085
+"NER"	70	"Niger"	2	"Other land"	2005	121664
+"NER"	70	"Niger"	0	"Forest"	2005	1266
+"NER"	70	"Niger"	2	"Other land"	2010	122026
+"NER"	70	"Niger"	3	"Other wooded land"	2010	3440
+"NGA"	1	"Nigeria"	0	"Forest"	2000	13137
+"NGA"	1	"Nigeria"	3	"Other wooded land"	1990	9717
+"NGA"	1	"Nigeria"	1	"Inland water"	1990	1300
+"NGA"	1	"Nigeria"	3	"Other wooded land"	2005	5495
+"NGA"	1	"Nigeria"	2	"Other land"	1990	64126
+"NGA"	1	"Nigeria"	3	"Other wooded land"	2000	6902
+"NGA"	1	"Nigeria"	0	"Forest"	1990	17234
+"NGA"	1	"Nigeria"	2	"Other land"	2000	71038
+"NGA"	1	"Nigeria"	1	"Inland water"	2010	1300
+"NGA"	1	"Nigeria"	2	"Other land"	2005	74493
+"NGA"	1	"Nigeria"	1	"Inland water"	2000	1300
+"NGA"	1	"Nigeria"	0	"Forest"	2010	9041
+"NGA"	1	"Nigeria"	2	"Other land"	2010	77948
+"NGA"	1	"Nigeria"	1	"Inland water"	2005	1300
+"NGA"	1	"Nigeria"	3	"Other wooded land"	2010	4088
+"NGA"	1	"Nigeria"	0	"Forest"	2005	11089
+"NIU"	116	"Niue"	3	"Other wooded land"	2000	0
+"NIU"	116	"Niue"	0	"Forest"	2000	19.6
+"NIU"	116	"Niue"	1	"Inland water"	2005	0
+"NIU"	116	"Niue"	3	"Other wooded land"	1990	0
+"NIU"	116	"Niue"	2	"Other land"	1990	5.4
+"NIU"	116	"Niue"	1	"Inland water"	2010	0
+"NIU"	116	"Niue"	0	"Forest"	2005	19.1
+"NIU"	116	"Niue"	3	"Other wooded land"	2010	0
+"NIU"	116	"Niue"	1	"Inland water"	2000	0
+"NIU"	116	"Niue"	2	"Other land"	2000	6.4
+"NIU"	116	"Niue"	3	"Other wooded land"	2005	0
+"NIU"	116	"Niue"	1	"Inland water"	1990	0
+"NIU"	116	"Niue"	0	"Forest"	2010	18.6
+"NIU"	116	"Niue"	0	"Forest"	1990	20.6
+"NIU"	116	"Niue"	2	"Other land"	2010	7.4
+"NIU"	116	"Niue"	2	"Other land"	2005	6.9
+"NFK"	643000372	"Norfolk Island"	3	"Other wooded land"	2010	0
+"NFK"	643000372	"Norfolk Island"	1	"Inland water"	2000	0
+"NFK"	643000372	"Norfolk Island"	0	"Forest"	2000	0.46
+"NFK"	643000372	"Norfolk Island"	0	"Forest"	2005	0.46
+"NFK"	643000372	"Norfolk Island"	1	"Inland water"	2005	0
+"NFK"	643000372	"Norfolk Island"	2	"Other land"	2005	3.54
+"NFK"	643000372	"Norfolk Island"	0	"Forest"	2010	0.46
+"NFK"	643000372	"Norfolk Island"	2	"Other land"	2000	3.54
+"NFK"	643000372	"Norfolk Island"	2	"Other land"	2010	3.54
+"NFK"	643000372	"Norfolk Island"	3	"Other wooded land"	2005	0
+"NFK"	643000372	"Norfolk Island"	1	"Inland water"	1990	0
+"NFK"	643000372	"Norfolk Island"	3	"Other wooded land"	1990	0
+"NFK"	643000372	"Norfolk Island"	3	"Other wooded land"	2000	0
+"NFK"	643000372	"Norfolk Island"	1	"Inland water"	2010	0
+"NFK"	643000372	"Norfolk Island"	0	"Forest"	1990	0.46
+"NFK"	643000372	"Norfolk Island"	2	"Other land"	1990	3.54
+"MNP"	5293394	"Northern Mariana Islands"	3	"Other wooded land"	2010	0
+"MNP"	5293394	"Northern Mariana Islands"	3	"Other wooded land"	2000	0
+"MNP"	5293394	"Northern Mariana Islands"	1	"Inland water"	2005	0
+"MNP"	5293394	"Northern Mariana Islands"	1	"Inland water"	2000	0
+"MNP"	5293394	"Northern Mariana Islands"	0	"Forest"	2010	30.319
+"MNP"	5293394	"Northern Mariana Islands"	0	"Forest"	2005	31.142
+"MNP"	5293394	"Northern Mariana Islands"	2	"Other land"	2010	15.681
+"MNP"	5293394	"Northern Mariana Islands"	1	"Inland water"	1990	0
+"MNP"	5293394	"Northern Mariana Islands"	0	"Forest"	2000	31.964
+"MNP"	5293394	"Northern Mariana Islands"	3	"Other wooded land"	1990	0
+"MNP"	5293394	"Northern Mariana Islands"	3	"Other wooded land"	2005	0
+"MNP"	5293394	"Northern Mariana Islands"	2	"Other land"	2005	14.858
+"MNP"	5293394	"Northern Mariana Islands"	2	"Other land"	2000	14.036
+"MNP"	5293394	"Northern Mariana Islands"	0	"Forest"	1990	33.609
+"MNP"	5293394	"Northern Mariana Islands"	1	"Inland water"	2010	0
+"MNP"	5293394	"Northern Mariana Islands"	2	"Other land"	1990	12.391
+"NOR"	126	"Norway"	3	"Other wooded land"	1990	2870
+"NOR"	126	"Norway"	1	"Inland water"	1990	1953
+"NOR"	126	"Norway"	0	"Forest"	2010	10065
+"NOR"	126	"Norway"	0	"Forest"	1990	9130
+"NOR"	126	"Norway"	2	"Other land"	1990	18427
+"NOR"	126	"Norway"	2	"Other land"	2000	18427
+"NOR"	126	"Norway"	3	"Other wooded land"	2000	2699
+"NOR"	126	"Norway"	3	"Other wooded land"	2010	2703
+"NOR"	126	"Norway"	1	"Inland water"	2005	1953
+"NOR"	126	"Norway"	2	"Other land"	2005	18043
+"NOR"	126	"Norway"	1	"Inland water"	2000	1953
+"NOR"	126	"Norway"	1	"Inland water"	2010	1953
+"NOR"	126	"Norway"	2	"Other land"	2010	17659
+"NOR"	126	"Norway"	0	"Forest"	2005	9683
+"NOR"	126	"Norway"	3	"Other wooded land"	2005	2701
+"NOR"	126	"Norway"	0	"Forest"	2000	9301
+"PSE"	6008	"Occupied Palestinian Territory"	0	"Forest"	2010	9.17
+"PSE"	6008	"Occupied Palestinian Territory"	0	"Forest"	1990	9.08
+"PSE"	6008	"Occupied Palestinian Territory"	1	"Inland water"	2010	19
+"PSE"	6008	"Occupied Palestinian Territory"	1	"Inland water"	2005	19
+"PSE"	6008	"Occupied Palestinian Territory"	3	"Other wooded land"	2000	0
+"PSE"	6008	"Occupied Palestinian Territory"	3	"Other wooded land"	2010	0
+"PSE"	6008	"Occupied Palestinian Territory"	0	"Forest"	2005	9.17
+"PSE"	6008	"Occupied Palestinian Territory"	2	"Other land"	1990	592.92
+"PSE"	6008	"Occupied Palestinian Territory"	3	"Other wooded land"	1990	0
+"PSE"	6008	"Occupied Palestinian Territory"	1	"Inland water"	1990	19
+"PSE"	6008	"Occupied Palestinian Territory"	0	"Forest"	2000	9.08
+"PSE"	6008	"Occupied Palestinian Territory"	2	"Other land"	2010	592.83
+"PSE"	6008	"Occupied Palestinian Territory"	1	"Inland water"	2000	19
+"PSE"	6008	"Occupied Palestinian Territory"	2	"Other land"	2000	592.92
+"PSE"	6008	"Occupied Palestinian Territory"	3	"Other wooded land"	2005	0
+"PSE"	6008	"Occupied Palestinian Territory"	2	"Other land"	2005	592.83
+"OMN"	95	"Oman"	1	"Inland water"	2010	0
+"OMN"	95	"Oman"	1	"Inland water"	2005	0
+"OMN"	95	"Oman"	3	"Other wooded land"	2010	1303
+"OMN"	95	"Oman"	0	"Forest"	2010	2
+"OMN"	95	"Oman"	0	"Forest"	2005	2
+"OMN"	95	"Oman"	2	"Other land"	2010	29645
+"OMN"	95	"Oman"	3	"Other wooded land"	1990	1303
+"OMN"	95	"Oman"	1	"Inland water"	1990	0
+"OMN"	95	"Oman"	0	"Forest"	1990	2
+"OMN"	95	"Oman"	2	"Other land"	2000	29645
+"OMN"	95	"Oman"	2	"Other land"	1990	29645
+"OMN"	95	"Oman"	0	"Forest"	2000	2
+"OMN"	95	"Oman"	3	"Other wooded land"	2000	1303
+"OMN"	95	"Oman"	3	"Other wooded land"	2005	1303
+"OMN"	95	"Oman"	2	"Other land"	2005	29645
+"OMN"	95	"Oman"	1	"Inland water"	2000	0
+"PAK"	36	"Pakistan"	3	"Other wooded land"	2010	1455
+"PAK"	36	"Pakistan"	0	"Forest"	2005	1902
+"PAK"	36	"Pakistan"	1	"Inland water"	1990	2522
+"PAK"	36	"Pakistan"	0	"Forest"	2010	1687
+"PAK"	36	"Pakistan"	2	"Other land"	2010	73946
+"PAK"	36	"Pakistan"	3	"Other wooded land"	2000	1323
+"PAK"	36	"Pakistan"	0	"Forest"	1990	2527
+"PAK"	36	"Pakistan"	2	"Other land"	2000	73649
+"PAK"	36	"Pakistan"	1	"Inland water"	2010	2522
+"PAK"	36	"Pakistan"	3	"Other wooded land"	1990	1191
+"PAK"	36	"Pakistan"	0	"Forest"	2000	2116
+"PAK"	36	"Pakistan"	2	"Other land"	2005	73797
+"PAK"	36	"Pakistan"	1	"Inland water"	2005	2522
+"PAK"	36	"Pakistan"	3	"Other wooded land"	2005	1389
+"PAK"	36	"Pakistan"	2	"Other land"	1990	73370
+"PAK"	36	"Pakistan"	1	"Inland water"	2000	2522
+"PLW"	5294032	"Palau"	1	"Inland water"	2000	0
+"PLW"	5294032	"Palau"	2	"Other land"	2010	5.697
+"PLW"	5294032	"Palau"	0	"Forest"	2000	39.587
+"PLW"	5294032	"Palau"	1	"Inland water"	2010	0
+"PLW"	5294032	"Palau"	0	"Forest"	1990	38.154
+"PLW"	5294032	"Palau"	2	"Other land"	2005	5.697
+"PLW"	5294032	"Palau"	0	"Forest"	2010	40.303
+"PLW"	5294032	"Palau"	3	"Other wooded land"	2000	0
+"PLW"	5294032	"Palau"	2	"Other land"	1990	7.846
+"PLW"	5294032	"Palau"	2	"Other land"	2000	6.413
+"PLW"	5294032	"Palau"	0	"Forest"	2005	40.303
+"PLW"	5294032	"Palau"	3	"Other wooded land"	2005	0
+"PLW"	5294032	"Palau"	1	"Inland water"	2005	0
+"PLW"	5294032	"Palau"	1	"Inland water"	1990	0
+"PLW"	5294032	"Palau"	3	"Other wooded land"	1990	0
+"PLW"	5294032	"Palau"	3	"Other wooded land"	2010	0
+"PAN"	178	"Panama"	1	"Inland water"	2010	109
+"PAN"	178	"Panama"	3	"Other wooded land"	2005	973
+"PAN"	178	"Panama"	0	"Forest"	2005	3310
+"PAN"	178	"Panama"	2	"Other land"	2010	3371
+"PAN"	178	"Panama"	3	"Other wooded land"	1990	856
+"PAN"	178	"Panama"	3	"Other wooded land"	2000	1124
+"PAN"	178	"Panama"	0	"Forest"	1990	3792
+"PAN"	178	"Panama"	1	"Inland water"	2000	109
+"PAN"	178	"Panama"	3	"Other wooded land"	2010	821
+"PAN"	178	"Panama"	2	"Other land"	2005	3160
+"PAN"	178	"Panama"	2	"Other land"	2000	2950
+"PAN"	178	"Panama"	1	"Inland water"	1990	109
+"PAN"	178	"Panama"	2	"Other land"	1990	2795
+"PAN"	178	"Panama"	1	"Inland water"	2005	109
+"PAN"	178	"Panama"	0	"Forest"	2000	3369
+"PAN"	178	"Panama"	0	"Forest"	2010	3251
+"PNG"	118	"Papua New Guinea"	3	"Other wooded land"	2005	4474
+"PNG"	118	"Papua New Guinea"	2	"Other land"	2005	11375
+"PNG"	118	"Papua New Guinea"	3	"Other wooded land"	2010	4474
+"PNG"	118	"Papua New Guinea"	2	"Other land"	1990	9289
+"PNG"	118	"Papua New Guinea"	2	"Other land"	2010	12086
+"PNG"	118	"Papua New Guinea"	1	"Inland water"	2010	998
+"PNG"	118	"Papua New Guinea"	1	"Inland water"	1990	998
+"PNG"	118	"Papua New Guinea"	0	"Forest"	2010	28726
+"PNG"	118	"Papua New Guinea"	3	"Other wooded land"	1990	4474
+"PNG"	118	"Papua New Guinea"	1	"Inland water"	2000	998
+"PNG"	118	"Papua New Guinea"	0	"Forest"	2005	29437
+"PNG"	118	"Papua New Guinea"	2	"Other land"	2000	10679
+"PNG"	118	"Papua New Guinea"	1	"Inland water"	2005	998
+"PNG"	118	"Papua New Guinea"	0	"Forest"	1990	31523
+"PNG"	118	"Papua New Guinea"	0	"Forest"	2000	30133
+"PNG"	118	"Papua New Guinea"	3	"Other wooded land"	2000	4474
+"PRY"	211	"Paraguay"	3	"Other wooded land"	2010	0
+"PRY"	211	"Paraguay"	0	"Forest"	2005	18475
+"PRY"	211	"Paraguay"	1	"Inland water"	2010	945
+"PRY"	211	"Paraguay"	1	"Inland water"	2000	945
+"PRY"	211	"Paraguay"	0	"Forest"	2010	17582
+"PRY"	211	"Paraguay"	2	"Other land"	2005	21255
+"PRY"	211	"Paraguay"	3	"Other wooded land"	1990	0
+"PRY"	211	"Paraguay"	3	"Other wooded land"	2005	0
+"PRY"	211	"Paraguay"	1	"Inland water"	1990	945
+"PRY"	211	"Paraguay"	2	"Other land"	2000	20362
+"PRY"	211	"Paraguay"	1	"Inland water"	2005	945
+"PRY"	211	"Paraguay"	3	"Other wooded land"	2000	0
+"PRY"	211	"Paraguay"	2	"Other land"	2010	22148
+"PRY"	211	"Paraguay"	2	"Other land"	1990	18573
+"PRY"	211	"Paraguay"	0	"Forest"	1990	21157
+"PRY"	211	"Paraguay"	0	"Forest"	2000	19368
+"PER"	212	"Peru"	1	"Inland water"	2000	522
+"PER"	212	"Peru"	1	"Inland water"	2010	522
+"PER"	212	"Peru"	3	"Other wooded land"	2005	22132
+"PER"	212	"Peru"	0	"Forest"	2010	67992
+"PER"	212	"Peru"	1	"Inland water"	2005	522
+"PER"	212	"Peru"	3	"Other wooded land"	1990	22132
+"PER"	212	"Peru"	1	"Inland water"	1990	522
+"PER"	212	"Peru"	0	"Forest"	2005	68742
+"PER"	212	"Peru"	3	"Other wooded land"	2010	22132
+"PER"	212	"Peru"	3	"Other wooded land"	2000	22132
+"PER"	212	"Peru"	2	"Other land"	2010	37876
+"PER"	212	"Peru"	0	"Forest"	2000	69213
+"PER"	212	"Peru"	2	"Other land"	2005	37126
+"PER"	212	"Peru"	0	"Forest"	1990	70156
+"PER"	212	"Peru"	2	"Other land"	1990	35712
+"PER"	212	"Peru"	2	"Other land"	2000	36655
+"PHL"	84	"Philippines"	3	"Other wooded land"	2010	10128
+"PHL"	84	"Philippines"	1	"Inland water"	1990	183
+"PHL"	84	"Philippines"	1	"Inland water"	2005	183
+"PHL"	84	"Philippines"	3	"Other wooded land"	2005	8400
+"PHL"	84	"Philippines"	0	"Forest"	2000	7117
+"PHL"	84	"Philippines"	1	"Inland water"	2000	183
+"PHL"	84	"Philippines"	2	"Other land"	2000	16028
+"PHL"	84	"Philippines"	2	"Other land"	1990	20031
+"PHL"	84	"Philippines"	3	"Other wooded land"	2000	6672
+"PHL"	84	"Philippines"	1	"Inland water"	2010	183
+"PHL"	84	"Philippines"	2	"Other land"	2005	14026
+"PHL"	84	"Philippines"	0	"Forest"	2005	7391
+"PHL"	84	"Philippines"	0	"Forest"	1990	6570
+"PHL"	84	"Philippines"	2	"Other land"	2010	12024
+"PHL"	84	"Philippines"	0	"Forest"	2010	7665
+"PHL"	84	"Philippines"	3	"Other wooded land"	1990	3216
+"PCN"	7661984	"Pitcairn"	2	"Other land"	2000	0.2
+"PCN"	7661984	"Pitcairn"	1	"Inland water"	1990	0
+"PCN"	7661984	"Pitcairn"	0	"Forest"	2000	3.5
+"PCN"	7661984	"Pitcairn"	2	"Other land"	2005	0.2
+"PCN"	7661984	"Pitcairn"	1	"Inland water"	2005	0
+"PCN"	7661984	"Pitcairn"	3	"Other wooded land"	1990	0.5
+"PCN"	7661984	"Pitcairn"	3	"Other wooded land"	2000	0.5
+"PCN"	7661984	"Pitcairn"	3	"Other wooded land"	2010	0.5
+"PCN"	7661984	"Pitcairn"	1	"Inland water"	2010	0
+"PCN"	7661984	"Pitcairn"	0	"Forest"	2010	3.5
+"PCN"	7661984	"Pitcairn"	0	"Forest"	1990	3.5
+"PCN"	7661984	"Pitcairn"	3	"Other wooded land"	2005	0.5
+"PCN"	7661984	"Pitcairn"	1	"Inland water"	2000	0
+"PCN"	7661984	"Pitcairn"	2	"Other land"	1990	0.2
+"PCN"	7661984	"Pitcairn"	2	"Other land"	2010	0.2
+"PCN"	7661984	"Pitcairn"	0	"Forest"	2005	3.5
+"POL"	150	"Poland"	1	"Inland water"	1990	827
+"POL"	150	"Poland"	3	"Other wooded land"	1990	0
+"POL"	150	"Poland"	0	"Forest"	2000	9059
+"POL"	150	"Poland"	2	"Other land"	2005	21433
+"POL"	150	"Poland"	3	"Other wooded land"	2010	0
+"POL"	150	"Poland"	3	"Other wooded land"	2000	0
+"POL"	150	"Poland"	1	"Inland water"	2010	636
+"POL"	150	"Poland"	0	"Forest"	2010	9337
+"POL"	150	"Poland"	2	"Other land"	1990	21561
+"POL"	150	"Poland"	3	"Other wooded land"	2005	0
+"POL"	150	"Poland"	2	"Other land"	2010	21296
+"POL"	150	"Poland"	1	"Inland water"	2005	636
+"POL"	150	"Poland"	0	"Forest"	2005	9200
+"POL"	150	"Poland"	2	"Other land"	2000	21377
+"POL"	150	"Poland"	1	"Inland water"	2000	833
+"POL"	150	"Poland"	0	"Forest"	1990	8881
+"PRT"	141	"Portugal"	3	"Other wooded land"	2010	155
+"PRT"	141	"Portugal"	1	"Inland water"	1990	49.3
+"PRT"	141	"Portugal"	2	"Other land"	2000	5565
+"PRT"	141	"Portugal"	0	"Forest"	2000	3420
+"PRT"	141	"Portugal"	3	"Other wooded land"	1990	45.3
+"PRT"	141	"Portugal"	2	"Other land"	1990	5790
+"PRT"	141	"Portugal"	1	"Inland water"	2005	144
+"PRT"	141	"Portugal"	3	"Other wooded land"	2005	155
+"PRT"	141	"Portugal"	1	"Inland water"	2010	144
+"PRT"	141	"Portugal"	0	"Forest"	2010	3456
+"PRT"	141	"Portugal"	3	"Other wooded land"	2000	101
+"PRT"	141	"Portugal"	2	"Other land"	2005	5476
+"PRT"	141	"Portugal"	0	"Forest"	1990	3327
+"PRT"	141	"Portugal"	1	"Inland water"	2000	126
+"PRT"	141	"Portugal"	2	"Other land"	2010	5457
+"PRT"	141	"Portugal"	0	"Forest"	2005	3437
+"PRI"	7665786	"Puerto Rico"	3	"Other wooded land"	1990	0
+"PRI"	7665786	"Puerto Rico"	2	"Other land"	1990	600
+"PRI"	7665786	"Puerto Rico"	3	"Other wooded land"	2010	0
+"PRI"	7665786	"Puerto Rico"	1	"Inland water"	2010	8
+"PRI"	7665786	"Puerto Rico"	0	"Forest"	1990	287
+"PRI"	7665786	"Puerto Rico"	0	"Forest"	2010	552
+"PRI"	7665786	"Puerto Rico"	1	"Inland water"	1990	8
+"PRI"	7665786	"Puerto Rico"	1	"Inland water"	2000	8
+"PRI"	7665786	"Puerto Rico"	3	"Other wooded land"	2000	0
+"PRI"	7665786	"Puerto Rico"	2	"Other land"	2000	423
+"PRI"	7665786	"Puerto Rico"	2	"Other land"	2010	335
+"PRI"	7665786	"Puerto Rico"	0	"Forest"	2005	508
+"PRI"	7665786	"Puerto Rico"	3	"Other wooded land"	2005	0
+"PRI"	7665786	"Puerto Rico"	1	"Inland water"	2005	8
+"PRI"	7665786	"Puerto Rico"	0	"Forest"	2000	464
+"PRI"	7665786	"Puerto Rico"	2	"Other land"	2005	379
+"QAT"	96	"Qatar"	2	"Other land"	1990	1099.5
+"QAT"	96	"Qatar"	3	"Other wooded land"	1990	0.5
+"QAT"	96	"Qatar"	3	"Other wooded land"	2010	0.5
+"QAT"	96	"Qatar"	0	"Forest"	2010	0
+"QAT"	96	"Qatar"	1	"Inland water"	1990	0
+"QAT"	96	"Qatar"	1	"Inland water"	2000	0
+"QAT"	96	"Qatar"	0	"Forest"	1990	0
+"QAT"	96	"Qatar"	0	"Forest"	2000	0
+"QAT"	96	"Qatar"	2	"Other land"	2010	1099.5
+"QAT"	96	"Qatar"	3	"Other wooded land"	2000	0.5
+"QAT"	96	"Qatar"	1	"Inland water"	2010	0
+"QAT"	96	"Qatar"	3	"Other wooded land"	2005	0.5
+"QAT"	96	"Qatar"	0	"Forest"	2005	0
+"QAT"	96	"Qatar"	2	"Other land"	2005	1099.5
+"QAT"	96	"Qatar"	2	"Other land"	2000	1099.5
+"QAT"	96	"Qatar"	1	"Inland water"	2005	0
+"KOR"	106	"Republic of Korea"	3	"Other wooded land"	1990	0
+"KOR"	106	"Republic of Korea"	0	"Forest"	2010	6222
+"KOR"	106	"Republic of Korea"	1	"Inland water"	2010	53
+"KOR"	106	"Republic of Korea"	2	"Other land"	2010	3651
+"KOR"	106	"Republic of Korea"	0	"Forest"	1990	6370
+"KOR"	106	"Republic of Korea"	2	"Other land"	1990	3503
+"KOR"	106	"Republic of Korea"	2	"Other land"	2000	3585
+"KOR"	106	"Republic of Korea"	3	"Other wooded land"	2000	0
+"KOR"	106	"Republic of Korea"	1	"Inland water"	1990	53
+"KOR"	106	"Republic of Korea"	3	"Other wooded land"	2010	0
+"KOR"	106	"Republic of Korea"	3	"Other wooded land"	2005	0
+"KOR"	106	"Republic of Korea"	0	"Forest"	2005	6255
+"KOR"	106	"Republic of Korea"	1	"Inland water"	2000	53
+"KOR"	106	"Republic of Korea"	2	"Other land"	2005	3618
+"KOR"	106	"Republic of Korea"	0	"Forest"	2000	6288
+"KOR"	106	"Republic of Korea"	1	"Inland water"	2005	53
+"MDA"	165	"Republic of Moldova"	0	"Forest"	1990	319
+"MDA"	165	"Republic of Moldova"	3	"Other wooded land"	2005	66
+"MDA"	165	"Republic of Moldova"	3	"Other wooded land"	1990	31
+"MDA"	165	"Republic of Moldova"	2	"Other land"	1990	2938
+"MDA"	165	"Republic of Moldova"	2	"Other land"	2000	2933
+"MDA"	165	"Republic of Moldova"	0	"Forest"	2010	386
+"MDA"	165	"Republic of Moldova"	1	"Inland water"	2010	97
+"MDA"	165	"Republic of Moldova"	1	"Inland water"	2000	96
+"MDA"	165	"Republic of Moldova"	1	"Inland water"	2005	97
+"MDA"	165	"Republic of Moldova"	2	"Other land"	2010	2831
+"MDA"	165	"Republic of Moldova"	3	"Other wooded land"	2010	70
+"MDA"	165	"Republic of Moldova"	1	"Inland water"	1990	96
+"MDA"	165	"Republic of Moldova"	0	"Forest"	2005	363
+"MDA"	165	"Republic of Moldova"	2	"Other land"	2005	2858
+"MDA"	165	"Republic of Moldova"	0	"Forest"	2000	324
+"MDA"	165	"Republic of Moldova"	3	"Other wooded land"	2000	31
+"REU"	25	"Reunion"	2	"Other land"	2005	111
+"REU"	25	"Reunion"	0	"Forest"	2010	88
+"REU"	25	"Reunion"	0	"Forest"	1990	87
+"REU"	25	"Reunion"	3	"Other wooded land"	2000	54
+"REU"	25	"Reunion"	2	"Other land"	2010	111
+"REU"	25	"Reunion"	3	"Other wooded land"	2010	51
+"REU"	25	"Reunion"	0	"Forest"	2005	85
+"REU"	25	"Reunion"	1	"Inland water"	2005	1
+"REU"	25	"Reunion"	1	"Inland water"	2000	1
+"REU"	25	"Reunion"	1	"Inland water"	2010	1
+"REU"	25	"Reunion"	0	"Forest"	2000	87
+"REU"	25	"Reunion"	2	"Other land"	1990	106
+"REU"	25	"Reunion"	2	"Other land"	2000	109
+"REU"	25	"Reunion"	1	"Inland water"	1990	1
+"REU"	25	"Reunion"	3	"Other wooded land"	2005	54
+"REU"	25	"Reunion"	3	"Other wooded land"	1990	57
+"ROU"	152	"Romania"	3	"Other wooded land"	1990	314
+"ROU"	152	"Romania"	3	"Other wooded land"	2005	352
+"ROU"	152	"Romania"	1	"Inland water"	2010	841
+"ROU"	152	"Romania"	2	"Other land"	2000	16398
+"ROU"	152	"Romania"	2	"Other land"	2010	16265
+"ROU"	152	"Romania"	0	"Forest"	2010	6573
+"ROU"	152	"Romania"	1	"Inland water"	2005	841
+"ROU"	152	"Romania"	0	"Forest"	2005	6391
+"ROU"	152	"Romania"	2	"Other land"	1990	16313
+"ROU"	152	"Romania"	2	"Other land"	2005	16255
+"ROU"	152	"Romania"	1	"Inland water"	1990	841
+"ROU"	152	"Romania"	0	"Forest"	2000	6366
+"ROU"	152	"Romania"	0	"Forest"	1990	6371
+"ROU"	152	"Romania"	3	"Other wooded land"	2010	160
+"ROU"	152	"Romania"	1	"Inland water"	2000	841
+"ROU"	152	"Romania"	3	"Other wooded land"	2000	234
+"RUS"	166	"Russian Federation"	1	"Inland water"	2010	71685
+"RUS"	166	"Russian Federation"	2	"Other land"	2005	756179.9
+"RUS"	166	"Russian Federation"	2	"Other land"	1990	754194.3
+"RUS"	166	"Russian Federation"	3	"Other wooded land"	2000	71606.6
+"RUS"	166	"Russian Federation"	1	"Inland water"	2005	71685
+"RUS"	166	"Russian Federation"	3	"Other wooded land"	2005	73169.1
+"RUS"	166	"Russian Federation"	0	"Forest"	1990	808949.9
+"RUS"	166	"Russian Federation"	3	"Other wooded land"	1990	74989.8
+"RUS"	166	"Russian Federation"	0	"Forest"	2005	808790
+"RUS"	166	"Russian Federation"	2	"Other land"	2010	755829
+"RUS"	166	"Russian Federation"	2	"Other land"	2000	757258.9
+"RUS"	166	"Russian Federation"	1	"Inland water"	1990	71690
+"RUS"	166	"Russian Federation"	0	"Forest"	2010	809090
+"RUS"	166	"Russian Federation"	1	"Inland water"	2000	71690
+"RUS"	166	"Russian Federation"	3	"Other wooded land"	2010	73220
+"RUS"	166	"Russian Federation"	0	"Forest"	2000	809268.5
+"RWA"	10	"Rwanda"	2	"Other land"	1990	1974
+"RWA"	10	"Rwanda"	3	"Other wooded land"	1990	175
+"RWA"	10	"Rwanda"	0	"Forest"	1990	318
+"RWA"	10	"Rwanda"	2	"Other land"	2000	2062
+"RWA"	10	"Rwanda"	2	"Other land"	2010	1971
+"RWA"	10	"Rwanda"	2	"Other land"	2005	2021
+"RWA"	10	"Rwanda"	3	"Other wooded land"	2005	61
+"RWA"	10	"Rwanda"	1	"Inland water"	2005	167
+"RWA"	10	"Rwanda"	0	"Forest"	2010	435
+"RWA"	10	"Rwanda"	0	"Forest"	2005	385
+"RWA"	10	"Rwanda"	1	"Inland water"	2000	167
+"RWA"	10	"Rwanda"	1	"Inland water"	2010	167
+"RWA"	10	"Rwanda"	3	"Other wooded land"	2010	61
+"RWA"	10	"Rwanda"	3	"Other wooded land"	2000	61
+"RWA"	10	"Rwanda"	1	"Inland water"	1990	167
+"RWA"	10	"Rwanda"	0	"Forest"	2000	344
+"BLM"	643000373	"Saint Barthelemy"	2	"Other land"	1990	1.6
+"BLM"	643000373	"Saint Barthelemy"	1	"Inland water"	1990	0
+"BLM"	643000373	"Saint Barthelemy"	3	"Other wooded land"	2000	0.5
+"BLM"	643000373	"Saint Barthelemy"	2	"Other land"	2000	1.6
+"BLM"	643000373	"Saint Barthelemy"	3	"Other wooded land"	1990	0.5
+"BLM"	643000373	"Saint Barthelemy"	1	"Inland water"	2005	0
+"BLM"	643000373	"Saint Barthelemy"	0	"Forest"	1990	0
+"BLM"	643000373	"Saint Barthelemy"	1	"Inland water"	2000	0
+"BLM"	643000373	"Saint Barthelemy"	0	"Forest"	2000	0
+"BLM"	643000373	"Saint Barthelemy"	0	"Forest"	2010	0
+"BLM"	643000373	"Saint Barthelemy"	3	"Other wooded land"	2010	0.5
+"BLM"	643000373	"Saint Barthelemy"	0	"Forest"	2005	0
+"BLM"	643000373	"Saint Barthelemy"	1	"Inland water"	2010	0
+"BLM"	643000373	"Saint Barthelemy"	2	"Other land"	2010	1.6
+"BLM"	643000373	"Saint Barthelemy"	2	"Other land"	2005	1.6
+"BLM"	643000373	"Saint Barthelemy"	3	"Other wooded land"	2005	0.5
+"SHN"	18	"Saint Helena"	3	"Other wooded land"	2010	0
+"SHN"	18	"Saint Helena"	0	"Forest"	1990	2
+"SHN"	18	"Saint Helena"	1	"Inland water"	2010	0
+"SHN"	18	"Saint Helena"	3	"Other wooded land"	2005	0
+"SHN"	18	"Saint Helena"	1	"Inland water"	2000	0
+"SHN"	18	"Saint Helena"	2	"Other land"	2000	29
+"SHN"	18	"Saint Helena"	3	"Other wooded land"	2000	0
+"SHN"	18	"Saint Helena"	1	"Inland water"	1990	0
+"SHN"	18	"Saint Helena"	0	"Forest"	2010	2
+"SHN"	18	"Saint Helena"	2	"Other land"	2005	29
+"SHN"	18	"Saint Helena"	3	"Other wooded land"	1990	0
+"SHN"	18	"Saint Helena"	1	"Inland water"	2005	0
+"SHN"	18	"Saint Helena"	0	"Forest"	2000	2
+"SHN"	18	"Saint Helena"	0	"Forest"	2005	2
+"SHN"	18	"Saint Helena"	2	"Other land"	2010	29
+"SHN"	18	"Saint Helena"	2	"Other land"	1990	29
+"KNA"	195	"Saint Kitts and Nevis"	3	"Other wooded land"	2010	2.2
+"KNA"	195	"Saint Kitts and Nevis"	3	"Other wooded land"	2000	2.2
+"KNA"	195	"Saint Kitts and Nevis"	3	"Other wooded land"	2005	2.2
+"KNA"	195	"Saint Kitts and Nevis"	1	"Inland water"	2005	0
+"KNA"	195	"Saint Kitts and Nevis"	1	"Inland water"	1990	0
+"KNA"	195	"Saint Kitts and Nevis"	2	"Other land"	1990	12.8
+"KNA"	195	"Saint Kitts and Nevis"	0	"Forest"	2010	11
+"KNA"	195	"Saint Kitts and Nevis"	0	"Forest"	1990	11
+"KNA"	195	"Saint Kitts and Nevis"	0	"Forest"	2000	11
+"KNA"	195	"Saint Kitts and Nevis"	2	"Other land"	2005	12.8
+"KNA"	195	"Saint Kitts and Nevis"	2	"Other land"	2010	12.8
+"KNA"	195	"Saint Kitts and Nevis"	1	"Inland water"	2000	0
+"KNA"	195	"Saint Kitts and Nevis"	2	"Other land"	2000	12.8
+"KNA"	195	"Saint Kitts and Nevis"	3	"Other wooded land"	1990	2.2
+"KNA"	195	"Saint Kitts and Nevis"	0	"Forest"	2005	11
+"KNA"	195	"Saint Kitts and Nevis"	1	"Inland water"	2010	0
+"LCA"	196	"Saint Lucia"	0	"Forest"	2000	46.7
+"LCA"	196	"Saint Lucia"	1	"Inland water"	2000	1
+"LCA"	196	"Saint Lucia"	1	"Inland water"	1990	1
+"LCA"	196	"Saint Lucia"	3	"Other wooded land"	2010	0
+"LCA"	196	"Saint Lucia"	1	"Inland water"	2005	1
+"LCA"	196	"Saint Lucia"	0	"Forest"	1990	43.8
+"LCA"	196	"Saint Lucia"	2	"Other land"	2000	14.3
+"LCA"	196	"Saint Lucia"	0	"Forest"	2010	47
+"LCA"	196	"Saint Lucia"	3	"Other wooded land"	2000	0
+"LCA"	196	"Saint Lucia"	0	"Forest"	2005	47
+"LCA"	196	"Saint Lucia"	3	"Other wooded land"	2005	0
+"LCA"	196	"Saint Lucia"	2	"Other land"	2010	14
+"LCA"	196	"Saint Lucia"	2	"Other land"	2005	14
+"LCA"	196	"Saint Lucia"	2	"Other land"	1990	17.2
+"LCA"	196	"Saint Lucia"	3	"Other wooded land"	1990	0
+"LCA"	196	"Saint Lucia"	1	"Inland water"	2010	1
+"MAF"	643000375	"Saint Martin (French part)"	1	"Inland water"	1990	0.1
+"MAF"	643000375	"Saint Martin (French part)"	1	"Inland water"	2000	0.1
+"MAF"	643000375	"Saint Martin (French part)"	1	"Inland water"	2005	0.1
+"MAF"	643000375	"Saint Martin (French part)"	2	"Other land"	2000	3.3
+"MAF"	643000375	"Saint Martin (French part)"	2	"Other land"	1990	3.3
+"MAF"	643000375	"Saint Martin (French part)"	0	"Forest"	2010	1
+"MAF"	643000375	"Saint Martin (French part)"	3	"Other wooded land"	2005	1
+"MAF"	643000375	"Saint Martin (French part)"	3	"Other wooded land"	2010	1
+"MAF"	643000375	"Saint Martin (French part)"	2	"Other land"	2005	3.3
+"MAF"	643000375	"Saint Martin (French part)"	3	"Other wooded land"	2000	1
+"MAF"	643000375	"Saint Martin (French part)"	1	"Inland water"	2010	0.1
+"MAF"	643000375	"Saint Martin (French part)"	0	"Forest"	2005	1
+"MAF"	643000375	"Saint Martin (French part)"	3	"Other wooded land"	1990	1
+"MAF"	643000375	"Saint Martin (French part)"	0	"Forest"	1990	1
+"MAF"	643000375	"Saint Martin (French part)"	2	"Other land"	2010	3.3
+"MAF"	643000375	"Saint Martin (French part)"	0	"Forest"	2000	1
+"SPM"	197	"Saint Pierre and Miquelon"	3	"Other wooded land"	2010	0
+"SPM"	197	"Saint Pierre and Miquelon"	3	"Other wooded land"	2005	0
+"SPM"	197	"Saint Pierre and Miquelon"	3	"Other wooded land"	1990	0
+"SPM"	197	"Saint Pierre and Miquelon"	3	"Other wooded land"	2000	0
+"SPM"	197	"Saint Pierre and Miquelon"	2	"Other land"	1990	19.6
+"SPM"	197	"Saint Pierre and Miquelon"	0	"Forest"	2005	3
+"SPM"	197	"Saint Pierre and Miquelon"	1	"Inland water"	1990	1
+"SPM"	197	"Saint Pierre and Miquelon"	1	"Inland water"	2010	1
+"SPM"	197	"Saint Pierre and Miquelon"	0	"Forest"	2000	3.2
+"SPM"	197	"Saint Pierre and Miquelon"	0	"Forest"	2010	2.9
+"SPM"	197	"Saint Pierre and Miquelon"	1	"Inland water"	2000	1
+"SPM"	197	"Saint Pierre and Miquelon"	2	"Other land"	2000	19.8
+"SPM"	197	"Saint Pierre and Miquelon"	2	"Other land"	2010	20.1
+"SPM"	197	"Saint Pierre and Miquelon"	2	"Other land"	2005	20
+"SPM"	197	"Saint Pierre and Miquelon"	0	"Forest"	1990	3.4
+"SPM"	197	"Saint Pierre and Miquelon"	1	"Inland water"	2005	1
+"VCT"	198	"Saint Vincent and the Grenadines"	3	"Other wooded land"	2000	0
+"VCT"	198	"Saint Vincent and the Grenadines"	0	"Forest"	1990	25.3
+"VCT"	198	"Saint Vincent and the Grenadines"	2	"Other land"	1990	13.7
+"VCT"	198	"Saint Vincent and the Grenadines"	0	"Forest"	2010	26.7
+"VCT"	198	"Saint Vincent and the Grenadines"	3	"Other wooded land"	2010	0
+"VCT"	198	"Saint Vincent and the Grenadines"	1	"Inland water"	1990	0
+"VCT"	198	"Saint Vincent and the Grenadines"	3	"Other wooded land"	1990	0
+"VCT"	198	"Saint Vincent and the Grenadines"	1	"Inland water"	2010	0
+"VCT"	198	"Saint Vincent and the Grenadines"	1	"Inland water"	2005	0
+"VCT"	198	"Saint Vincent and the Grenadines"	2	"Other land"	2000	13
+"VCT"	198	"Saint Vincent and the Grenadines"	0	"Forest"	2000	26
+"VCT"	198	"Saint Vincent and the Grenadines"	3	"Other wooded land"	2005	0
+"VCT"	198	"Saint Vincent and the Grenadines"	2	"Other land"	2010	12.3
+"VCT"	198	"Saint Vincent and the Grenadines"	1	"Inland water"	2000	0
+"VCT"	198	"Saint Vincent and the Grenadines"	2	"Other land"	2005	12.7
+"VCT"	198	"Saint Vincent and the Grenadines"	0	"Forest"	2005	26.3
+"WSM"	119	"Samoa"	0	"Forest"	2005	171
+"WSM"	119	"Samoa"	3	"Other wooded land"	2010	22
+"WSM"	119	"Samoa"	1	"Inland water"	1990	1
+"WSM"	119	"Samoa"	3	"Other wooded land"	1990	0
+"WSM"	119	"Samoa"	1	"Inland water"	2005	1
+"WSM"	119	"Samoa"	2	"Other land"	2000	90
+"WSM"	119	"Samoa"	0	"Forest"	2000	171
+"WSM"	119	"Samoa"	0	"Forest"	2010	171
+"WSM"	119	"Samoa"	3	"Other wooded land"	2005	22
+"WSM"	119	"Samoa"	1	"Inland water"	2010	1
+"WSM"	119	"Samoa"	0	"Forest"	1990	130
+"WSM"	119	"Samoa"	1	"Inland water"	2000	1
+"WSM"	119	"Samoa"	2	"Other land"	2010	90
+"WSM"	119	"Samoa"	2	"Other land"	1990	153
+"WSM"	119	"Samoa"	3	"Other wooded land"	2000	22
+"WSM"	119	"Samoa"	2	"Other land"	2005	90
+"SMR"	7655310	"San Marino"	1	"Inland water"	1990	0
+"SMR"	7655310	"San Marino"	0	"Forest"	1990	0
+"SMR"	7655310	"San Marino"	2	"Other land"	2000	6
+"SMR"	7655310	"San Marino"	1	"Inland water"	2005	0
+"SMR"	7655310	"San Marino"	2	"Other land"	1990	6
+"SMR"	7655310	"San Marino"	3	"Other wooded land"	1990	0
+"SMR"	7655310	"San Marino"	3	"Other wooded land"	2010	0
+"SMR"	7655310	"San Marino"	3	"Other wooded land"	2005	0
+"SMR"	7655310	"San Marino"	0	"Forest"	2000	0
+"SMR"	7655310	"San Marino"	1	"Inland water"	2000	0
+"SMR"	7655310	"San Marino"	2	"Other land"	2010	6
+"SMR"	7655310	"San Marino"	1	"Inland water"	2010	0
+"SMR"	7655310	"San Marino"	0	"Forest"	2005	0
+"SMR"	7655310	"San Marino"	3	"Other wooded land"	2000	0
+"SMR"	7655310	"San Marino"	2	"Other land"	2005	6
+"SMR"	7655310	"San Marino"	0	"Forest"	2010	0
+"STP"	11	"Sao Tome and Principe"	0	"Forest"	1990	27
+"STP"	11	"Sao Tome and Principe"	2	"Other land"	1990	40
+"STP"	11	"Sao Tome and Principe"	1	"Inland water"	1990	0
+"STP"	11	"Sao Tome and Principe"	0	"Forest"	2000	27
+"STP"	11	"Sao Tome and Principe"	3	"Other wooded land"	2005	29
+"STP"	11	"Sao Tome and Principe"	1	"Inland water"	2005	0
+"STP"	11	"Sao Tome and Principe"	2	"Other land"	2010	40
+"STP"	11	"Sao Tome and Principe"	1	"Inland water"	2000	0
+"STP"	11	"Sao Tome and Principe"	1	"Inland water"	2010	0
+"STP"	11	"Sao Tome and Principe"	0	"Forest"	2010	27
+"STP"	11	"Sao Tome and Principe"	3	"Other wooded land"	1990	29
+"STP"	11	"Sao Tome and Principe"	3	"Other wooded land"	2010	29
+"STP"	11	"Sao Tome and Principe"	2	"Other land"	2000	40
+"STP"	11	"Sao Tome and Principe"	0	"Forest"	2005	27
+"STP"	11	"Sao Tome and Principe"	3	"Other wooded land"	2000	29
+"STP"	11	"Sao Tome and Principe"	2	"Other land"	2005	40
+"SAU"	97	"Saudi Arabia"	3	"Other wooded land"	2005	1117
+"SAU"	97	"Saudi Arabia"	2	"Other land"	1990	212875
+"SAU"	97	"Saudi Arabia"	0	"Forest"	1990	977
+"SAU"	97	"Saudi Arabia"	1	"Inland water"	2005	0
+"SAU"	97	"Saudi Arabia"	1	"Inland water"	2000	0
+"SAU"	97	"Saudi Arabia"	3	"Other wooded land"	2000	1117
+"SAU"	97	"Saudi Arabia"	3	"Other wooded land"	2010	1117
+"SAU"	97	"Saudi Arabia"	0	"Forest"	2010	977
+"SAU"	97	"Saudi Arabia"	2	"Other land"	2010	197906
+"SAU"	97	"Saudi Arabia"	0	"Forest"	2005	977
+"SAU"	97	"Saudi Arabia"	2	"Other land"	2000	212875
+"SAU"	97	"Saudi Arabia"	1	"Inland water"	2010	0
+"SAU"	97	"Saudi Arabia"	3	"Other wooded land"	1990	1117
+"SAU"	97	"Saudi Arabia"	1	"Inland water"	1990	0
+"SAU"	97	"Saudi Arabia"	0	"Forest"	2000	977
+"SAU"	97	"Saudi Arabia"	2	"Other land"	2005	197906
+"SEN"	71	"Senegal"	3	"Other wooded land"	2010	4911
+"SEN"	71	"Senegal"	3	"Other wooded land"	2005	5001
+"SEN"	71	"Senegal"	0	"Forest"	1990	9348
+"SEN"	71	"Senegal"	1	"Inland water"	2005	419
+"SEN"	71	"Senegal"	1	"Inland water"	2010	419
+"SEN"	71	"Senegal"	2	"Other land"	1990	4604
+"SEN"	71	"Senegal"	3	"Other wooded land"	2000	5101
+"SEN"	71	"Senegal"	2	"Other land"	2000	5254
+"SEN"	71	"Senegal"	2	"Other land"	2010	5869
+"SEN"	71	"Senegal"	1	"Inland water"	2000	419
+"SEN"	71	"Senegal"	0	"Forest"	2005	8673
+"SEN"	71	"Senegal"	2	"Other land"	2005	5579
+"SEN"	71	"Senegal"	0	"Forest"	2000	8898
+"SEN"	71	"Senegal"	0	"Forest"	2010	8473
+"SEN"	71	"Senegal"	3	"Other wooded land"	1990	5301
+"SEN"	71	"Senegal"	1	"Inland water"	1990	419
+"SRB"	155	"Serbia"	1	"Inland water"	2005	90
+"SRB"	155	"Serbia"	2	"Other land"	2010	5623
+"SRB"	155	"Serbia"	1	"Inland water"	2000	90
+"SRB"	155	"Serbia"	3	"Other wooded land"	2000	521
+"SRB"	155	"Serbia"	2	"Other land"	2000	5765
+"SRB"	155	"Serbia"	0	"Forest"	2000	2460
+"SRB"	155	"Serbia"	0	"Forest"	2005	2476
+"SRB"	155	"Serbia"	0	"Forest"	1990	2313
+"SRB"	155	"Serbia"	3	"Other wooded land"	1990	287
+"SRB"	155	"Serbia"	3	"Other wooded land"	2005	521
+"SRB"	155	"Serbia"	2	"Other land"	2005	5749
+"SRB"	155	"Serbia"	1	"Inland water"	2010	90
+"SRB"	155	"Serbia"	2	"Other land"	1990	6146
+"SRB"	155	"Serbia"	1	"Inland water"	1990	90
+"SRB"	155	"Serbia"	0	"Forest"	2010	2713
+"SRB"	155	"Serbia"	3	"Other wooded land"	2010	410
+"SYC"	26	"Seychelles"	2	"Other land"	2010	5.3
+"SYC"	26	"Seychelles"	3	"Other wooded land"	2000	0
+"SYC"	26	"Seychelles"	2	"Other land"	2000	5.3
+"SYC"	26	"Seychelles"	0	"Forest"	2005	40.7
+"SYC"	26	"Seychelles"	1	"Inland water"	2000	0
+"SYC"	26	"Seychelles"	1	"Inland water"	2005	0
+"SYC"	26	"Seychelles"	3	"Other wooded land"	1990	0
+"SYC"	26	"Seychelles"	0	"Forest"	2000	40.7
+"SYC"	26	"Seychelles"	2	"Other land"	2005	5.3
+"SYC"	26	"Seychelles"	0	"Forest"	1990	40.7
+"SYC"	26	"Seychelles"	1	"Inland water"	1990	0
+"SYC"	26	"Seychelles"	3	"Other wooded land"	2005	0
+"SYC"	26	"Seychelles"	1	"Inland water"	2010	0
+"SYC"	26	"Seychelles"	2	"Other land"	1990	5.3
+"SYC"	26	"Seychelles"	3	"Other wooded land"	2010	0
+"SYC"	26	"Seychelles"	0	"Forest"	2010	40.7
+"SLE"	2	"Sierra Leone"	3	"Other wooded land"	2000	440
+"SLE"	2	"Sierra Leone"	1	"Inland water"	2005	12
+"SLE"	2	"Sierra Leone"	2	"Other land"	2010	4247
+"SLE"	2	"Sierra Leone"	0	"Forest"	1990	3118
+"SLE"	2	"Sierra Leone"	1	"Inland water"	1990	12
+"SLE"	2	"Sierra Leone"	0	"Forest"	2000	2922
+"SLE"	2	"Sierra Leone"	2	"Other land"	2000	3800
+"SLE"	2	"Sierra Leone"	2	"Other land"	1990	3353
+"SLE"	2	"Sierra Leone"	1	"Inland water"	2000	12
+"SLE"	2	"Sierra Leone"	3	"Other wooded land"	2005	314
+"SLE"	2	"Sierra Leone"	0	"Forest"	2005	2824
+"SLE"	2	"Sierra Leone"	2	"Other land"	2005	4024
+"SLE"	2	"Sierra Leone"	3	"Other wooded land"	2010	189
+"SLE"	2	"Sierra Leone"	1	"Inland water"	2010	12
+"SLE"	2	"Sierra Leone"	0	"Forest"	2010	2726
+"SLE"	2	"Sierra Leone"	3	"Other wooded land"	1990	691
+"SGP"	85	"Singapore"	3	"Other wooded land"	2000	0
+"SGP"	85	"Singapore"	2	"Other land"	1990	66.6
+"SGP"	85	"Singapore"	3	"Other wooded land"	2005	0
+"SGP"	85	"Singapore"	0	"Forest"	2005	2.3
+"SGP"	85	"Singapore"	1	"Inland water"	2005	1
+"SGP"	85	"Singapore"	0	"Forest"	1990	2.3
+"SGP"	85	"Singapore"	1	"Inland water"	2000	1
+"SGP"	85	"Singapore"	1	"Inland water"	1990	1
+"SGP"	85	"Singapore"	2	"Other land"	2000	66.6
+"SGP"	85	"Singapore"	3	"Other wooded land"	2010	0
+"SGP"	85	"Singapore"	2	"Other land"	2010	66.6
+"SGP"	85	"Singapore"	0	"Forest"	2010	2.3
+"SGP"	85	"Singapore"	2	"Other land"	2005	66.6
+"SGP"	85	"Singapore"	0	"Forest"	2000	2.3
+"SGP"	85	"Singapore"	1	"Inland water"	2010	1
+"SGP"	85	"Singapore"	3	"Other wooded land"	1990	0
+"SVK"	153	"Slovakia"	2	"Other land"	1990	2888
+"SVK"	153	"Slovakia"	2	"Other land"	2000	2889
+"SVK"	153	"Slovakia"	3	"Other wooded land"	2010	0
+"SVK"	153	"Slovakia"	2	"Other land"	2010	2877
+"SVK"	153	"Slovakia"	0	"Forest"	2010	1933
+"SVK"	153	"Slovakia"	3	"Other wooded land"	2005	0
+"SVK"	153	"Slovakia"	1	"Inland water"	1990	93
+"SVK"	153	"Slovakia"	1	"Inland water"	2010	93
+"SVK"	153	"Slovakia"	0	"Forest"	2005	1932
+"SVK"	153	"Slovakia"	1	"Inland water"	2000	93
+"SVK"	153	"Slovakia"	2	"Other land"	2005	2878
+"SVK"	153	"Slovakia"	3	"Other wooded land"	2000	0
+"SVK"	153	"Slovakia"	3	"Other wooded land"	1990	0
+"SVK"	153	"Slovakia"	1	"Inland water"	2005	93
+"SVK"	153	"Slovakia"	0	"Forest"	1990	1922
+"SVK"	153	"Slovakia"	0	"Forest"	2000	1921
+"SVN"	154	"Slovenia"	1	"Inland water"	2010	13
+"SVN"	154	"Slovenia"	2	"Other land"	1990	785
+"SVN"	154	"Slovenia"	3	"Other wooded land"	2010	21
+"SVN"	154	"Slovenia"	1	"Inland water"	2005	13
+"SVN"	154	"Slovenia"	3	"Other wooded land"	2000	38
+"SVN"	154	"Slovenia"	0	"Forest"	2005	1243
+"SVN"	154	"Slovenia"	0	"Forest"	2010	1253
+"SVN"	154	"Slovenia"	1	"Inland water"	2000	13
+"SVN"	154	"Slovenia"	2	"Other land"	2005	742
+"SVN"	154	"Slovenia"	3	"Other wooded land"	1990	41
+"SVN"	154	"Slovenia"	0	"Forest"	1990	1188
+"SVN"	154	"Slovenia"	2	"Other land"	2010	740
+"SVN"	154	"Slovenia"	1	"Inland water"	1990	13
+"SVN"	154	"Slovenia"	0	"Forest"	2000	1233
+"SVN"	154	"Slovenia"	2	"Other land"	2000	743
+"SVN"	154	"Slovenia"	3	"Other wooded land"	2005	29
+"SLB"	120	"Solomon Islands"	1	"Inland water"	1990	91
+"SLB"	120	"Solomon Islands"	1	"Inland water"	2010	91
+"SLB"	120	"Solomon Islands"	2	"Other land"	1990	377
+"SLB"	120	"Solomon Islands"	3	"Other wooded land"	2010	129
+"SLB"	120	"Solomon Islands"	0	"Forest"	2010	2213
+"SLB"	120	"Solomon Islands"	3	"Other wooded land"	2000	102
+"SLB"	120	"Solomon Islands"	1	"Inland water"	2000	91
+"SLB"	120	"Solomon Islands"	2	"Other land"	2010	457
+"SLB"	120	"Solomon Islands"	2	"Other land"	2005	429
+"SLB"	120	"Solomon Islands"	1	"Inland water"	2005	91
+"SLB"	120	"Solomon Islands"	3	"Other wooded land"	2005	129
+"SLB"	120	"Solomon Islands"	0	"Forest"	2000	2268
+"SLB"	120	"Solomon Islands"	3	"Other wooded land"	1990	98
+"SLB"	120	"Solomon Islands"	0	"Forest"	1990	2324
+"SLB"	120	"Solomon Islands"	2	"Other land"	2000	429
+"SLB"	120	"Solomon Islands"	0	"Forest"	2005	2241
+"SOM"	46	"Somalia"	1	"Inland water"	2010	1032
+"SOM"	46	"Somalia"	0	"Forest"	2010	6747
+"SOM"	46	"Somalia"	2	"Other land"	1990	54452
+"SOM"	46	"Somalia"	1	"Inland water"	1990	1032
+"SOM"	46	"Somalia"	3	"Other wooded land"	2000	0
+"SOM"	46	"Somalia"	1	"Inland water"	2000	1032
+"SOM"	46	"Somalia"	2	"Other land"	2010	55987
+"SOM"	46	"Somalia"	0	"Forest"	2005	7131
+"SOM"	46	"Somalia"	3	"Other wooded land"	2005	0
+"SOM"	46	"Somalia"	0	"Forest"	2000	7515
+"SOM"	46	"Somalia"	3	"Other wooded land"	2010	0
+"SOM"	46	"Somalia"	1	"Inland water"	2005	1032
+"SOM"	46	"Somalia"	3	"Other wooded land"	1990	0
+"SOM"	46	"Somalia"	2	"Other land"	2000	55219
+"SOM"	46	"Somalia"	2	"Other land"	2005	55603
+"SOM"	46	"Somalia"	0	"Forest"	1990	8282
+"ZAF"	28	"South Africa"	0	"Forest"	2010	9241
+"ZAF"	28	"South Africa"	0	"Forest"	2000	9241
+"ZAF"	28	"South Africa"	3	"Other wooded land"	2005	24558
+"ZAF"	28	"South Africa"	3	"Other wooded land"	2010	24558
+"ZAF"	28	"South Africa"	3	"Other wooded land"	2000	24558
+"ZAF"	28	"South Africa"	1	"Inland water"	2000	462
+"ZAF"	28	"South Africa"	0	"Forest"	1990	9241
+"ZAF"	28	"South Africa"	2	"Other land"	2010	87648
+"ZAF"	28	"South Africa"	0	"Forest"	2005	9241
+"ZAF"	28	"South Africa"	2	"Other land"	1990	87648
+"ZAF"	28	"South Africa"	3	"Other wooded land"	1990	24558
+"ZAF"	28	"South Africa"	1	"Inland water"	2010	462
+"ZAF"	28	"South Africa"	2	"Other land"	2000	87648
+"ZAF"	28	"South Africa"	1	"Inland water"	1990	462
+"ZAF"	28	"South Africa"	2	"Other land"	2005	87648
+"ZAF"	28	"South Africa"	1	"Inland water"	2005	462
+"ESP"	50	"Spain"	0	"Forest"	2000	16987.84
+"ESP"	50	"Spain"	2	"Other land"	2010	22171.32
+"ESP"	50	"Spain"	2	"Other land"	2005	22360.55
+"ESP"	50	"Spain"	3	"Other wooded land"	1990	12004.43
+"ESP"	50	"Spain"	1	"Inland water"	2010	618
+"ESP"	50	"Spain"	1	"Inland water"	1990	618
+"ESP"	50	"Spain"	1	"Inland water"	2005	618
+"ESP"	50	"Spain"	0	"Forest"	2005	17293.19
+"ESP"	50	"Spain"	3	"Other wooded land"	2010	9574.4
+"ESP"	50	"Spain"	0	"Forest"	1990	13818.36
+"ESP"	50	"Spain"	0	"Forest"	2010	18173.28
+"ESP"	50	"Spain"	3	"Other wooded land"	2005	10265.26
+"ESP"	50	"Spain"	2	"Other land"	1990	24096.2
+"ESP"	50	"Spain"	1	"Inland water"	2000	618
+"ESP"	50	"Spain"	2	"Other land"	2000	22564.48
+"ESP"	50	"Spain"	3	"Other wooded land"	2000	10366.68
+"LKA"	37	"Sri Lanka"	0	"Forest"	1990	2350
+"LKA"	37	"Sri Lanka"	2	"Other land"	2010	4603
+"LKA"	37	"Sri Lanka"	1	"Inland water"	2005	98
+"LKA"	37	"Sri Lanka"	3	"Other wooded land"	1990	0
+"LKA"	37	"Sri Lanka"	3	"Other wooded land"	2010	0
+"LKA"	37	"Sri Lanka"	0	"Forest"	2005	1933
+"LKA"	37	"Sri Lanka"	1	"Inland water"	1990	98
+"LKA"	37	"Sri Lanka"	2	"Other land"	2005	4530
+"LKA"	37	"Sri Lanka"	0	"Forest"	2010	1860
+"LKA"	37	"Sri Lanka"	3	"Other wooded land"	2005	0
+"LKA"	37	"Sri Lanka"	2	"Other land"	1990	4113
+"LKA"	37	"Sri Lanka"	1	"Inland water"	2010	98
+"LKA"	37	"Sri Lanka"	1	"Inland water"	2000	98
+"LKA"	37	"Sri Lanka"	0	"Forest"	2000	2082
+"LKA"	37	"Sri Lanka"	2	"Other land"	2000	4381
+"LKA"	37	"Sri Lanka"	3	"Other wooded land"	2000	0
+"SDN"	74	"Sudan"	3	"Other wooded land"	2005	52188
+"SDN"	74	"Sudan"	1	"Inland water"	2005	12981
+"SDN"	74	"Sudan"	1	"Inland water"	2010	12981
+"SDN"	74	"Sudan"	2	"Other land"	2010	117427
+"SDN"	74	"Sudan"	0	"Forest"	2005	70220
+"SDN"	74	"Sudan"	0	"Forest"	2000	70491
+"SDN"	74	"Sudan"	0	"Forest"	2010	69949
+"SDN"	74	"Sudan"	2	"Other land"	2005	115192
+"SDN"	74	"Sudan"	2	"Other land"	2000	112956
+"SDN"	74	"Sudan"	3	"Other wooded land"	1990	58082
+"SDN"	74	"Sudan"	1	"Inland water"	1990	12981
+"SDN"	74	"Sudan"	2	"Other land"	1990	103137
+"SDN"	74	"Sudan"	0	"Forest"	1990	76381
+"SDN"	74	"Sudan"	3	"Other wooded land"	2000	54153
+"SDN"	74	"Sudan"	3	"Other wooded land"	2010	50224
+"SDN"	74	"Sudan"	1	"Inland water"	2000	12981
+"SUR"	213	"Suriname"	1	"Inland water"	2010	727
+"SUR"	213	"Suriname"	3	"Other wooded land"	2005	0
+"SUR"	213	"Suriname"	2	"Other land"	2000	824
+"SUR"	213	"Suriname"	2	"Other land"	2010	842
+"SUR"	213	"Suriname"	0	"Forest"	2010	14758
+"SUR"	213	"Suriname"	0	"Forest"	1990	14776
+"SUR"	213	"Suriname"	3	"Other wooded land"	1990	0
+"SUR"	213	"Suriname"	0	"Forest"	2000	14776
+"SUR"	213	"Suriname"	2	"Other land"	2005	824
+"SUR"	213	"Suriname"	3	"Other wooded land"	2010	0
+"SUR"	213	"Suriname"	3	"Other wooded land"	2000	0
+"SUR"	213	"Suriname"	2	"Other land"	1990	824
+"SUR"	213	"Suriname"	1	"Inland water"	2000	727
+"SUR"	213	"Suriname"	0	"Forest"	2005	14776
+"SUR"	213	"Suriname"	1	"Inland water"	2005	727
+"SUR"	213	"Suriname"	1	"Inland water"	1990	727
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	2	"Other land"	2000	6100
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	2	"Other land"	2010	6100
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	1	"Inland water"	2005	40
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	3	"Other wooded land"	1990	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	0	"Forest"	2000	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	3	"Other wooded land"	2010	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	0	"Forest"	1990	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	3	"Other wooded land"	2000	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	2	"Other land"	1990	6100
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	0	"Forest"	2005	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	1	"Inland water"	2000	40
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	3	"Other wooded land"	2005	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	0	"Forest"	2010	0
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	1	"Inland water"	2010	40
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	1	"Inland water"	1990	40
+"SJM"	643000374	"Svalbard and Jan Mayen Islands"	2	"Other land"	2005	6100
+"SWZ"	29	"Swaziland"	2	"Other land"	2005	821
+"SWZ"	29	"Swaziland"	1	"Inland water"	2000	16
+"SWZ"	29	"Swaziland"	3	"Other wooded land"	2000	289
+"SWZ"	29	"Swaziland"	2	"Other land"	2010	730
+"SWZ"	29	"Swaziland"	2	"Other land"	2000	913
+"SWZ"	29	"Swaziland"	3	"Other wooded land"	2005	358
+"SWZ"	29	"Swaziland"	1	"Inland water"	2005	16
+"SWZ"	29	"Swaziland"	3	"Other wooded land"	1990	152
+"SWZ"	29	"Swaziland"	1	"Inland water"	2010	16
+"SWZ"	29	"Swaziland"	0	"Forest"	2010	563
+"SWZ"	29	"Swaziland"	0	"Forest"	2005	541
+"SWZ"	29	"Swaziland"	1	"Inland water"	1990	16
+"SWZ"	29	"Swaziland"	3	"Other wooded land"	2010	427
+"SWZ"	29	"Swaziland"	0	"Forest"	2000	518
+"SWZ"	29	"Swaziland"	0	"Forest"	1990	472
+"SWZ"	29	"Swaziland"	2	"Other land"	1990	1096
+"SWE"	128	"Sweden"	2	"Other land"	2005	9786
+"SWE"	128	"Sweden"	0	"Forest"	2005	28203
+"SWE"	128	"Sweden"	3	"Other wooded land"	2005	3044
+"SWE"	128	"Sweden"	0	"Forest"	2010	28203
+"SWE"	128	"Sweden"	2	"Other land"	2000	10408
+"SWE"	128	"Sweden"	1	"Inland water"	1990	3996
+"SWE"	128	"Sweden"	3	"Other wooded land"	2010	3044
+"SWE"	128	"Sweden"	0	"Forest"	2000	27389
+"SWE"	128	"Sweden"	2	"Other land"	2010	9786
+"SWE"	128	"Sweden"	1	"Inland water"	2005	3996
+"SWE"	128	"Sweden"	0	"Forest"	1990	27281
+"SWE"	128	"Sweden"	1	"Inland water"	2000	3996
+"SWE"	128	"Sweden"	3	"Other wooded land"	1990	3214
+"SWE"	128	"Sweden"	1	"Inland water"	2010	3996
+"SWE"	128	"Sweden"	3	"Other wooded land"	2000	3236
+"SWE"	128	"Sweden"	2	"Other land"	1990	10538
+"CHE"	142	"Switzerland"	0	"Forest"	2000	1194
+"CHE"	142	"Switzerland"	2	"Other land"	2005	2716
+"CHE"	142	"Switzerland"	2	"Other land"	2010	2689
+"CHE"	142	"Switzerland"	1	"Inland water"	1990	128
+"CHE"	142	"Switzerland"	2	"Other land"	2000	2743
+"CHE"	142	"Switzerland"	3	"Other wooded land"	2010	71
+"CHE"	142	"Switzerland"	1	"Inland water"	2010	128
+"CHE"	142	"Switzerland"	3	"Other wooded land"	2005	67
+"CHE"	142	"Switzerland"	0	"Forest"	1990	1151
+"CHE"	142	"Switzerland"	3	"Other wooded land"	1990	58
+"CHE"	142	"Switzerland"	1	"Inland water"	2000	128
+"CHE"	142	"Switzerland"	1	"Inland water"	2005	128
+"CHE"	142	"Switzerland"	2	"Other land"	1990	2791
+"CHE"	142	"Switzerland"	0	"Forest"	2010	1240
+"CHE"	142	"Switzerland"	3	"Other wooded land"	2000	63
+"CHE"	142	"Switzerland"	0	"Forest"	2005	1217
+"SYR"	98	"Syrian Arab Republic"	2	"Other land"	1990	17971
+"SYR"	98	"Syrian Arab Republic"	1	"Inland water"	1990	140
+"SYR"	98	"Syrian Arab Republic"	3	"Other wooded land"	2000	35
+"SYR"	98	"Syrian Arab Republic"	0	"Forest"	1990	372
+"SYR"	98	"Syrian Arab Republic"	3	"Other wooded land"	2010	35
+"SYR"	98	"Syrian Arab Republic"	2	"Other land"	2005	17882
+"SYR"	98	"Syrian Arab Republic"	3	"Other wooded land"	1990	35
+"SYR"	98	"Syrian Arab Republic"	0	"Forest"	2000	432
+"SYR"	98	"Syrian Arab Republic"	1	"Inland water"	2005	140
+"SYR"	98	"Syrian Arab Republic"	0	"Forest"	2005	461
+"SYR"	98	"Syrian Arab Republic"	1	"Inland water"	2010	140
+"SYR"	98	"Syrian Arab Republic"	2	"Other land"	2000	17911
+"SYR"	98	"Syrian Arab Republic"	3	"Other wooded land"	2005	35
+"SYR"	98	"Syrian Arab Republic"	0	"Forest"	2010	491
+"SYR"	98	"Syrian Arab Republic"	2	"Other land"	2010	17852
+"SYR"	98	"Syrian Arab Republic"	1	"Inland water"	2000	140
+"TJK"	167	"Tajikistan"	0	"Forest"	2005	410
+"TJK"	167	"Tajikistan"	0	"Forest"	2000	410
+"TJK"	167	"Tajikistan"	3	"Other wooded land"	2000	142
+"TJK"	167	"Tajikistan"	1	"Inland water"	2010	259
+"TJK"	167	"Tajikistan"	3	"Other wooded land"	1990	142
+"TJK"	167	"Tajikistan"	3	"Other wooded land"	2010	142
+"TJK"	167	"Tajikistan"	3	"Other wooded land"	2005	142
+"TJK"	167	"Tajikistan"	2	"Other land"	2005	13444
+"TJK"	167	"Tajikistan"	2	"Other land"	1990	13446
+"TJK"	167	"Tajikistan"	0	"Forest"	2010	410
+"TJK"	167	"Tajikistan"	1	"Inland water"	1990	259
+"TJK"	167	"Tajikistan"	1	"Inland water"	2005	259
+"TJK"	167	"Tajikistan"	0	"Forest"	1990	408
+"TJK"	167	"Tajikistan"	1	"Inland water"	2000	259
+"TJK"	167	"Tajikistan"	2	"Other land"	2010	13444
+"TJK"	167	"Tajikistan"	2	"Other land"	2000	13444
+"THA"	41	"Thailand"	1	"Inland water"	2010	223
+"THA"	41	"Thailand"	3	"Other wooded land"	2000	0
+"THA"	41	"Thailand"	3	"Other wooded land"	2010	0
+"THA"	41	"Thailand"	1	"Inland water"	1990	223
+"THA"	41	"Thailand"	0	"Forest"	2005	18898
+"THA"	41	"Thailand"	0	"Forest"	1990	19549
+"THA"	41	"Thailand"	0	"Forest"	2010	18972
+"THA"	41	"Thailand"	1	"Inland water"	2000	223
+"THA"	41	"Thailand"	0	"Forest"	2000	19004
+"THA"	41	"Thailand"	2	"Other land"	2005	32191
+"THA"	41	"Thailand"	3	"Other wooded land"	1990	0
+"THA"	41	"Thailand"	2	"Other land"	1990	31540
+"THA"	41	"Thailand"	2	"Other land"	2010	32117
+"THA"	41	"Thailand"	2	"Other land"	2000	32085
+"THA"	41	"Thailand"	3	"Other wooded land"	2005	0
+"THA"	41	"Thailand"	1	"Inland water"	2005	223
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	1	"Inland water"	1990	28
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	3	"Other wooded land"	2010	143
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	2	"Other land"	2010	1402
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	0	"Forest"	2000	958
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	2	"Other land"	2000	1442
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	1	"Inland water"	2000	28
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	1	"Inland water"	2010	28
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	3	"Other wooded land"	1990	143
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	1	"Inland water"	2005	28
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	2	"Other land"	1990	1488
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	0	"Forest"	1990	912
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	2	"Other land"	2005	1425
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	3	"Other wooded land"	2000	143
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	0	"Forest"	2010	998
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	0	"Forest"	2005	975
+"MKD"	151	"The former Yugoslav Republic of Macedonia"	3	"Other wooded land"	2005	143
+"TLS"	7655420	"Timor-Leste"	1	"Inland water"	1990	0
+"TLS"	7655420	"Timor-Leste"	2	"Other land"	1990	521
+"TLS"	7655420	"Timor-Leste"	3	"Other wooded land"	1990	0
+"TLS"	7655420	"Timor-Leste"	2	"Other land"	2000	633
+"TLS"	7655420	"Timor-Leste"	0	"Forest"	2000	854
+"TLS"	7655420	"Timor-Leste"	1	"Inland water"	2010	0
+"TLS"	7655420	"Timor-Leste"	1	"Inland water"	2005	0
+"TLS"	7655420	"Timor-Leste"	1	"Inland water"	2000	0
+"TLS"	7655420	"Timor-Leste"	2	"Other land"	2010	745
+"TLS"	7655420	"Timor-Leste"	3	"Other wooded land"	2010	0
+"TLS"	7655420	"Timor-Leste"	3	"Other wooded land"	2000	0
+"TLS"	7655420	"Timor-Leste"	0	"Forest"	1990	966
+"TLS"	7655420	"Timor-Leste"	2	"Other land"	2005	689
+"TLS"	7655420	"Timor-Leste"	0	"Forest"	2005	798
+"TLS"	7655420	"Timor-Leste"	0	"Forest"	2010	742
+"TLS"	7655420	"Timor-Leste"	3	"Other wooded land"	2005	0
+"TGO"	3	"Togo"	2	"Other land"	1990	3508
+"TGO"	3	"Togo"	2	"Other land"	2000	3707
+"TGO"	3	"Togo"	0	"Forest"	2005	386
+"TGO"	3	"Togo"	0	"Forest"	1990	685
+"TGO"	3	"Togo"	1	"Inland water"	2010	240
+"TGO"	3	"Togo"	3	"Other wooded land"	2000	1246
+"TGO"	3	"Togo"	1	"Inland water"	1990	240
+"TGO"	3	"Togo"	1	"Inland water"	2005	240
+"TGO"	3	"Togo"	0	"Forest"	2000	486
+"TGO"	3	"Togo"	3	"Other wooded land"	2005	1246
+"TGO"	3	"Togo"	2	"Other land"	2010	3906
+"TGO"	3	"Togo"	3	"Other wooded land"	2010	1246
+"TGO"	3	"Togo"	2	"Other land"	2005	3807
+"TGO"	3	"Togo"	1	"Inland water"	2000	240
+"TGO"	3	"Togo"	3	"Other wooded land"	1990	1246
+"TGO"	3	"Togo"	0	"Forest"	2010	287
+"TKL"	642354615	"Tokelau"	1	"Inland water"	2005	0
+"TKL"	642354615	"Tokelau"	1	"Inland water"	2010	0
+"TKL"	642354615	"Tokelau"	0	"Forest"	2005	0
+"TKL"	642354615	"Tokelau"	2	"Other land"	1990	1
+"TKL"	642354615	"Tokelau"	0	"Forest"	1990	0
+"TKL"	642354615	"Tokelau"	2	"Other land"	2005	1
+"TKL"	642354615	"Tokelau"	0	"Forest"	2010	0
+"TKL"	642354615	"Tokelau"	3	"Other wooded land"	2000	0
+"TKL"	642354615	"Tokelau"	3	"Other wooded land"	2010	0
+"TKL"	642354615	"Tokelau"	3	"Other wooded land"	1990	0
+"TKL"	642354615	"Tokelau"	0	"Forest"	2000	0
+"TKL"	642354615	"Tokelau"	2	"Other land"	2000	1
+"TKL"	642354615	"Tokelau"	1	"Inland water"	1990	0
+"TKL"	642354615	"Tokelau"	3	"Other wooded land"	2005	0
+"TKL"	642354615	"Tokelau"	2	"Other land"	2010	1
+"TKL"	642354615	"Tokelau"	1	"Inland water"	2000	0
+"TON"	121	"Tonga"	1	"Inland water"	2005	3
+"TON"	121	"Tonga"	0	"Forest"	2010	9
+"TON"	121	"Tonga"	0	"Forest"	2005	9
+"TON"	121	"Tonga"	3	"Other wooded land"	2005	0
+"TON"	121	"Tonga"	0	"Forest"	2000	9
+"TON"	121	"Tonga"	3	"Other wooded land"	2010	0
+"TON"	121	"Tonga"	1	"Inland water"	2010	3
+"TON"	121	"Tonga"	3	"Other wooded land"	1990	0
+"TON"	121	"Tonga"	2	"Other land"	2010	63
+"TON"	121	"Tonga"	3	"Other wooded land"	2000	0
+"TON"	121	"Tonga"	2	"Other land"	2005	63
+"TON"	121	"Tonga"	1	"Inland water"	1990	3
+"TON"	121	"Tonga"	2	"Other land"	1990	63
+"TON"	121	"Tonga"	1	"Inland water"	2000	3
+"TON"	121	"Tonga"	0	"Forest"	1990	9
+"TON"	121	"Tonga"	2	"Other land"	2000	63
+"TTO"	199	"Trinidad and Tobago"	3	"Other wooded land"	2010	83.7
+"TTO"	199	"Trinidad and Tobago"	1	"Inland water"	2010	0
+"TTO"	199	"Trinidad and Tobago"	3	"Other wooded land"	1990	69.3
+"TTO"	199	"Trinidad and Tobago"	3	"Other wooded land"	2005	80.1
+"TTO"	199	"Trinidad and Tobago"	1	"Inland water"	2005	0
+"TTO"	199	"Trinidad and Tobago"	1	"Inland water"	2000	0
+"TTO"	199	"Trinidad and Tobago"	2	"Other land"	1990	202.9
+"TTO"	199	"Trinidad and Tobago"	0	"Forest"	2010	226.4
+"TTO"	199	"Trinidad and Tobago"	2	"Other land"	2005	202.9
+"TTO"	199	"Trinidad and Tobago"	3	"Other wooded land"	2000	76.5
+"TTO"	199	"Trinidad and Tobago"	1	"Inland water"	1990	0
+"TTO"	199	"Trinidad and Tobago"	0	"Forest"	2005	230
+"TTO"	199	"Trinidad and Tobago"	2	"Other land"	2000	202.9
+"TTO"	199	"Trinidad and Tobago"	0	"Forest"	1990	240.7
+"TTO"	199	"Trinidad and Tobago"	2	"Other land"	2010	202.9
+"TTO"	199	"Trinidad and Tobago"	0	"Forest"	2000	233.6
+"TUN"	54	"Tunisia"	1	"Inland water"	2000	825
+"TUN"	54	"Tunisia"	3	"Other wooded land"	1990	328
+"TUN"	54	"Tunisia"	2	"Other land"	2005	14305
+"TUN"	54	"Tunisia"	0	"Forest"	1990	643
+"TUN"	54	"Tunisia"	0	"Forest"	2010	1006
+"TUN"	54	"Tunisia"	0	"Forest"	2005	924
+"TUN"	54	"Tunisia"	2	"Other land"	2000	14385
+"TUN"	54	"Tunisia"	1	"Inland water"	2010	825
+"TUN"	54	"Tunisia"	1	"Inland water"	1990	825
+"TUN"	54	"Tunisia"	2	"Other land"	2010	14230
+"TUN"	54	"Tunisia"	1	"Inland water"	2005	825
+"TUN"	54	"Tunisia"	3	"Other wooded land"	2000	314
+"TUN"	54	"Tunisia"	2	"Other land"	1990	14565
+"TUN"	54	"Tunisia"	0	"Forest"	2000	837
+"TUN"	54	"Tunisia"	3	"Other wooded land"	2010	300
+"TUN"	54	"Tunisia"	3	"Other wooded land"	2005	307
+"TUR"	99	"Turkey"	1	"Inland water"	2000	1393
+"TUR"	99	"Turkey"	1	"Inland water"	2010	1393
+"TUR"	99	"Turkey"	3	"Other wooded land"	1990	10905
+"TUR"	99	"Turkey"	2	"Other land"	2005	55689
+"TUR"	99	"Turkey"	0	"Forest"	1990	9680
+"TUR"	99	"Turkey"	2	"Other land"	1990	56378
+"TUR"	99	"Turkey"	0	"Forest"	2010	11334
+"TUR"	99	"Turkey"	1	"Inland water"	1990	1393
+"TUR"	99	"Turkey"	2	"Other land"	2000	56115
+"TUR"	99	"Turkey"	3	"Other wooded land"	2000	10702
+"TUR"	99	"Turkey"	0	"Forest"	2000	10146
+"TUR"	99	"Turkey"	2	"Other land"	2010	55261
+"TUR"	99	"Turkey"	0	"Forest"	2005	10740
+"TUR"	99	"Turkey"	3	"Other wooded land"	2005	10534
+"TUR"	99	"Turkey"	1	"Inland water"	2005	1393
+"TUR"	99	"Turkey"	3	"Other wooded land"	2010	10368
+"TKM"	168	"Turkmenistan"	0	"Forest"	2010	4127
+"TKM"	168	"Turkmenistan"	2	"Other land"	2005	42866
+"TKM"	168	"Turkmenistan"	3	"Other wooded land"	2000	0
+"TKM"	168	"Turkmenistan"	1	"Inland water"	2005	1817
+"TKM"	168	"Turkmenistan"	3	"Other wooded land"	2010	0
+"TKM"	168	"Turkmenistan"	2	"Other land"	1990	42866
+"TKM"	168	"Turkmenistan"	0	"Forest"	1990	4127
+"TKM"	168	"Turkmenistan"	0	"Forest"	2000	4127
+"TKM"	168	"Turkmenistan"	3	"Other wooded land"	2005	0
+"TKM"	168	"Turkmenistan"	2	"Other land"	2000	42866
+"TKM"	168	"Turkmenistan"	1	"Inland water"	1990	1817
+"TKM"	168	"Turkmenistan"	1	"Inland water"	2000	1817
+"TKM"	168	"Turkmenistan"	3	"Other wooded land"	1990	0
+"TKM"	168	"Turkmenistan"	2	"Other land"	2010	42866
+"TKM"	168	"Turkmenistan"	1	"Inland water"	2010	1817
+"TKM"	168	"Turkmenistan"	0	"Forest"	2005	4127
+"TCA"	7665808	"Turks and Caicos Islands"	0	"Forest"	1990	34.4
+"TCA"	7665808	"Turks and Caicos Islands"	3	"Other wooded land"	2000	0
+"TCA"	7665808	"Turks and Caicos Islands"	1	"Inland water"	1990	0
+"TCA"	7665808	"Turks and Caicos Islands"	3	"Other wooded land"	2010	0
+"TCA"	7665808	"Turks and Caicos Islands"	2	"Other land"	1990	8.6
+"TCA"	7665808	"Turks and Caicos Islands"	0	"Forest"	2000	34.4
+"TCA"	7665808	"Turks and Caicos Islands"	0	"Forest"	2005	34.4
+"TCA"	7665808	"Turks and Caicos Islands"	2	"Other land"	2005	8.6
+"TCA"	7665808	"Turks and Caicos Islands"	1	"Inland water"	2000	0
+"TCA"	7665808	"Turks and Caicos Islands"	3	"Other wooded land"	1990	0
+"TCA"	7665808	"Turks and Caicos Islands"	2	"Other land"	2010	8.6
+"TCA"	7665808	"Turks and Caicos Islands"	1	"Inland water"	2005	0
+"TCA"	7665808	"Turks and Caicos Islands"	1	"Inland water"	2010	0
+"TCA"	7665808	"Turks and Caicos Islands"	2	"Other land"	2000	8.6
+"TCA"	7665808	"Turks and Caicos Islands"	3	"Other wooded land"	2005	0
+"TCA"	7665808	"Turks and Caicos Islands"	0	"Forest"	2010	34.4
+"TUV"	4921972	"Tuvalu"	2	"Other land"	1990	2
+"TUV"	4921972	"Tuvalu"	2	"Other land"	2005	2
+"TUV"	4921972	"Tuvalu"	1	"Inland water"	1990	0
+"TUV"	4921972	"Tuvalu"	2	"Other land"	2000	2
+"TUV"	4921972	"Tuvalu"	0	"Forest"	2000	1
+"TUV"	4921972	"Tuvalu"	0	"Forest"	2005	1
+"TUV"	4921972	"Tuvalu"	0	"Forest"	1990	1
+"TUV"	4921972	"Tuvalu"	1	"Inland water"	2000	0
+"TUV"	4921972	"Tuvalu"	0	"Forest"	2010	1
+"TUV"	4921972	"Tuvalu"	3	"Other wooded land"	1990	0
+"TUV"	4921972	"Tuvalu"	1	"Inland water"	2005	0
+"TUV"	4921972	"Tuvalu"	3	"Other wooded land"	2010	0
+"TUV"	4921972	"Tuvalu"	3	"Other wooded land"	2000	0
+"TUV"	4921972	"Tuvalu"	2	"Other land"	2010	2
+"TUV"	4921972	"Tuvalu"	3	"Other wooded land"	2005	0
+"TUV"	4921972	"Tuvalu"	1	"Inland water"	2010	0
+"UGA"	56	"Uganda"	2	"Other land"	1990	13589
+"UGA"	56	"Uganda"	3	"Other wooded land"	2010	3383
+"UGA"	56	"Uganda"	1	"Inland water"	2000	4394
+"UGA"	56	"Uganda"	1	"Inland water"	1990	4394
+"UGA"	56	"Uganda"	2	"Other land"	2005	13401
+"UGA"	56	"Uganda"	0	"Forest"	2000	3869
+"UGA"	56	"Uganda"	0	"Forest"	2005	3429
+"UGA"	56	"Uganda"	0	"Forest"	1990	4751
+"UGA"	56	"Uganda"	1	"Inland water"	2005	4394
+"UGA"	56	"Uganda"	2	"Other land"	2010	13339
+"UGA"	56	"Uganda"	3	"Other wooded land"	1990	1370
+"UGA"	56	"Uganda"	2	"Other land"	2000	13464
+"UGA"	56	"Uganda"	3	"Other wooded land"	2000	2377
+"UGA"	56	"Uganda"	1	"Inland water"	2010	4394
+"UGA"	56	"Uganda"	3	"Other wooded land"	2005	2880
+"UGA"	56	"Uganda"	0	"Forest"	2010	2988
+"UKR"	169	"Ukraine"	1	"Inland water"	2000	2420
+"UKR"	169	"Ukraine"	0	"Forest"	1990	9274
+"UKR"	169	"Ukraine"	2	"Other land"	2005	48322
+"UKR"	169	"Ukraine"	1	"Inland water"	2005	2417
+"UKR"	169	"Ukraine"	2	"Other land"	1990	48633
+"UKR"	169	"Ukraine"	3	"Other wooded land"	1990	28
+"UKR"	169	"Ukraine"	3	"Other wooded land"	2005	41
+"UKR"	169	"Ukraine"	0	"Forest"	2005	9575
+"UKR"	169	"Ukraine"	2	"Other land"	2000	48384
+"UKR"	169	"Ukraine"	3	"Other wooded land"	2000	41
+"UKR"	169	"Ukraine"	0	"Forest"	2010	9705
+"UKR"	169	"Ukraine"	2	"Other land"	2010	48192
+"UKR"	169	"Ukraine"	3	"Other wooded land"	2010	41
+"UKR"	169	"Ukraine"	1	"Inland water"	2010	2417
+"UKR"	169	"Ukraine"	0	"Forest"	2000	9510
+"UKR"	169	"Ukraine"	1	"Inland water"	1990	2420
+"ARE"	100	"United Arab Emirates"	2	"Other land"	2000	8046
+"ARE"	100	"United Arab Emirates"	0	"Forest"	1990	245
+"ARE"	100	"United Arab Emirates"	3	"Other wooded land"	2000	4
+"ARE"	100	"United Arab Emirates"	3	"Other wooded land"	2010	4.3
+"ARE"	100	"United Arab Emirates"	3	"Other wooded land"	1990	3.8
+"ARE"	100	"United Arab Emirates"	1	"Inland water"	2000	0
+"ARE"	100	"United Arab Emirates"	1	"Inland water"	2010	0
+"ARE"	100	"United Arab Emirates"	0	"Forest"	2010	317.3
+"ARE"	100	"United Arab Emirates"	3	"Other wooded land"	2005	4.1
+"ARE"	100	"United Arab Emirates"	1	"Inland water"	2005	0
+"ARE"	100	"United Arab Emirates"	1	"Inland water"	1990	0
+"ARE"	100	"United Arab Emirates"	0	"Forest"	2000	310
+"ARE"	100	"United Arab Emirates"	2	"Other land"	2010	8038.4
+"ARE"	100	"United Arab Emirates"	2	"Other land"	2005	8043.9
+"ARE"	100	"United Arab Emirates"	2	"Other land"	1990	8111.2
+"ARE"	100	"United Arab Emirates"	0	"Forest"	2005	312
+"GBR"	143	"United Kingdom"	3	"Other wooded land"	2010	20
+"GBR"	143	"United Kingdom"	3	"Other wooded land"	2000	20
+"GBR"	143	"United Kingdom"	0	"Forest"	2010	2881
+"GBR"	143	"United Kingdom"	1	"Inland water"	1990	167
+"GBR"	143	"United Kingdom"	0	"Forest"	2000	2793
+"GBR"	143	"United Kingdom"	2	"Other land"	2000	21437
+"GBR"	143	"United Kingdom"	1	"Inland water"	2000	167
+"GBR"	143	"United Kingdom"	2	"Other land"	1990	21619
+"GBR"	143	"United Kingdom"	3	"Other wooded land"	1990	20
+"GBR"	143	"United Kingdom"	1	"Inland water"	2005	167
+"GBR"	143	"United Kingdom"	2	"Other land"	2005	21385
+"GBR"	143	"United Kingdom"	2	"Other land"	2010	21349
+"GBR"	143	"United Kingdom"	1	"Inland water"	2010	167
+"GBR"	143	"United Kingdom"	0	"Forest"	1990	2611
+"GBR"	143	"United Kingdom"	3	"Other wooded land"	2005	20
+"GBR"	143	"United Kingdom"	0	"Forest"	2005	2845
+"TZA"	19	"United Republic of Tanzania"	1	"Inland water"	1990	6150
+"TZA"	19	"United Republic of Tanzania"	2	"Other land"	1990	28902
+"TZA"	19	"United Republic of Tanzania"	2	"Other land"	2000	36217
+"TZA"	19	"United Republic of Tanzania"	3	"Other wooded land"	2005	13260
+"TZA"	19	"United Republic of Tanzania"	0	"Forest"	2000	37462
+"TZA"	19	"United Republic of Tanzania"	0	"Forest"	1990	41495
+"TZA"	19	"United Republic of Tanzania"	0	"Forest"	2005	35445
+"TZA"	19	"United Republic of Tanzania"	3	"Other wooded land"	1990	18183
+"TZA"	19	"United Republic of Tanzania"	3	"Other wooded land"	2000	14901
+"TZA"	19	"United Republic of Tanzania"	3	"Other wooded land"	2010	11619
+"TZA"	19	"United Republic of Tanzania"	0	"Forest"	2010	33428
+"TZA"	19	"United Republic of Tanzania"	2	"Other land"	2005	39875
+"TZA"	19	"United Republic of Tanzania"	2	"Other land"	2010	43533
+"TZA"	19	"United Republic of Tanzania"	1	"Inland water"	2005	6150
+"TZA"	19	"United Republic of Tanzania"	1	"Inland water"	2000	6150
+"TZA"	19	"United Republic of Tanzania"	1	"Inland water"	2010	6150
+"USA"	200	"United States of America"	1	"Inland water"	1990	47011
+"USA"	200	"United States of America"	2	"Other land"	2010	597238
+"USA"	200	"United States of America"	2	"Other land"	1990	604924
+"USA"	200	"United States of America"	0	"Forest"	2000	300195
+"USA"	200	"United States of America"	1	"Inland water"	2000	47011
+"USA"	200	"United States of America"	1	"Inland water"	2010	47011
+"USA"	200	"United States of America"	3	"Other wooded land"	2000	14933
+"USA"	200	"United States of America"	2	"Other land"	2000	601065
+"USA"	200	"United States of America"	3	"Other wooded land"	2005	14933
+"USA"	200	"United States of America"	0	"Forest"	2005	302108
+"USA"	200	"United States of America"	1	"Inland water"	2005	47011
+"USA"	200	"United States of America"	3	"Other wooded land"	1990	14933
+"USA"	200	"United States of America"	2	"Other land"	2005	599151
+"USA"	200	"United States of America"	0	"Forest"	2010	304022
+"USA"	200	"United States of America"	0	"Forest"	1990	296335
+"USA"	200	"United States of America"	3	"Other wooded land"	2010	14933
+"VIR"	202	"United States Virgin Islands"	0	"Forest"	1990	23.58
+"VIR"	202	"United States Virgin Islands"	1	"Inland water"	1990	0
+"VIR"	202	"United States Virgin Islands"	3	"Other wooded land"	2000	0
+"VIR"	202	"United States Virgin Islands"	1	"Inland water"	2010	0
+"VIR"	202	"United States Virgin Islands"	0	"Forest"	2000	21.91
+"VIR"	202	"United States Virgin Islands"	3	"Other wooded land"	1990	0
+"VIR"	202	"United States Virgin Islands"	1	"Inland water"	2005	0
+"VIR"	202	"United States Virgin Islands"	3	"Other wooded land"	2010	0
+"VIR"	202	"United States Virgin Islands"	2	"Other land"	1990	11.06
+"VIR"	202	"United States Virgin Islands"	1	"Inland water"	2000	0
+"VIR"	202	"United States Virgin Islands"	2	"Other land"	2010	14.4
+"VIR"	202	"United States Virgin Islands"	0	"Forest"	2005	21.07
+"VIR"	202	"United States Virgin Islands"	3	"Other wooded land"	2005	0
+"VIR"	202	"United States Virgin Islands"	2	"Other land"	2005	13.57
+"VIR"	202	"United States Virgin Islands"	0	"Forest"	2010	20.23
+"VIR"	202	"United States Virgin Islands"	2	"Other land"	2000	12.73
+"URY"	217	"Uruguay"	1	"Inland water"	2005	120
+"URY"	217	"Uruguay"	0	"Forest"	2010	1744
+"URY"	217	"Uruguay"	0	"Forest"	2000	1412
+"URY"	217	"Uruguay"	3	"Other wooded land"	2010	4
+"URY"	217	"Uruguay"	2	"Other land"	1990	16578
+"URY"	217	"Uruguay"	3	"Other wooded land"	1990	4
+"URY"	217	"Uruguay"	2	"Other land"	2000	16086
+"URY"	217	"Uruguay"	3	"Other wooded land"	2000	4
+"URY"	217	"Uruguay"	1	"Inland water"	2000	120
+"URY"	217	"Uruguay"	1	"Inland water"	1990	120
+"URY"	217	"Uruguay"	0	"Forest"	1990	920
+"URY"	217	"Uruguay"	2	"Other land"	2005	15978
+"URY"	217	"Uruguay"	1	"Inland water"	2010	120
+"URY"	217	"Uruguay"	0	"Forest"	2005	1520
+"URY"	217	"Uruguay"	2	"Other land"	2010	15754
+"URY"	217	"Uruguay"	3	"Other wooded land"	2005	4
+"UZB"	170	"Uzbekistan"	0	"Forest"	2005	3295
+"UZB"	170	"Uzbekistan"	0	"Forest"	2000	3212
+"UZB"	170	"Uzbekistan"	2	"Other land"	1990	38188.9
+"UZB"	170	"Uzbekistan"	1	"Inland water"	1990	2200
+"UZB"	170	"Uzbekistan"	2	"Other land"	2005	38341
+"UZB"	170	"Uzbekistan"	3	"Other wooded land"	2000	1594.7
+"UZB"	170	"Uzbekistan"	2	"Other land"	2000	37733.3
+"UZB"	170	"Uzbekistan"	1	"Inland water"	2000	2200
+"UZB"	170	"Uzbekistan"	0	"Forest"	1990	3045
+"UZB"	170	"Uzbekistan"	3	"Other wooded land"	2005	904
+"UZB"	170	"Uzbekistan"	3	"Other wooded land"	2010	874
+"UZB"	170	"Uzbekistan"	1	"Inland water"	2010	2200
+"UZB"	170	"Uzbekistan"	3	"Other wooded land"	1990	1306.1
+"UZB"	170	"Uzbekistan"	2	"Other land"	2010	38390.5
+"UZB"	170	"Uzbekistan"	1	"Inland water"	2005	2200
+"UZB"	170	"Uzbekistan"	0	"Forest"	2010	3275.5
+"VUT"	122	"Vanuatu"	0	"Forest"	2000	440
+"VUT"	122	"Vanuatu"	3	"Other wooded land"	1990	476
+"VUT"	122	"Vanuatu"	2	"Other land"	2005	304
+"VUT"	122	"Vanuatu"	3	"Other wooded land"	2000	476
+"VUT"	122	"Vanuatu"	1	"Inland water"	1990	0
+"VUT"	122	"Vanuatu"	1	"Inland water"	2000	0
+"VUT"	122	"Vanuatu"	0	"Forest"	1990	440
+"VUT"	122	"Vanuatu"	3	"Other wooded land"	2005	476
+"VUT"	122	"Vanuatu"	2	"Other land"	2000	304
+"VUT"	122	"Vanuatu"	2	"Other land"	1990	304
+"VUT"	122	"Vanuatu"	0	"Forest"	2010	440
+"VUT"	122	"Vanuatu"	3	"Other wooded land"	2010	476
+"VUT"	122	"Vanuatu"	1	"Inland water"	2010	0
+"VUT"	122	"Vanuatu"	1	"Inland water"	2005	0
+"VUT"	122	"Vanuatu"	0	"Forest"	2005	440
+"VUT"	122	"Vanuatu"	2	"Other land"	2010	304
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	2	"Other land"	2005	33123
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	1	"Inland water"	1990	3000
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	3	"Other wooded land"	1990	7526
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	2	"Other land"	1990	28653
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	1	"Inland water"	2000	3000
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	3	"Other wooded land"	2005	7369
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	2	"Other land"	2000	31633
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	0	"Forest"	2000	49151
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	0	"Forest"	1990	52026
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	3	"Other wooded land"	2000	7421
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	3	"Other wooded land"	2010	7317
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	1	"Inland water"	2010	3000
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	0	"Forest"	2010	46275
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	1	"Inland water"	2005	3000
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	0	"Forest"	2005	47713
+"VEN"	214	"Venezuela (Bolivarian Republic of)"	2	"Other land"	2010	34613
+"VNM"	79	"Viet Nam"	1	"Inland water"	1990	1924
+"VNM"	79	"Viet Nam"	2	"Other land"	2005	16139
+"VNM"	79	"Viet Nam"	3	"Other wooded land"	2005	1791
+"VNM"	79	"Viet Nam"	3	"Other wooded land"	2000	1816
+"VNM"	79	"Viet Nam"	2	"Other land"	2000	17466
+"VNM"	79	"Viet Nam"	3	"Other wooded land"	1990	0
+"VNM"	79	"Viet Nam"	0	"Forest"	1990	9363
+"VNM"	79	"Viet Nam"	1	"Inland water"	2005	1924
+"VNM"	79	"Viet Nam"	3	"Other wooded land"	2010	1124
+"VNM"	79	"Viet Nam"	2	"Other land"	1990	21644
+"VNM"	79	"Viet Nam"	1	"Inland water"	2000	1924
+"VNM"	79	"Viet Nam"	0	"Forest"	2000	11725
+"VNM"	79	"Viet Nam"	1	"Inland water"	2010	1924
+"VNM"	79	"Viet Nam"	0	"Forest"	2010	13797
+"VNM"	79	"Viet Nam"	0	"Forest"	2005	13077
+"VNM"	79	"Viet Nam"	2	"Other land"	2010	16087
+"WLF"	4922016	"Wallis and Futuna Islands"	2	"Other land"	2005	6.48
+"WLF"	4922016	"Wallis and Futuna Islands"	3	"Other wooded land"	1990	2.08
+"WLF"	4922016	"Wallis and Futuna Islands"	1	"Inland water"	1990	0
+"WLF"	4922016	"Wallis and Futuna Islands"	1	"Inland water"	2000	0
+"WLF"	4922016	"Wallis and Futuna Islands"	3	"Other wooded land"	2005	1.67
+"WLF"	4922016	"Wallis and Futuna Islands"	3	"Other wooded land"	2000	1.81
+"WLF"	4922016	"Wallis and Futuna Islands"	3	"Other wooded land"	2010	1.53
+"WLF"	4922016	"Wallis and Futuna Islands"	2	"Other land"	1990	6.11
+"WLF"	4922016	"Wallis and Futuna Islands"	0	"Forest"	1990	5.81
+"WLF"	4922016	"Wallis and Futuna Islands"	1	"Inland water"	2005	0
+"WLF"	4922016	"Wallis and Futuna Islands"	0	"Forest"	2000	5.83
+"WLF"	4922016	"Wallis and Futuna Islands"	2	"Other land"	2000	6.36
+"WLF"	4922016	"Wallis and Futuna Islands"	0	"Forest"	2010	5.86
+"WLF"	4922016	"Wallis and Futuna Islands"	0	"Forest"	2005	5.85
+"WLF"	4922016	"Wallis and Futuna Islands"	1	"Inland water"	2010	0
+"WLF"	4922016	"Wallis and Futuna Islands"	2	"Other land"	2010	6.61
+"ESH"	4054	"Western Sahara"	1	"Inland water"	1990	0
+"ESH"	4054	"Western Sahara"	2	"Other land"	2000	25893
+"ESH"	4054	"Western Sahara"	3	"Other wooded land"	2000	0
+"ESH"	4054	"Western Sahara"	3	"Other wooded land"	2005	0
+"ESH"	4054	"Western Sahara"	2	"Other land"	2005	25893
+"ESH"	4054	"Western Sahara"	2	"Other land"	1990	25893
+"ESH"	4054	"Western Sahara"	3	"Other wooded land"	2010	0
+"ESH"	4054	"Western Sahara"	1	"Inland water"	2005	0
+"ESH"	4054	"Western Sahara"	1	"Inland water"	2010	0
+"ESH"	4054	"Western Sahara"	0	"Forest"	2010	707
+"ESH"	4054	"Western Sahara"	1	"Inland water"	2000	0
+"ESH"	4054	"Western Sahara"	3	"Other wooded land"	1990	0
+"ESH"	4054	"Western Sahara"	0	"Forest"	2000	707
+"ESH"	4054	"Western Sahara"	2	"Other land"	2010	25893
+"ESH"	4054	"Western Sahara"	0	"Forest"	2005	707
+"ESH"	4054	"Western Sahara"	0	"Forest"	1990	707
+"YEM"	101	"Yemen"	3	"Other wooded land"	2005	1406
+"YEM"	101	"Yemen"	2	"Other land"	1990	50842
+"YEM"	101	"Yemen"	0	"Forest"	2000	549
+"YEM"	101	"Yemen"	1	"Inland water"	2010	0
+"YEM"	101	"Yemen"	3	"Other wooded land"	2000	1406
+"YEM"	101	"Yemen"	1	"Inland water"	2005	0
+"YEM"	101	"Yemen"	3	"Other wooded land"	2010	1406
+"YEM"	101	"Yemen"	0	"Forest"	2010	549
+"YEM"	101	"Yemen"	3	"Other wooded land"	1990	1406
+"YEM"	101	"Yemen"	1	"Inland water"	1990	0
+"YEM"	101	"Yemen"	0	"Forest"	2005	549
+"YEM"	101	"Yemen"	2	"Other land"	2000	50842
+"YEM"	101	"Yemen"	1	"Inland water"	2000	0
+"YEM"	101	"Yemen"	2	"Other land"	2010	50842
+"YEM"	101	"Yemen"	2	"Other land"	2005	50842
+"YEM"	101	"Yemen"	0	"Forest"	1990	549
+"ZMB"	20	"Zambia"	0	"Forest"	2000	51134
+"ZMB"	20	"Zambia"	1	"Inland water"	2005	922
+"ZMB"	20	"Zambia"	3	"Other wooded land"	1990	5943
+"ZMB"	20	"Zambia"	2	"Other land"	1990	15596
+"ZMB"	20	"Zambia"	1	"Inland water"	1990	922
+"ZMB"	20	"Zambia"	1	"Inland water"	2010	922
+"ZMB"	20	"Zambia"	3	"Other wooded land"	2000	6009
+"ZMB"	20	"Zambia"	1	"Inland water"	2000	922
+"ZMB"	20	"Zambia"	0	"Forest"	2005	50301
+"ZMB"	20	"Zambia"	3	"Other wooded land"	2010	6075
+"ZMB"	20	"Zambia"	3	"Other wooded land"	2005	6042
+"ZMB"	20	"Zambia"	2	"Other land"	2005	17996
+"ZMB"	20	"Zambia"	2	"Other land"	2010	18796
+"ZMB"	20	"Zambia"	0	"Forest"	2010	49468
+"ZMB"	20	"Zambia"	0	"Forest"	1990	52800
+"ZMB"	20	"Zambia"	2	"Other land"	2000	17196
+"ZWE"	21	"Zimbabwe"	0	"Forest"	2000	18894
+"ZWE"	21	"Zimbabwe"	3	"Other wooded land"	1990	0
+"ZWE"	21	"Zimbabwe"	0	"Forest"	2005	17259
+"ZWE"	21	"Zimbabwe"	2	"Other land"	2010	23061
+"ZWE"	21	"Zimbabwe"	2	"Other land"	2000	19791
+"ZWE"	21	"Zimbabwe"	1	"Inland water"	2000	391
+"ZWE"	21	"Zimbabwe"	1	"Inland water"	1990	391
+"ZWE"	21	"Zimbabwe"	1	"Inland water"	2005	391
+"ZWE"	21	"Zimbabwe"	3	"Other wooded land"	2005	0
+"ZWE"	21	"Zimbabwe"	2	"Other land"	2005	21426
+"ZWE"	21	"Zimbabwe"	3	"Other wooded land"	2000	0
+"ZWE"	21	"Zimbabwe"	0	"Forest"	2010	15624
+"ZWE"	21	"Zimbabwe"	1	"Inland water"	2010	391
+"ZWE"	21	"Zimbabwe"	0	"Forest"	1990	22164
+"ZWE"	21	"Zimbabwe"	2	"Other land"	1990	16521
+"ZWE"	21	"Zimbabwe"	3	"Other wooded land"	2010	0

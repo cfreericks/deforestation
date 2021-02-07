@@ -1,0 +1,201 @@
+"COUNTRY"	"UNSDCODE"	"SOLIDFUELUSE.2010"
+"Afghanistan"	4	85
+"Albania"	8	39
+"Algeria"	12	5
+"Andorra"	20	5
+"Angola"	24	55
+"Antigua and Barbuda"	28	5
+"Argentina"	32	5
+"Armenia"	51	19
+"Australia"	36	5
+"Austria"	40	5
+"Azerbaijan"	31	7
+"Bahamas"	44	5
+"Bahrain"	48	5
+"Bangladesh"	50	91
+"Barbados"	52	5
+"Belarus"	112	5
+"Belgium"	56	5
+"Belize"	84	12
+"Benin"	204	91
+"Bermuda"	60	" "
+"Bhutan"	64	40
+"Bolivia"	68	29
+"Bosnia and Herzegovina"	70	45
+"Botswana"	72	37
+"Brazil"	76	6
+"Brunei Darussalam"	96	5
+"Bulgaria"	100	14
+"Burkina Faso"	854	92
+"Burundi"	108	95
+"Cambodia"	116	89
+"Cameroon"	120	75
+"Canada"	124	5
+"Cape Verde"	132	32
+"Cayman Islands"	136	" "
+"Central African Republic"	140	95
+"Chad"	148	88
+"Channel Islands"	830	" "
+"Chile"	152	6
+"China"	156	46
+"Colombia"	170	14
+"Comoros"	174	71
+"Congo"	178	77
+"Cook Islands"	184	5
+"Costa Rica"	188	6
+"Cote d'Ivoire"	384	78
+"Croatia"	191	8
+"Cuba"	192	9
+"Cyprus"	196	5
+"Czech Republic"	203	5
+"Democratic Republic of the Congo"	180	93
+"Denmark"	208	5
+"Djibouti"	262	13
+"Dominica"	212	5
+"Dominican Republic"	214	7
+"Ecuador"	218	5
+"Egypt"	818	5
+"El Salvador"	222	22
+"Equatorial Guinea"	226	51
+"Eritrea"	232	60
+"Estonia"	233	11
+"Ethiopia"	231	95
+"Fiji"	242	37
+"Finland"	246	5
+"France"	250	5
+"Gabon"	266	26
+"Gambia"	270	91
+"Georgia"	268	46
+"Germany"	276	5
+"Ghana"	288	84
+"Greece"	300	5
+"Greenland"	304	" "
+"Grenada"	308	5
+"Guatemala"	320	57
+"Guinea"	324	95
+"Guinea-Bissau"	624	95
+"Guyana"	328	7
+"Haiti"	332	91
+"Honduras"	340	51
+"Hungary"	348	5
+"Iceland"	352	5
+"India"	356	58
+"Indonesia"	360	55
+"Iran (Islamic Republic of)"	364	5
+"Iraq"	368	5
+"Ireland"	372	5
+"Israel"	376	5
+"Italy"	380	5
+"Jamaica"	388	11
+"Japan"	392	5
+"Jordan"	400	5
+"Kazakhstan"	398	9
+"Kenya"	404	80
+"Kiribati"	296	80
+"Korea, Democratic People's Republic of"	408	91
+"Korea, Republic of"	410	5
+"Kuwait"	414	5
+"Kyrgyzstan"	417	34
+"Lao People's Democratic Republic"	418	95
+"Latvia"	428	5
+"Lebanon"	422	5
+"Lesotho"	426	61
+"Liberia"	430	95
+"Libyan Arab Jamahiriya"	434	5
+"Liechtenstein"	438	" "
+"Lithuania"	440	21
+"Luxembourg"	442	5
+"Madagascar"	450	95
+"Malawi"	454	95
+"Malaysia"	458	5
+"Maldives"	462	8
+"Mali"	466	95
+"Malta"	470	5
+"Marshall Islands"	584	32
+"Mauritania"	478	58
+"Mauritius"	480	5
+"Mexico"	484	14
+"Micronesia, Federated States of"	583	41
+"Monaco"	492	5
+"Mongolia"	496	72
+"Montenegro"	499	28
+"Morocco"	504	5
+"Mozambique"	508	95
+"Myanmar"	104	92
+"Namibia"	516	55
+"Nauru"	520	5
+"Nepal"	524	82
+"Netherlands"	528	5
+"New Zealand"	554	5
+"Nicaragua"	558	54
+"Niger"	562	95
+"Nigeria"	566	74
+"Niue"	570	5
+"Norway"	578	5
+"Oman"	512	5
+"Pakistan"	586	64
+"Palau"	585	5
+"Panama"	591	18
+"Papua New Guinea"	598	73
+"Paraguay"	600	49
+"Peru"	604	36
+"Philippines"	608	50
+"Poland"	616	5
+"Portugal"	620	5
+"Puerto Rico"	630	" "
+"Qatar"	634	5
+"Republic of Moldova"	498	11
+"Romania"	642	17
+"Russian Federation"	643	5
+"Rwanda"	646	95
+"Saint Kitts and Nevis"	659	56
+"Saint Lucia"	662	5
+"Saint Vincent and the Grenadines"	670	5
+"Samoa"	882	53
+"San Marino"	674	5
+"Sao Tome and Principe"	678	71
+"Saudi Arabia"	682	5
+"Senegal"	686	51
+"Serbia"	688	32
+"Seychelles"	690	5
+"Sierra Leone"	694	95
+"Singapore"	702	5
+"Slovakia"	703	5
+"Slovenia"	705	5
+"Solomon Islands"	90	90
+"Somalia"	706	95
+"South Africa"	710	15
+"Spain"	724	5
+"Sri Lanka"	144	75
+"Sudan (former)"	736	79
+"Suriname"	740	12
+"Swaziland"	748	55
+"Sweden"	752	5
+"Switzerland"	756	5
+"Syrian Arab Republic"	760	5
+"Tajikistan"	762	34
+"Thailand"	764	26
+"The former Yugoslav Republic of Macedonia"	807	33
+"Timor-Leste"	626	92
+"Togo"	768	94
+"Tokelau"	772	" "
+"Tonga"	776	43
+"Trinidad and Tobago"	780	5
+"Tunisia"	788	5
+"Turkey"	792	5
+"Turkmenistan"	795	5
+"Tuvalu"	798	19
+"Uganda"	800	95
+"Ukraine"	804	5
+"United Arab Emirates"	784	5
+"United Kingdom"	826	5
+"United Republic of Tanzania"	834	94
+"United States"	840	5
+"Uruguay"	858	5
+"Uzbekistan"	860	11
+"Vanuatu"	548	84
+"Venezuela"	862	5
+"Viet Nam"	704	56
+"Yemen"	887	33
+"Zambia"	894	83
+"Zimbabwe"	716	66

@@ -1,0 +1,235 @@
+"ISO3"	"COUNTRY"	"FRANUMCODE"	"UNSDNUMCODE"	"FAOSTATCODE"
+"ABW"	"Aruba"	7656243	533	22
+"AFG"	"Afghanistan"	86	4	2
+"AGO"	"Angola"	13	24	7
+"AIA"	"Anguilla"	7656221	660	258
+"ALB"	"Albania"	144	8	3
+"AND"	"Andorra"	80	20	6
+"ANT"	"Netherlands Antilles"	194	530	151
+"ARE"	"United Arab Emirates"	100	784	225
+"ARG"	"Argentina"	215	32	9
+"ARM"	"Armenia"	156	51	1
+"ASM"	"American Samoa"	109	16	5
+"ATG"	"Antigua and Barbuda"	179	28	8
+"AUS"	"Australia"	123	36	10
+"AUT"	"Austria"	129	40	11
+"AZE"	"Azerbaijan"	157	31	52
+"BDI"	"Burundi"	4	108	29
+"BEL"	"Belgium"	130	56	255
+"BEN"	"Benin"	55	204	53
+"BFA"	"Burkina Faso"	63	854	233
+"BGD"	"Bangladesh"	31	50	16
+"BGR"	"Bulgaria"	146	100	27
+"BHR"	"Bahrain"	87	48	13
+"BHS"	"Bahamas"	180	44	12
+"BIH"	"Bosnia and Herzegovina"	145	70	80
+"BLM"	"Saint Barthelemy"	643000373	652	
+"BLR"	"Belarus"	158	112	57
+"BLZ"	"Belize"	171	84	23
+"BMU"	"Bermuda"	182	60	
+"BOL"	"Bolivia, Plurinational State of"	205	68	19
+"BRA"	"Brazil"	206	76	21
+"BRB"	"Barbados"	181	52	14
+"BRN"	"Brunei Darussalam"	81	96	26
+"BTN"	"Bhutan"	32	64	18
+"BWA"	"Botswana"	14	72	20
+"CAF"	"Central African Republic"	6	140	37
+"CAN"	"Canada"	203	124	33
+"CHE"	"Switzerland"	142	757	211
+"CHL"	"Chile"	216	152	40
+"CHN"	"China"	102	156	351
+"CIV"	"Cote d'Ivoire"	75	384	107
+"CMR"	"Cameroon"	5	120	32
+"COD"	"Congo, The Democratic Republic of the"	12	180	250
+"COG"	"Congo"	7	178	46
+"COK"	"Cook Islands"	110	184	47
+"COL"	"Colombia"	207	170	44
+"COM"	"Comoros"	22	174	45
+"CPV"	"Cape Verde"	64	132	35
+"CRI"	"Costa Rica"	172	188	48
+"CUB"	"Cuba"	185	192	49
+"CYM"	"Cayman Islands"	184	136	36
+"CYP"	"Cyprus"	88	196	50
+"CZE"	"Czech Republic"	148	203	167
+"DEU"	"Germany"	134	276	79
+"DJI"	"Djibouti"	72	262	72
+"DMA"	"Dominica"	186	212	55
+"DNK"	"Denmark"	132	208	54
+"DOM"	"Dominican Republic"	187	214	56
+"DZA"	"Algeria"	45	12	4
+"ECU"	"Ecuador"	208	218	58
+"EGY"	"Egypt"	53	818	59
+"ERI"	"Eritrea"	62	232	178
+"ESH"	"Western Sahara"	4054	732	
+"ESP"	"Spain"	50	724	203
+"EST"	"Estonia"	159	233	63
+"ETH"	"Ethiopia"	60	231	238
+"FIN"	"Finland"	125	246	67
+"FJI"	"Fiji"	111	242	66
+"FLK"	"Falkland Islands (Malvinas)"	7653870	238	65
+"FRA"	"France"	133	251	68
+"FRO"	"Faroe Islands"	642354614	234	64
+"FSM"	"Micronesia, Federated States of"	4921994	583	145
+"GAB"	"Gabon"	9	266	74
+"GBR"	"United Kingdom"	143	826	229
+"GEO"	"Georgia"	160	268	73
+"GGY"	"Guernsey"	643000370	831	
+"GHA"	"Ghana"	76	288	81
+"GIB"	"Gibraltar"	7655146	292	82
+"GIN"	"Guinea"	77	324	90
+"GLP"	"Guadeloupe"	189	312	87
+"GMB"	"Gambia"	66	270	75
+"GNB"	"Guinea-Bissau"	67	624	175
+"GNQ"	"Equatorial Guinea"	8	226	61
+"GRC"	"Greece"	135	300	84
+"GRD"	"Grenada"	188	308	86
+"GRL"	"Greenland"	4103	304	85
+"GTM"	"Guatemala"	174	320	89
+"GUF"	"French Guiana"	209	254	69
+"GUM"	"Guam"	113	316	
+"GUY"	"Guyana"	210	328	91
+"HND"	"Honduras"	175	340	95
+"HRV"	"Croatia"	147	191	98
+"HTI"	"Haiti"	190	332	93
+"HUN"	"Hungary"	149	348	97
+"IDN"	"Indonesia"	82	360	101
+"IMN"	"Isle of Man"	7655849	833	
+"IND"	"India"	33	699	100
+"IRL"	"Ireland"	136	372	104
+"IRN"	"Iran, Islamic Republic of"	89	364	102
+"IRQ"	"Iraq"	90	368	103
+"ISL"	"Iceland"	127	352	99
+"ISR"	"Israel"	91	376	105
+"ITA"	"Italy"	137	381	106
+"JAM"	"Jamaica"	191	388	109
+"JEY"	"Jersey"	643000371	832	
+"JOR"	"Jordan"	92	400	112
+"JPN"	"Japan"	103	392	110
+"KAZ"	"Kazakhstan"	161	398	108
+"KEN"	"Kenya"	73	404	114
+"KGZ"	"Kyrgyzstan"	162	417	113
+"KHM"	"Cambodia"	38	116	115
+"KIR"	"Kiribati"	114	296	83
+"KNA"	"Saint Kitts and Nevis"	195	659	188
+"KOR"	"Korea, Republic of"	106	410	117
+"KWT"	"Kuwait"	93	414	118
+"LAO"	"Lao People's Democratic Republic"	39	418	120
+"LBN"	"Lebanon"	94	422	121
+"LBR"	"Liberia"	78	430	123
+"LBY"	"Libya"	58	434	124
+"LCA"	"Saint Lucia"	196	662	189
+"LIE"	"Liechtenstein"	138	438	125
+"LKA"	"Sri Lanka"	37	144	38
+"LSO"	"Lesotho"	27	426	122
+"LTU"	"Lithuania"	164	440	126
+"LUX"	"Luxembourg"	131	442	256
+"LVA"	"Latvia"	163	428	119
+"MAF"	"Saint Martin (French part)"	643000375	663	
+"MAR"	"Morocco"	57	504	143
+"MCO"	"Monaco"	7655168	492	
+"MDA"	"Moldova, Republic of"	165	498	146
+"MDG"	"Madagascar"	23	450	129
+"MDV"	"Maldives"	34	462	132
+"MEX"	"Mexico"	176	484	138
+"MHL"	"Marshall Islands"	5293301	584	
+"MKD"	"Macedonia, The Former Yugoslav Republic of"	151	807	154
+"MLI"	"Mali"	68	466	133
+"MLT"	"Malta"	139	470	134
+"MMR"	"Myanmar"	40	104	28
+"MNE"	"Montenegro"	643000290	499	273
+"MNG"	"Mongolia"	107	496	141
+"MNP"	"Northern Mariana Islands"	5293394	580	
+"MOZ"	"Mozambique"	16	508	144
+"MRT"	"Mauritania"	69	478	136
+"MSR"	"Montserrat"	193	500	
+"MTQ"	"Martinique"	192	474	135
+"MUS"	"Mauritius"	24	480	137
+"MWI"	"Malawi"	15	454	130
+"MYS"	"Malaysia"	83	458	131
+"MYT"	"Mayotte"	7661379	175	270
+"NAM"	"Namibia"	17	516	147
+"NCL"	"New Caledonia"	115	540	153
+"NER"	"Niger"	70	562	158
+"NFK"	"Norfolk Island"	643000372	574	161
+"NGA"	"Nigeria"	1	566	159
+"NIC"	"Nicaragua"	177	558	157
+"NIU"	"Niue"	116	570	160
+"NLD"	"Netherlands"	140	528	150
+"NOR"	"Norway"	126	579	162
+"NPL"	"Nepal"	35	524	149
+"NRU"	"Nauru"	5293372	520	148
+"NZL"	"New Zealand"	124	554	156
+"OMN"	"Oman"	95	512	221
+"PAK"	"Pakistan"	36	586	165
+"PAN"	"Panama"	178	591	166
+"PCN"	"Pitcairn"	7661984	612	
+"PER"	"Peru"	212	604	170
+"PHL"	"Philippines"	84	608	171
+"PLW"	"Palau"	5294032	585	180
+"PNG"	"Papua New Guinea"	118	598	168
+"POL"	"Poland"	150	616	173
+"PRI"	"Puerto Rico"	7665786	630	
+"PRK"	"Korea, Democratic People's Republic of"	105	408	116
+"PRT"	"Portugal"	141	620	174
+"PRY"	"Paraguay"	211	600	169
+"PSE"	"Palestinian Territory, Occupied"	6008	275	
+"PYF"	"French Polynesia"	112	258	70
+"QAT"	"Qatar"	96	634	179
+"REU"	"Reunion"	25	638	182
+"ROU"	"Romania"	152	642	183
+"RUS"	"Russian Federation"	166	643	185
+"RWA"	"Rwanda"	10	646	184
+"SAU"	"Saudi Arabia"	97	682	194
+"SDN"	"Sudan"	74	736	206
+"SEN"	"Senegal"	71	686	195
+"SGP"	"Singapore"	85	702	200
+"SHN"	"Saint Helena, Ascension and Tristan da Cunha"	18	654	187
+"SJM"	"Svalbard and Jan Mayen"	643000374	744	
+"SLB"	"Solomon Islands"	120	90	25
+"SLE"	"Sierra Leone"	2	694	197
+"SLV"	"El Salvador"	173	222	60
+"SMR"	"San Marino"	7655310	674	
+"SOM"	"Somalia"	46	706	201
+"SPM"	"Saint Pierre and Miquelon"	197	666	190
+"SRB"	"Serbia"	155	688	272
+"STP"	"Sao Tome and Principe"	11	678	193
+"SUR"	"Suriname"	213	740	207
+"SVK"	"Slovakia"	153	703	199
+"SVN"	"Slovenia"	154	705	198
+"SWE"	"Sweden"	128	752	210
+"SWZ"	"Swaziland"	29	748	209
+"SYC"	"Seychelles"	26	690	196
+"SYR"	"Syrian Arab Republic"	98	760	212
+"TCA"	"Turks and Caicos Islands"	7665808	796	224
+"TCD"	"Chad"	65	148	39
+"TGO"	"Togo"	3	768	217
+"THA"	"Thailand"	41	764	216
+"TJK"	"Tajikistan"	167	762	208
+"TKL"	"Tokelau"	642354615	772	
+"TKM"	"Turkmenistan"	168	795	213
+"TLS"	"Timor-Leste"	7655420	626	176
+"TON"	"Tonga"	121	776	219
+"TTO"	"Trinidad and Tobago"	199	780	220
+"TUN"	"Tunisia"	54	788	222
+"TUR"	"Turkey"	99	792	223
+"TUV"	"Tuvalu"	4921972	798	227
+"TZA"	"Tanzania, United Republic of"	19	834	215
+"UGA"	"Uganda"	56	800	226
+"UKR"	"Ukraine"	169	804	230
+"URY"	"Uruguay"	217	858	234
+"USA"	"United States"	200	842	231
+"UZB"	"Uzbekistan"	170	860	235
+"VAT"	"Holy See (Vatican City State)"	7657948	336	
+"VCT"	"Saint Vincent and the Grenadines"	198	670	191
+"VEN"	"Venezuela, Bolivarian Republic of"	214	862	236
+"VGB"	"Virgin Islands, British"	183	92	239
+"VIR"	"Virgin Islands, U.S."	202	850	240
+"VNM"	"Viet Nam"	79	704	237
+"VUT"	"Vanuatu"	122	548	155
+"WLF"	"Wallis and Futuna"	4922016	876	243
+"WSM"	"Samoa"	119	882	244
+"YEM"	"Yemen"	101	887	249
+"ZAF"	"South Africa"	28	710	202
+"ZMB"	"Zambia"	20	894	251
+"ZWE"	"Zimbabwe"	21	716	181
+"SCG"	"Serbia and Montenegro"		891	186

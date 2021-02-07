@@ -1,0 +1,221 @@
+"COUNTRY"	"COUNTRYCODE"	"TRADEFLOW"	"YEAR"	"ANNUALTOTAL"
+"Afghanistan"	4	"Exports"	2010	388483635
+"Albania"	8	"Exports"	2010	1549955724
+"Algeria"	12	"Exports"	2010	57050973573
+"American Samoa"	16	"Exports"	2010	480000000
+"Andorra"	20	"Exports"	2010	53839154
+"Angola"	24	"Exports"	2010	46491500000
+"Anguilla"	660	"Exports"	2010	12429951
+"Antigua and Barbuda"	28	"Exports"	2010	34825900
+"Argentina"	32	"Exports"	2010	68187227424
+"Armenia"	51	"Exports"	2010	1011424747
+"Aruba"	533	"Exports"	2010	124489246
+"Australia"	36	"Exports"	2010	212364382224
+"Austria"	40	"Exports"	2010	144882002012
+"Azerbaijan"	31	"Exports"	2010	21278419980
+"Bahamas"	44	"Exports"	2010	620143299
+"Bahrain"	48	"Exports"	2010	16059213418
+"Bangladesh"	50	"Exports"	2010	14194541577
+"Barbados"	52	"Exports"	2010	428979000
+"Belarus"	112	"Exports"	2010	25225864400
+"Belgium"	56	"Exports"	2010	411084820412
+"Belize"	84	"Exports"	2010	282039532
+"Benin"	204	"Exports"	2010	434473748
+"Bermuda"	60	"Exports"	2010	32000000
+"Bhutan"	64	"Exports"	2010	413482438
+"Bolivia"	68	"Exports"	2010	6965357279
+"Bosnia Herzegovina"	70	"Exports"	2010	4803107191
+"Botswana"	72	"Exports"	2010	4693238100
+"Br. Virgin Isds"	92	"Exports"	2010	"N/A"
+"Brazil"	76	"Exports"	2010	197356436225
+"Brunei Darussalam"	96	"Exports"	2010	8907954399
+"Bulgaria"	100	"Exports"	2010	20608005156
+"Burkina Faso"	854	"Exports"	2010	1203015895
+"Burundi"	108	"Exports"	2010	118157916
+"Cambodia"	116	"Exports"	2010	5590104093
+"Cameroon"	120	"Exports"	2010	3878432844
+"Canada"	124	"Exports"	2010	386579899704
+"Cape Verde"	132	"Exports"	2010	46557965
+"Cayman Isds"	136	"Exports"	2010	13320000
+"Central African Rep."	140	"Exports"	2010	139355872
+"Chad"	148	"Exports"	2010	3410504698
+"Chile"	152	"Exports"	2010	70894425543
+"China"	156	"Exports"	2010	1577763750888
+"China, Hong Kong SAR"	344	"Exports"	2010	400692015208
+"China, Macao SAR"	446	"Exports"	2010	869752702
+"Colombia"	170	"Exports"	2010	39819528642
+"Comoros"	174	"Exports"	2010	18017374
+"Congo"	178	"Exports"	2010	8192355467
+"Cook Isds"	184	"Exports"	2010	5163780
+"Costa Rica"	188	"Exports"	2010	9342880000
+"Côte d'Ivoire"	384	"Exports"	2010	10283508506
+"Croatia"	191	"Exports"	2010	11810676241
+"Cuba"	192	"Exports"	2010	4945264531
+"Cyprus"	196	"Exports"	2010	1506457953
+"Czech Rep."	203	"Exports"	2010	132140913815
+"Dem. People's Rep. of Korea"	408	"Exports"	2010	"N/A"
+"Dem.Rep. of the Congo"	180	"Exports"	2010	5400000000
+"Denmark"	208	"Exports"	2010	96499371553
+"Djibouti"	262	"Exports"	2010	100000052
+"Dominica"	212	"Exports"	2010	34115972
+"Dominican Rep."	214	"Exports"	2010	4766733677
+"Ecuador"	218	"Exports"	2010	17489921736
+"Egypt"	818	"Exports"	2010	26331836029
+"El Salvador"	222	"Exports"	2010	4499243252
+"Equatorial Guinea"	226	"Exports"	2010	9964035858
+"Eritrea"	232	"Exports"	2010	"N/A"
+"Estonia"	233	"Exports"	2010	12811364478
+"Ethiopia"	231	"Exports"	2010	2329792821
+"EU-27"	97	"Exports"	2010	1795774424806
+"Faeroe Isds"	234	"Exports"	2010	817358000
+"Falkland Isds (Malvinas)"	238	"Exports"	2010	"N/A"
+"Fiji"	242	"Exports"	2010	846623523
+"Finland"	246	"Exports"	2010	70116501475
+"France"	251	"Exports"	2010	511651042741
+"French Polynesia"	258	"Exports"	2010	153190887
+"FS Micronesia"	583	"Exports"	2010	"N/A"
+"Gabon"	266	"Exports"	2010	8374331136
+"Gambia"	270	"Exports"	2010	15033238
+"Georgia"	268	"Exports"	2010	1583337030
+"Germany"	276	"Exports"	2010	1271096328740
+"Ghana"	288	"Exports"	2010	5233390055
+"Gibraltar"	292	"Exports"	2010	258566744
+"Greece"	300	"Exports"	2010	21749990420
+"Greenland"	304	"Exports"	2010	"N/A"
+"Grenada"	308	"Exports"	2010	24158346
+"Guam"	316	"Exports"	2010	"N/A"
+"Guatemala"	320	"Exports"	2010	8460152695
+"Guinea"	324	"Exports"	2010	1450000000
+"Guinea-Bissau"	624	"Exports"	2010	118070938
+"Guyana"	328	"Exports"	2010	900754248
+"Haiti"	332	"Exports"	2010	579174028
+"Honduras"	340	"Exports"	2010	2711960000
+"Hungary"	348	"Exports"	2010	94748737000
+"Iceland"	352	"Exports"	2010	4603089478
+"India"	699	"Exports"	2010	220408495991
+"Indonesia"	360	"Exports"	2010	157779103470
+"Iran"	364	"Exports"	2010	100900000000
+"Iraq"	368	"Exports"	2010	20015004301
+"Ireland"	372	"Exports"	2010	118337540301
+"Israel"	376	"Exports"	2010	58413028000
+"Italy"	381	"Exports"	2010	446839829715
+"Jamaica"	388	"Exports"	2010	1327601926
+"Japan"	392	"Exports"	2010	769773832480
+"Jordan"	400	"Exports"	2010	7023137455
+"Kazakhstan"	398	"Exports"	2010	57244063938
+"Kenya"	404	"Exports"	2010	5169111916
+"Kiribati"	296	"Exports"	2010	"N/A"
+"Kuwait"	414	"Exports"	2010	66042424727
+"Kyrgyzstan"	417	"Exports"	2010	1488400507
+"Lao People's Dem. Rep."	418	"Exports"	2010	1746370000
+"Latvia"	428	"Exports"	2010	8850801231
+"Lebanon"	422	"Exports"	2010	5021000000
+"Lesotho"	426	"Exports"	2010	801264049
+"Liberia"	430	"Exports"	2010	"N/A"
+"Libya"	434	"Exports"	2010	46016135400
+"Lithuania"	440	"Exports"	2010	20813922632
+"Luxembourg"	442	"Exports"	2010	13911259203
+"Madagascar"	450	"Exports"	2010	1082167741
+"Malawi"	454	"Exports"	2010	1066203666
+"Malaysia"	458	"Exports"	2010	198790690678
+"Maldives"	462	"Exports"	2010	73980100
+"Mali"	466	"Exports"	2010	2248050488
+"Malta"	470	"Exports"	2010	3716753993
+"Marshall Isds"	584	"Exports"	2010	"N/A"
+"Mauritania"	478	"Exports"	2010	1798689090
+"Mauritius"	480	"Exports"	2010	1849522324
+"Mayotte"	175	"Exports"	2010	"N/A"
+"Mexico"	484	"Exports"	2010	298305075136
+"Mongolia"	496	"Exports"	2010	2899200000
+"Montenegro"	499	"Exports"	2010	436575412
+"Montserrat"	500	"Exports"	2010	1099108
+"Morocco"	504	"Exports"	2010	17764791264
+"Mozambique"	508	"Exports"	2010	2243068881
+"Myanmar"	104	"Exports"	2010	8748675240
+"N. Mariana Isds"	580	"Exports"	2010	"N/A"
+"Namibia"	516	"Exports"	2010	4096144636
+"Nauru"	520	"Exports"	2010	"N/A"
+"Nepal"	524	"Exports"	2010	834016695
+"Neth. Antilles"	530	"Exports"	2010	800000000
+"Netherlands"	528	"Exports"	2010	492645871626
+"New Caledonia"	540	"Exports"	2010	1271850000
+"New Zealand"	554	"Exports"	2010	30931877693
+"Nicaragua"	558	"Exports"	2010	1847628973
+"Niger"	562	"Exports"	2010	483502133
+"Nigeria"	566	"Exports"	2010	86567912529
+"Niue"	570	"Exports"	2010	"N/A"
+"Norfolk Isds"	574	"Exports"	2010	"N/A"
+"Norway"	579	"Exports"	2010	130656792431
+"Occ. Palestinian Terr."	275	"Exports"	2010	575512917
+"Oman"	512	"Exports"	2010	36599577120
+"Pakistan"	586	"Exports"	2010	21413102681
+"Palau"	585	"Exports"	2010	"N/A"
+"Panama"	591	"Exports"	2010	10986602587
+"Papua New Guinea"	598	"Exports"	2010	5973414361
+"Paraguay"	600	"Exports"	2010	4533755690
+"Peru"	604	"Exports"	2010	35205067795
+"Philippines"	608	"Exports"	2010	51431703405
+"Pitcairn"	612	"Exports"	2010	"N/A"
+"Poland"	616	"Exports"	2010	157064948463
+"Portugal"	620	"Exports"	2010	48743551855
+"Qatar"	634	"Exports"	2010	74799650475
+"Rep. of Korea"	410	"Exports"	2010	466380619660
+"Rep. of Moldova"	498	"Exports"	2010	1541486761
+"Romania"	642	"Exports"	2010	49413386103
+"Russian Federation"	643	"Exports"	2010	400100000000
+"Rwanda"	646	"Exports"	2010	237815232
+"Saint Helena"	654	"Exports"	2010	"N/A"
+"Saint Kitts and Nevis"	659	"Exports"	2010	45063288
+"Saint Lucia"	662	"Exports"	2010	228280883
+"Saint Pierre and Miquelon"	666	"Exports"	2010	"N/A"
+"Saint Vincent and the Grenadines"	670	"Exports"	2010	41515805
+"Samoa"	882	"Exports"	2010	59514213
+"Sao Tome and Principe"	678	"Exports"	2010	6381277
+"Saudi Arabia"	682	"Exports"	2010	251143033395
+"Senegal"	686	"Exports"	2010	2088090187
+"Serbia"	688	"Exports"	2010	9794515799
+"Seychelles"	690	"Exports"	2010	400208653
+"Sierra Leone"	694	"Exports"	2010	244743035
+"Singapore"	702	"Exports"	2010	351867167059
+"Slovakia"	703	"Exports"	2010	63998612526
+"Slovenia"	705	"Exports"	2010	24434752222
+"Solomon Isds"	90	"Exports"	2010	221486320
+"Somalia"	706	"Exports"	2010	"N/A"
+"South Africa"	710	"Exports"	2010	81821575163
+"Spain"	724	"Exports"	2010	246265330443
+"Sri Lanka"	144	"Exports"	2010	8304051802
+"Sudan"	736	"Exports"	2010	10500000000
+"Suriname"	740	"Exports"	2010	2025566568
+"Swaziland"	748	"Exports"	2010	"N/A"
+"Sweden"	752	"Exports"	2010	158410621989
+"Switzerland"	757	"Exports"	2010	195609280170
+"Syria"	760	"Exports"	2010	12304301808
+"Tajikistan"	762	"Exports"	2010	1206100000
+"TFYR of Macedonia"	807	"Exports"	2010	3351429481
+"Thailand"	764	"Exports"	2010	195311520256
+"Timor-Leste"	626	"Exports"	2010	24096757
+"Togo"	768	"Exports"	2010	"N/A"
+"Tokelau"	772	"Exports"	2010	"N/A"
+"Tonga"	776	"Exports"	2010	8257026
+"Trinidad and Tobago"	780	"Exports"	2010	10981679472
+"Tunisia"	788	"Exports"	2010	16426570438
+"Turkey"	792	"Exports"	2010	113979451826
+"Turkmenistan"	795	"Exports"	2010	"N/A"
+"Turks and Caicos Isds"	796	"Exports"	2010	15583660
+"Tuvalu"	798	"Exports"	2010	"N/A"
+"Uganda"	800	"Exports"	2010	1618603260
+"Ukraine"	804	"Exports"	2010	51430285576
+"United Arab Emirates"	784	"Exports"	2010	198362000000
+"United Kingdom"	826	"Exports"	2010	405868895413
+"United Rep. of Tanzania"	834	"Exports"	2010	4050546445
+"Uruguay"	858	"Exports"	2010	6707130000
+"USA"	842	"Exports"	2010	1277109161855
+"Uzbekistan"	860	"Exports"	2010	"N/A"
+"Vanuatu"	548	"Exports"	2010	46174039
+"Venezuela"	862	"Exports"	2010	66962672650
+"Viet Nam"	704	"Exports"	2010	72236665000
+"Wallis and Futuna Isds"	876	"Exports"	2010	"N/A"
+"Western Sahara"	732	"Exports"	2010	"N/A"
+"Yemen"	887	"Exports"	2010	8497128649
+"Zambia"	894	"Exports"	2010	7200267057
+"Zimbabwe"	716	"Exports"	2010	3199231156

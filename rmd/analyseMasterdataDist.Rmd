@@ -1,0 +1,271 @@
+---
+title: "Exploring the distribution of considered variables"
+output: pdf_document
+---
+
+Paket moments fuer skewness und kurtosis benoetigt
+
+```{r }
+# Load libraries ----------------------------------------------------------
+library(here)
+library(moments)
+```
+
+
+```{r}
+# Load data ---------------------------------------------------------------
+infile <- here("data", "processed", "MASTERDATA2.csv")
+masterdata <- read.table(infile
+                         , header = TRUE
+                         , sep = "\t"
+                         , quote = "\"'"
+                         , dec = "."
+                         , check.names = TRUE
+                         , na.strings = c("NA", "#VALUE!")
+)
+```
+
+## Missing observations
+
+Complete.cases gibt Zeilenzahl zurueck, fuer alle Faelle, die kein NA enthalten
+
+```{r }
+table(complete.cases(masterdata))
+```
+
+Complete.cases ohne BIOENDIFF.00.09.rel, FOREXSHAREDIF.00.10 und CPI2012
+
+```{r }
+table(complete.cases(masterdata[,-c(11,14,17)]))
+```
+
+Alle Faelle, die mind. 1 NA enthalten in neues df schreiben
+
+```{r }
+masterdata.na <- masterdata[rowSums(is.na(masterdata)) > 0,]
+```
+
+Gibt Zahl der verbleibenden Faelle (n) zurueck, sofern Faelle mit mind. i NAs ausgeschlossen werden
+Bsp.: i = 1, n = 106 -> 106 Faelle verbleiben, die keine NAs haben (complete cases)
+
+```{r }
+for (i in 0:17){
+n <- nrow(masterdata) - nrow(masterdata[rowSums(is.na(masterdata)) > i,])
+print(c(i, n))
+}
+```
+
+Anzahl NAs je Spalte
+
+```{r }
+na.table <- sapply(masterdata, function(x) sum(is.na(x)))
+na.table <- data.frame(Variable = names(na.table), COUNTNA = na.table)
+```
+
+Subset mit allen Faellen, in denen ANDIFF.00.10.rel (y) gleich 0 ist
+
+```{r }
+masterdata.ynull <- (masterdata[masterdata$ANDIFF.00.10.rel == 0,])
+```
+
+Fallweiser Ausschluss, d.h. jedes Land, welches mindestens einen fehlenden
+Wert für eine Variable enthält, wird aus dem Datensatz ausgeschlossen.
+Es werden alle Variablen beibehalten
+(cc = complete cases, cc)
+
+```{r }
+masterdata.cc <- masterdata[rowSums(is.na(masterdata)) == 0,]
+```
+
+Scatterplot-Matrix ueber alle 15 Variablen (alle Var gegeneinander)
+
+```{r }
+pairs(masterdata.cc[3:17])
+```
+Aus Scatterplot lässt sich kaum etwas erkennen; 
+Boxplot aller 15 Variablen in einer Plotmatrix
+
+```{r }
+ for (i in 3:17) {
+   boxplot(masterdata.cc[, i],
+           main = dimnames(masterdata.cc)[[2]][i],
+           horizontal = TRUE)
+ }
+```
+
+Histogramme aller 15 Variablen, inkl. Schiefe + Kurtosis in einer Plotmatrix
+
+```{r}
+
+for (i in 3:17) {
+  skew <- format(skewness(masterdata.cc[, i], na.rm = TRUE),
+                 scientific = FALSE,
+                 digits = 2
+                 )
+  
+  hist(masterdata.cc[, i],
+       main = dimnames(masterdata.cc)[[2]][i],
+       freq = TRUE,
+       xlab = paste("Schiefe: ", skew , sep = "")
+       )
+  
+}
+```
+
+Fuenf groesste und kleinste Beobachtungen der kritischen Variablen (d.h. vermutete Ausreisser)
+
+```{r }
+cases <- c(4, 5, 6, 11, 12, 13, 14, 15, 16)
+
+for (j in cases) {
+  print(head(masterdata.cc[order(masterdata.cc[, j], decreasing = TRUE), 
+                           c(1, 2, j)]))
+  print(tail(masterdata.cc[order(masterdata.cc[, j], decreasing = TRUE), 
+                           c(1, 2, j)]))
+}
+```
+
+## Setting outliers to NA
+
+CROPAREADIF.00.10 > 40
+
+```{r }
+masterdata.nooutlier <- masterdata.cc
+masterdata.nooutlier[masterdata.nooutlier$CROPAREADIF.00.10 > 40, 4] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,4], decreasing = TRUE),c(1,2,4)])
+table(is.na(masterdata.nooutlier[,4]))
+```
+
+MEADOWAREADIF.00.10 > 10 und < -10
+
+```{r }
+masterdata.nooutlier[masterdata.nooutlier$MEADOWAREADIF.00.10 > 10, 5] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,5], decreasing = TRUE),c(1,2,5)])
+
+masterdata.nooutlier[masterdata.nooutlier$MEADOWAREADIF.00.10 < -10 
+                     & !is.na(masterdata.nooutlier$MEADOWAREADIF.00.10), 5] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,5], decreasing = TRUE),c(1,2,5)])
+table(is.na(masterdata.nooutlier[,5]))
+```
+
+CATT.DIFF.00.10.rel > 50 und < -50
+
+```{r }
+masterdata.nooutlier[masterdata.nooutlier$CATT.DIFF.00.10.rel > 50, 6] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,6], decreasing = TRUE),c(1,2,6)])
+
+masterdata.nooutlier[masterdata.nooutlier$CATT.DIFF.00.10.rel < -50 
+                     & !is.na(masterdata.nooutlier$CATT.DIFF.00.10.rel), 6] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,6], decreasing = TRUE),c(1,2,6)])
+table(is.na(masterdata.nooutlier[,6]))
+```
+
+BIOENDIFF.00.09.rel > 100 und < -40
+
+```{r }
+masterdata.nooutlier[masterdata.nooutlier$BIOENDIFF.00.09.rel > 100, 11] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,11], decreasing = TRUE),c(1,2,11)])
+
+masterdata.nooutlier[masterdata.nooutlier$BIOENDIFF.00.09.rel < -40 
+                     & !is.na(masterdata.nooutlier$BIOENDIFF.00.09.rel), 11] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,11], decreasing = TRUE),c(1,2,11)])
+table(is.na(masterdata.nooutlier[,11]))
+```
+
+FUELSHAREDIF.00.10 > 20 und < -20
+
+```{r }
+masterdata.nooutlier[masterdata.nooutlier$FUELSHAREDIF.00.10 > 20, 12] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,12], decreasing = TRUE),c(1,2,12)])
+
+masterdata.nooutlier[masterdata.nooutlier$FUELSHAREDIF.00.10 < -20 
+                     & !is.na(masterdata.nooutlier$FUELSHAREDIF.00.10), 12] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,12], decreasing = TRUE),c(1,2,12)])
+table(is.na(masterdata.nooutlier[,12]))
+```
+
+FOREXSHAREDIF.00.10 > 5 und < -4
+
+```{r }
+masterdata.nooutlier[masterdata.nooutlier$FOREXSHAREDIF.00.10 > 5, 14] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,14], decreasing = TRUE),c(1,2,14)])
+
+masterdata.nooutlier[masterdata.nooutlier$FOREXSHAREDIF.00.10 < -4 
+                     & !is.na(masterdata.nooutlier$FOREXSHAREDIF.00.10), 14] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,14], decreasing = TRUE),c(1,2,14)])
+table(is.na(masterdata.nooutlier[,14]))
+```
+
+ROAD.CHANGE.00.10.rel > 10 und < -10
+
+```{r }
+head(masterdata.nooutlier[order(masterdata.nooutlier[,15], decreasing = TRUE),c(1,2,15)])
+
+masterdata.nooutlier[masterdata.nooutlier$ROAD.CHANGE.00.10.rel < -10 
+                     & !is.na(masterdata.nooutlier$ROAD.CHANGE.00.10.rel), 15] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,15], decreasing = TRUE),c(1,2,15)])
+table(is.na(masterdata.nooutlier[,15]))
+```
+
+GDPGROWTHAV.00.10 > 12 und < -1
+
+```{r }
+masterdata.nooutlier[masterdata.nooutlier$GDPGROWTHAV.00.10 > 12, 16] <- NA
+head(masterdata.nooutlier[order(masterdata.nooutlier[,16], decreasing = TRUE),c(1,2,16)])
+
+masterdata.nooutlier[masterdata.nooutlier$GDPGROWTHAV.00.10 < -1 
+                     & !is.na(masterdata.nooutlier$GDPGROWTHAV.00.10), 16] <- NA
+tail(masterdata.nooutlier[order(masterdata.nooutlier[,16], decreasing = TRUE),c(1,2,16)])
+table(is.na(masterdata.nooutlier[,16]))
+```
+
+Ausreisser aus Datensatz ausschliessen
+
+```{r }
+table(complete.cases(masterdata.nooutlier))
+masterdata.nooutlier <- masterdata.nooutlier[rowSums(is.na(masterdata.nooutlier)) == 0,]
+```
+
+Scatterplot-Matrix ueber alle 15 Variablen (alle Var gegeneinander)
+
+```{r }
+pairs(masterdata.nooutlier[3:17])
+```
+
+Boxplot aller 15 Variablen in einer Plotmatrix
+
+```{r }
+layout(matrix(1:16, nrow = 4))
+for (i in 3:17){
+  boxplot(masterdata.nooutlier[,i], 
+          main = dimnames(masterdata.nooutlier)[[2]][i], 
+          horizontal = TRUE)} 
+```
+
+Histogramme aller 15 Variablen, inkl. Schiefe + Kurtosis in einer Plotmatrix
+
+```{r }
+layout(matrix(1:16,4,4))
+for(i in 3:17){
+  skew <- format(skewness(masterdata.nooutlier[,i], na.rm = TRUE), scientific = FALSE, digits = 2)
+  kurt <- format(kurtosis(masterdata.nooutlier[,i], na.rm = TRUE), scientific = FALSE, digits = 2)
+  hist(masterdata.nooutlier[,i], main=dimnames(masterdata.nooutlier)[[2]][i], freq = TRUE
+       , xlab = paste("Schiefe: ", skew, ", Kurtosis: ", kurt, sep=""))
+} 
+```
+
+Q-Q-Norm-Plots aller 15 Variablen in einer Plotmatrix
+
+```{r }
+old.par <- par( no.readonly = TRUE )
+par( oma = c( 0, 0, 3, 0 ) )
+
+layout(matrix(1:16,4,4))
+for(i in 3:17){
+  x <- masterdata.nooutlier[,i]
+  main <- dimnames(masterdata.nooutlier)[[2]][i]
+  qqnorm(x, main = main); qqline(x)  
+} 
+mtext("Normal Q-Q Plots", outer = TRUE, cex = 1.5)
+par( old.par )
+```
