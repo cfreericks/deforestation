@@ -1,6 +1,6 @@
 ---
 title: "Exploring the distribution of considered variables"
-output: pdf_document
+output: html_document
 ---
 
 Paket moments fuer skewness und kurtosis benoetigt
