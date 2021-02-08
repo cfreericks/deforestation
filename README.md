@@ -1,6 +1,6 @@
 # Global patterns of deforestation
 
-| :warning: WARNING: This repository is deprecated and not maintained! |
+| :no_entry: WARNING: This repository is deprecated and not maintained! |
 | --- |
 
 ## Background
